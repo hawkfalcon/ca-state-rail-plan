@@ -1,0 +1,15 @@
+{
+  "route_layers": 74,
+  "goal_layers": 70,
+  "existing_amtrak_routes": 4,
+  "cities_hubs": 97,
+  "horizon_records": 210,
+  "delivery_priorities": 25,
+  "capital_rows": 180,
+  "briefing_pages": 4,
+  "unique_ids": true,
+  "source_links": true,
+  "valid_geometries": true,
+  "pdf_text_within_page_bounds": true,
+  "svg_export_well_formed": true
+}

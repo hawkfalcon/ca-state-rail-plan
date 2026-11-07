@@ -1,0 +1,21 @@
+{
+  "explanation": "Only independent narrative fields changed. Equal evidence hashes include geometry, frequencies, source citations, original capital names and costs.",
+  "files": {
+    "network.json": {
+      "evidence_hash_before": "d9fbad29624f4a01fddecc629468d760eeaa27c3366ca69e7645e588100d4a0e",
+      "evidence_hash_after": "d9fbad29624f4a01fddecc629468d760eeaa27c3366ca69e7645e588100d4a0e",
+      "unchanged": true
+    },
+    "network-geo.json": {
+      "evidence_hash_before": "527c2a590efee8d7ceb080d5396a06957b056c5e12c43df7b0b9bbd4220c867d",
+      "evidence_hash_after": "527c2a590efee8d7ceb080d5396a06957b056c5e12c43df7b0b9bbd4220c867d",
+      "unchanged": true
+    },
+    "projects.json": {
+      "evidence_hash_before": "f8573a66d77fda4b6866f0693f773f5bc642582b19344213c0a59c43f1b3ae8f",
+      "evidence_hash_after": "f8573a66d77fda4b6866f0693f773f5bc642582b19344213c0a59c43f1b3ae8f",
+      "unchanged": true
+    }
+  },
+  "original_capital_register_sha256": "be5456f8bf4728919af8bd711cf7de21f0c7c55d4e2ca1b66884ac9c9c39b32a"
+}

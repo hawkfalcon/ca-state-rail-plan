@@ -1,0 +1,172 @@
+{
+  "note": "Independent explanatory copy for the atlas. These fields are not quotations from Caltrans. Original capital-register wording, estimates, service goals, source citations and geometry are not edited here.",
+  "projects": {
+    "stockton": {
+      "name": "Stockton rail crossing",
+      "unlock": "At Stockton, two freight railroads cross at the same level. Separating that crossing would reduce conflicts between trains and provide capacity for freight and the planned passenger services.",
+      "ask": "Which passenger and freight services does the design accommodate? Ask how the project changes the number of available train paths and the reliability of the timetable."
+    },
+    "merced": {
+      "name": "Merced rail interchange",
+      "unlock": "Passengers from Sacramento and the Bay Area would change at Merced for the initial high-speed line. Short walks between platforms and well-timed departures would help preserve the journey-time savings of high-speed rail.",
+      "ask": "How far will passengers walk, how long will they wait, and what happens if the arriving train is late? These questions need agreement between the connecting operators before the station layout is fixed."
+    },
+    "central-hsr": {
+      "name": "Merced–Bakersfield high-speed rail",
+      "unlock": "The mid-term plan proposes hourly high-speed trains between Merced and Bakersfield. Conventional trains and buses would connect other parts of the state to that initial line.",
+      "ask": "Which items must be ready before passenger service can begin? The delivery plan needs to cover power, signaling, trains, testing, maintenance and connections, as well as the track and structures."
+    },
+    "portal": {
+      "name": "The Portal: downtown San Francisco",
+      "unlock": "The Portal would extend Peninsula trains to Salesforce Transit Center. Its design also matters to the longer-term proposal for trains to continue across the Bay.",
+      "ask": "How does the station and approach design accommodate the proposed transbay service? Ask which decisions are needed now to keep that later connection feasible."
+    },
+    "mega-corridor": {
+      "name": "Sacramento–Bay Area rail corridor",
+      "unlock": "The plan combines a second standard-gauge Bay crossing with Carquinez capacity, electrification, shoreline protection and service to Roseville. Each addresses a different constraint on the proposed Sacramento–San Francisco–San Jose service.",
+      "ask": "What service could run at each stage, and which agencies are responsible for the connections between projects? The $57 billion appendix entry covers a corridor package, not the Bay tunnel alone."
+    },
+    "link-us": {
+      "name": "Through-running at LA Union Station",
+      "unlock": "Trains currently enter and leave Union Station through the same end. Through tracks would allow services to continue south without reversing, changing how regional and intercity routes can connect.",
+      "ask": "Which routes would continue through the station, and what platforms and trains would they use? Review the operating plan alongside the wider Burbank–Anaheim corridor."
+    },
+    "san-clemente": {
+      "name": "San Clemente coastal rail resilience",
+      "unlock": "Erosion and unstable slopes can interrupt the coastal railway between Los Angeles and San Diego. Immediate stabilization and long-term adaptation address different time scales; the service plan depends on both.",
+      "ask": "What protection is proposed now, and which longer-term alternatives remain under study? Compare their effects on outages, climate exposure, neighboring communities and the environment."
+    },
+    "del-mar": {
+      "name": "Del Mar rail realignment",
+      "unlock": "A long-term realignment could move the railway away from the eroding bluffs and address a capacity constraint. Until then, stabilization is still needed to maintain the existing route.",
+      "ask": "How do the alternatives compare on coastal risk, passenger and freight capacity, environmental effects and community impacts? Keep those trade-offs visible during the review."
+    },
+    "high-desert": {
+      "name": "High Desert high-speed connection",
+      "unlock": "The proposed line between Palmdale and Victor Valley would connect California high-speed rail with the Las Vegas corridor. That connection would provide an alternative to traveling through central Los Angeles.",
+      "ask": "When would the two connecting systems be ready, and which trains could use the link? The design needs agreement on power, train compatibility and operating arrangements."
+    },
+    "north-bay": {
+      "name": "North Bay–Solano rail connection",
+      "unlock": "An east–west route would connect the SMART corridor with statewide trains at Suisun–Fairfield. The long-term network also shows branches toward Napa and Vallejo.",
+      "ask": "Which service pattern is being studied, and what work is needed for stations, railroad access and the marshland crossing? Consider those requirements together rather than as separate projects."
+    },
+    "valley-rail": {
+      "name": "Valley Rail connections to Merced",
+      "unlock": "The southern expansion would extend regional rail toward Merced. In the mid-term plan, regional and intercity trains together provide an hourly Sacramento–Merced corridor connection to high-speed rail.",
+      "ask": "How will the timetable and station layout work at Merced? Ask which track work, trains, crews and recurring operating funds are needed for the connecting service."
+    },
+    "smart": {
+      "name": "SMART extension to Healdsburg",
+      "unlock": "The plan extends the North Bay regional route to Healdsburg, with a later hourly extension to Cloverdale. Bus and ferry connections affect the range of journeys passengers could make.",
+      "ask": "What operating support is needed after construction, and how will trains connect with buses and the Larkspur ferry? Include safe, accessible routes to the stations in the delivery plan."
+    },
+    "coast": {
+      "name": "Central Coast intercity service",
+      "unlock": "The long-term plan proposes hourly Gilroy–Salinas trains, connections to Monterey and Santa Cruz, and four-hourly intercity service from Salinas to San Luis Obispo. Those services would supplement the existing long-distance train.",
+      "ask": "What track, station, maintenance and railroad-access work is needed for the proposed timetable? The $58 million Salinas entry is one part of that program, not the cost of the whole corridor."
+    },
+    "coast-resilience": {
+      "name": "Santa Barbara and Ventura rail capacity",
+      "unlock": "Sidings and additional track would provide more opportunities for trains to pass on the coastal route. The proposed service also depends on keeping the railway usable as coastal conditions change.",
+      "ask": "Which timetable is the capacity work designed to support, and how does it relate to coastal adaptation? The plan's conflicting 30- and 60-minute long-term descriptions should be resolved in service planning."
+    },
+    "hsr-phase1": {
+      "name": "California high-speed rail: Phase 1",
+      "unlock": "Phase 1 would link the Bay Area, Central Valley and Los Angeles/Anaheim by high-speed rail. Connections to conventional trains would extend the range of journeys served by the line.",
+      "ask": "Which services could begin at each stage, and what other works must be ready? The appendix's Phase 1 figure is a program estimate, not an estimate of the funding still required."
+    },
+    "brightline": {
+      "name": "Las Vegas–Rancho Cucamonga connection",
+      "unlock": "The 2024 plan proposes an hourly Las Vegas connection in the near and mid terms, increasing to half-hourly in the long term. Rancho Cucamonga is the connection to Southern California regional rail.",
+      "ask": "How will passengers transfer at Rancho Cucamonga, and how will schedules, fares and information fit together? Check current delivery schedules separately from this 2024 planning horizon."
+    },
+    "north-valley": {
+      "name": "Sacramento–Chico regional rail",
+      "unlock": "The long-term plan proposes a regional train every two hours between Sacramento and Chico, with connecting buses toward Redding. This is a different service from the existing Coast Starlight.",
+      "ask": "What stations, passing tracks and layover facilities would the timetable require? Ask how access to the freight-owned railway and recurring service costs would be agreed."
+    },
+    "valley-link": {
+      "name": "Valley Link and the Tri-Valley connection",
+      "unlock": "The proposed regional line would connect BART at Dublin/Pleasanton with Mountain House, then North Lathrop in the long term. Transfers would connect it to the wider Valley rail network.",
+      "ask": "Which journeys would each stage serve, and how would passengers transfer to BART and Valley Rail? Review station access and the connecting timetable alongside the proposed construction sequence."
+    },
+    "cross-valley": {
+      "name": "Lemoore–Porterville regional rail",
+      "unlock": "An hourly regional service would connect communities east and west of the high-speed station at Kings–Tulare. The quality of the interchange would affect the usefulness of journeys beyond the Valley.",
+      "ask": "How would passengers transfer at Kings–Tulare? The service plan should identify the track, signaling, maintenance and local-access work needed for the connecting trains."
+    },
+    "antelope": {
+      "name": "Antelope Valley line improvements",
+      "unlock": "Track, terminal and signaling work supports the plan's half-hourly service between Santa Clarita and Los Angeles and hourly service north to Lancaster. Different parts of the route have different frequency targets.",
+      "ask": "Which timetable does each improvement make possible? Check the train and crew requirements and the proposed connections through Union Station, not just the construction schedule."
+    },
+    "inland": {
+      "name": "Inland Empire regional and high-speed rail",
+      "unlock": "The long-term plan combines regional stopping services with a faster, blended high-speed service. The corridor also connects with proposals toward Las Vegas, San Diego and Arizona.",
+      "ask": "How would regional, high-speed and freight trains share the corridor? Resolve the power, platform, track-capacity and operating requirements together."
+    },
+    "hsr-sac": {
+      "name": "High-speed rail to Sacramento",
+      "unlock": "The long-term plan adds half-hourly high-speed service to Sacramento alongside an hourly regional layer. The two services have different roles and should not be read as a single, evenly spaced timetable.",
+      "ask": "What changes would the electrified, shared corridor require? Ask how train paths, platforms, power and freight operations fit the statewide service plan."
+    },
+    "hsr-sd": {
+      "name": "Inland high-speed rail to San Diego",
+      "unlock": "A proposed half-hourly inland high-speed route would connect San Diego with Rancho Cucamonga and the wider network. It would complement rather than replace the coastal railway.",
+      "ask": "Which alternatives along the I-15 corridor are being studied, and what service would each support? The route still needs service planning, environmental review and a funding strategy."
+    },
+    "arizona": {
+      "name": "California–Arizona rail connection",
+      "unlock": "The long-term plan describes an hourly connection between Southern California and Arizona. An interstate service would require decisions that California agencies cannot make on their own.",
+      "ask": "Who would lead the interstate planning and operating agreements? Route alternatives, railroad access and a viable funding arrangement need to be established before the service can be specified."
+    },
+    "ports": {
+      "name": "Long Beach port rail capacity",
+      "unlock": "Port rail investments affect goods movement and the capacity available on shared inland routes. Freight operations are therefore part of the passenger network's capacity problem, not a separate issue.",
+      "ask": "What capacity and reliability improvements are expected for freight and passenger trains? Include community air quality, safety and equipment emissions in the assessment."
+    }
+  },
+  "corridors": {
+    "capitol": {
+      "why": "In the long-term plan, Sacramento–Oakland trains would run every half hour and continue through San Francisco toward San Jose. That service depends on more than the existing tracks between Sacramento and Oakland.",
+      "action": "Ask how work at Carquinez, the proposed Bay crossing and shoreline protection would be sequenced around the timetable. Each addresses a different constraint on the through service."
+    },
+    "north-valley": {
+      "why": "The long-term plan proposes regional rail between Sacramento and Chico, with buses continuing toward Redding. It would provide a more frequent regional connection than the existing long-distance train.",
+      "action": "The proposed timetable needs stations, passing tracks and layover facilities, as well as an agreement to use the freight-owned railway. Ask which of these requirements each project addresses."
+    },
+    "hsr-merced-madera": {
+      "why": "This part of the initial high-speed line meets conventional rail at Merced. Its value to passengers from Sacramento and the Bay Area depends partly on how the transfer works.",
+      "action": "Plan the trains, power, signaling and maintenance alongside the interchange. A completed line cannot provide the proposed connecting service unless those other elements are ready."
+    },
+    "hsr-valley-trunk": {
+      "why": "South of Madera, the long-term plan combines high-speed services into a frequent shared section. The frequency shown here applies to that combined section, not to every origin and destination.",
+      "action": "Ask which trains make up the proposed timetable and what power, signaling, fleet and maintenance capacity they require. Coordinate that work with the connecting stations."
+    },
+    "lossan-south": {
+      "why": "The plan increases the intercity service from hourly to half-hourly in the long term. That would give passengers more choice of departure time, provided the coastal railway remains reliable.",
+      "action": "Capacity improvements need to be planned with coastal resilience at San Clemente and Del Mar. The service also requires trains, crews and recurring operating funds after construction."
+    },
+    "brightline": {
+      "why": "The Las Vegas route connects to Southern California regional rail at Rancho Cucamonga. The long-term network would also connect it with California high-speed rail through the High Desert Corridor.",
+      "action": "Ask how passengers will change trains at Rancho Cucamonga and how schedules and fares will work together. The connecting systems need a shared service plan."
+    },
+    "high-desert": {
+      "why": "The proposed Palmdale–Victor Valley line would connect California high-speed rail with the Las Vegas corridor, avoiding a journey through central Los Angeles.",
+      "action": "Coordinate the connector's opening with the two systems it joins. Power, trains, stations and operating arrangements need to be compatible."
+    },
+    "san-bernardino": {
+      "why": "The plan proposes a regional train every half hour between Los Angeles and San Bernardino. At Rancho Cucamonga, passengers would be able to connect to the Las Vegas route.",
+      "action": "Relate additional track and platform work to the proposed timetable, and check the walking and waiting time for the connection at Rancho Cucamonga."
+    },
+    "sprinter": {
+      "why": "The Oceanside–Escondido service connects inland communities with coastal trains. A short wait at Oceanside would make the combined journey more useful than either service considered alone.",
+      "action": "Plan the fleet and track capacity around both the proposed frequency and the coastal connections. Include accessible routes between the connecting platforms."
+    },
+    "north-bay-east": {
+      "why": "This route would connect North Bay passengers with the statewide railway at Suisun–Fairfield, rather than requiring a road trip around the Bay.",
+      "action": "Develop the proposed timetable with the stations, marshland crossing and railroad-access arrangements it requires. Those decisions affect both cost and the service that could run."
+    }
+  }
+}

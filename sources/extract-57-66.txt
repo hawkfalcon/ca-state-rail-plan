@@ -1,0 +1,894 @@
+
+=== PRINT 50; PDF 57 ===
+CALTRANS, 2024 CALIFORNIA STATE RAIL PLAN
+50
+Chapter 4: Implementation
+4.1.  NETWORK PHASING
+The service and connectivity goals along with 
+corridor-level improvements required to deliver 
+the Rail Plan are described in the capital program 
+which is split into three phases: capital projects 
+identified for the next four years (2028); mid-range 
+needs identified for the next decade (2034); 
+and plans for long-range improvements and 
+investments by 2050.
+The capital project list directly supports the delivery 
+of the service goals identified in Chapter 2.  
+The capital program is derived from the service 
+goals which were developed through service-led 
+planning by corridor with close coordination with 
+rail partners. 
+Future Planning Studies
+Ongoing planning studies are important to ensure 
+the right investments are being made in the right 
+markets at the right time.  Consistent planning will 
+empower policymakers and regional stakeholders 
+through the iterative process of optimizing 
+current investments and scaling toward an 
+effective and integrated regional and statewide 
+network.  Other plans included in policy and 
+planning decision-making include CAPTI and the 
+Interregional Transportation Strategic Plan (ITSP).
+Near Term Investments
+The near-term capital program carries 
+approximately $18.9 billion of statewide 
+infrastructure investments.  Major projects 
+include initial Metrolink capacity-increasing 
+program investments, the expansion of SMART 
+to Healdsburg, the introduction of new services 
+in the Central Valley, and high-speed rail service 
+between Rancho Cucamonga and Las Vegas.  
+These represent major ongoing investments in 
+establishing the statewide passenger network.
+In addition to passenger rail projects, the Rail Plan 
+supports several freight-focused projects ranging 
+from grade separations, signal improvements, 
+track work, yard expansions, and staging tracks to 
+facilitate freight movements, to major investments 
+in port capacity and container handling at the 
+Ports of LA and Long Beach, Port of Hueneme, 
+and the Otay Mesa port of entry. 
+Near-term investments also include a significant 
+ramp-up in the State’s zero-emission transition to 
+decarbonize the intercity fleet and increase fleet 
+size to achieve the service goals in the mid-term.
+Mid Term Investments
+The mid-term capital program already carries 
+approximately $48.5 billion of statewide 
+investments.  Major projects include high-speed 
+rail connecting Bakersfield to Merced, the 
+Portal, LAUS initial run-through tracks, and major 
+capacity investments in Los Angeles County rail 
+capacity in preparation of full phase 1 high-speed 
+rail service.
+Long Term Investments
+The long-term capital program carries over $235 
+billion of statewide infrastructure investment 
+needs.  Major investments include high-speed 
+rail extensions to San Diego, the Inland Empire, 
+High Desert Corridor, and Sacramento as well as 
+a high-speed rail line to Arizona.  Concurrently, 
+the Rail Plan supports major projects to develop 
+a second transbay crossing connecting San 
+Francisco, the East Bay and Sacramento, 
+allowing electrified, standard-gauge rail service 
+for regional and intercity trains, major tunnel 
+projects in San Diego County along the coast, 
+and full build-out of regional transit networks and 
+connections to the fully integrated statewide 
+network. 
+The full capital program, including additional fleet 
+and grade separation investments, is available 
+in Appendix 2.
+4.2.  ECONOMIC BENEFITS
+Economic benefits accruing with implementation 
+of the Rail Plan include employment (measured 
+as person-years of full-time employment), 
+income (wages and salaries) associated with this 
+employment, and firm output (expenditures). 
+Improvements in California’s rail system are 
+investments that will be realized through greater 
+economic activity including new construction 
+and development, more jobs, and increased 
+tax revenues. 
+
+
+=== PRINT 51; PDF 58 ===
+CALTRANS, 2024 CALIFORNIA STATE RAIL PLAN
+51
+Chapter 4: Implementation
+Direct fiscal impacts of the capital investments are:
+• The $307 billion of direct expenditures
+identified in the Rail Plan will result in a total
+output for the economy of over $537 billion
+by 2050 – a payout of $1.75 for every dollar
+invested (See Appendix 2: Capital Projects)
+• The expenditures will result in a total
+employment impact across affected
+industries of over 900,000 full time jobs, and
+labor income of nearly $55 billion.
+• By 2050, state and local tax revenues
+anticipated from the expenditures will be
+close to $4 billion, and federal tax revenues
+will be $10.5 billion.  The tax impacts pertain
+to taxes for which revenues can be directly
+inferred from economic expenditures, such
+as sales or income taxes.
+• Continued operations and maintenance of
+the envisioned system is estimated to cost
+$2.4 billion per year.  These activities will
+permanently expand the workforce
+supported by the state’s rail network.
+• Additional positive fiscal impacts will benefit
+the state due to expanding connections
+available to each California resident by
+improving their mobility, or access.19
+• Improving the speed of travel and the
+number of statewide destinations available
+to a person at a given location, expands the
+number of opportunities they have access
+to, and this can increase economic activity.
+• The Transport Access Manual provides two
+measures for the benefits associated with
+improved access.20  The following are
+examples of these measures:
+ ƈ
+By reducing a trip time between two 
+locations in California from two hours 
+to one hour, the intercity customer’s 
+cost to access the breadth of the new 
+activities and opportunities around 
+them has been reduced by half.  
+19 
+https://humantransit.org/basics-access-or-the-wall-around-your-life 
+20 
+https://ses.library.usyd.edu.au/handle/2123/23733
+CALTRANS, 2024 CALIFORNIA STATE RAIL PLAN
+ ƈ
+Further, the efficiency with which the 
+person can access targeted essential 
+opportunities, goods, or services that 
+used to be located two hours away 
+has doubled because the travel time 
+has been reduced by half.
+4.3.  COORDINATION
+Caltrans has ongoing communication 
+and coordination with host railroads, JPAs, 
+commuter rail agencies and relevant state, 
+regional, and local rail, transit, and planning 
+agencies.  Coordination between agencies is 
+critical because implementing the 2050 vision is 
+incumbent upon railroad owners, operators, and 
+many other partners agreeing on investments, 
+priorities, processes, and implementation 
+approaches.  It is important to ensure the right 
+investments are being made in the right markets, 
+at the right time, to deliver the vision.
+Host Railroad Coordination
+In California, most passenger rail service is 
+operated on infrastructure owned by freight 
+railroads (or ‘host railroads’).  Freight railroads 
+deliver shareholder value by responding to 
+business opportunities.  They do this by increasing 
+efficiency and preserving network capacity to 
+accommodate growing freight traffic.  Passenger 
+rail service must not negatively impact the 
+core freight business or infringe on future freight 
+operations.
+In technical service and operations planning, 
+Caltrans considers the potential impacts of the 
+planned passenger rail service improvements 
+on railroad capacity, and access to yards and 
+customers.  Infrastructure investments necessary 
+for increased passenger train volumes will also 
+add capacity and flexibility to freight operations.  
+Caltrans’ articulation of future service goals and 
+implementation strategy, paired with increased 
+use of technical planning tools, provides a 
+technical foundation and venue for strategic 
+collaboration in implementation planning.
+
+
+=== PRINT 52; PDF 59 ===
+CALTRANS, 2024 CALIFORNIA STATE RAIL PLAN
+52
+Chapter 4: Implementation
+The State’s goal is to enable continued, market 
+responsive growth in goods movement by 
+freight rail, while providing for increased 
+passenger capacity.  This will be achieved 
+through early and continuous dialogue with 
+the freight railroad partners, and progressive 
+identification of shared opportunities.  In some 
+cases, ensuring capacity for passenger and 
+freight rail operations will be realized through 
+development of a shared track infrastructure 
+used by both freight and passenger trains.  
+In other cases, ensuring capacity for freight 
+will involve the development of largely 
+dedicated track for passenger and freight 
+trains in a shared right-of-way while retaining 
+the ability to share track under certain 
+conditions, or the development of separate 
+freight and passenge infrastructure.
+Ongoing Coordination
+Policymakers and rail partners participate in the 
+State’s iterative planning process to optimize 
+investments and to scale project delivery 
+toward an integrated statewide network.  For 
+example, California high-speed rail, which will 
+serve as the backbone of the statewide rail 
+transportation system, is planned, managed, 
+and delivered by the Authority; but, the planning 
+assumptions, timelines for completion, and many 
+other components must be integrated into the 
+statewide network design process.  In doing 
+so, high-speed rail parameters are considered 
+when designing service goals for the entire 
+state.  Supportive statewide investments can be 
+prioritized for completion in alignment with high-
+speed rail delivery timelines to facilitate timed 
+transfers and other complementary services that 
+will expand the benefits and impact of high-
+speed rail on day one of revenue operations. 
+Regular communication with partner agencies 
+is essential.  Close coordination ensures planning 
+efforts are aligned with the State-supported 
+service-led planning methodology that allows 
+for a transparent, documented, and shared 
+21 
+The service maps and goals show an hourly snapshot of service levels.  The hourly pulse is based on quarterly increments so 
+levels of service can increase or decrease to every two hours, or to half hourly, every-15 minutes, and so on.
+basis for planning.  With a shared planning basis, 
+assumptions and datasets across stakeholder 
+agencies and planning horizons are the 
+same, and it becomes easier for agencies 
+to coordinate.  The planning process allows 
+for stakeholder feedback during concept 
+development, and it helps to identify potential 
+conflicts early, which can avoid stranded 
+or redundant capital investments and other 
+inefficiencies.
+Utilizing a standard service planning 
+methodology offers a shared language to 
+facilitate coordination with partners.  Recently, 
+this was applied to coordinate with a new 
+partner to ensure services and schedules 
+were being planned consistently across the 
+state.  Caltrans staff engaged the Las Vegas to 
+Rancho Cucamonga high-speed rail project 
+when early versions of their service plan showed 
+20-minute headways – a misalignment from the 
+State’s hourly pulse schedule system.21  Through 
+discussion and collaboration with a unified front
+of state and regional partners, Brightline West, the
+project sponsor, modified its service plan to better
+integrate with the state network’s frequencies.
+This will have connectivity and ridership benefits
+for all systems.
+Challenges
+The State Rail Plan establishes a statewide vision 
+for integrated passenger rail; but delivering that 
+vision can be challenging when it must happen 
+within a complex governance structure that 
+includes many different public agencies and 
+private companies with differing goals, budgets, 
+and priorities.  For example, specifics about 
+project phasing and prioritization can sometimes 
+be at odds with local or regional transportation 
+priorities and plans.  While the various planning 
+documents may be overall supportive of the 
+same goals, differences in timelines and policy 
+guidance can create challenges for securing 
+funding and expediting delivery timelines. 
+
+
+=== PRINT 53; PDF 60 ===
+CALTRANS, 2024 CALIFORNIA STATE RAIL PLAN
+53
+Chapter 4: Implementation
+Additionally, funding programs continue to 
+be constrained.  While there has been historic 
+investment from the state over the past decade, 
+in addition to an influx of federal funding in the 
+last few years, there is still insufficient funding to 
+meet all the Rail Plan goals.  It can be challenging 
+building a funding plan with so many funding 
+sources that each have different rules and 
+regulations for how and when money can be 
+spent.  Finally, the existing rail network already 
+faces significant pressure to respond to climate 
+change – from mudslides and coastal erosion 
+to sea level rise and flooding events.  More 
+focus needs to be put on embedding climate 
+mitigation and adaptation components into 
+project planning, so projects deliver proactive 
+solutions for resiliency. 
+Opportunities
+One opportunity to improve coordination with 
+the various planning partners is participation in 
+the Federal CID Program.  The program offers 
+a framework for creating SDPs for intercity 
+passenger rail corridors and requires explicit 
+stakeholder coordination during the technical 
+planning process.  This facilitates consensus 
+building and utilization of shared methodologies 
+and inputs to help all partners work from a shared 
+understanding and build off that understanding 
+to make sound decisions. 
+The CID Program also requires a railroad 
+stakeholder engagement plan and an agency 
+coordination plan which will identify involvement 
+activities linked to key milestones in the planning/
+engineering and alternatives analysis process.  
+A goal of improved host railroad coordination 
+is to streamline the timelines for completing 
+each phase of a project from planning, through 
+project development, and finally construction.  
+By coordinating early, often, and within a 
+standardized framework with the host railroad 
+partners, project costs can be kept lower, 
+and project delivery timelines can be met.  
+Another opportunity to improve host railroad 
+coordination is through the initiation of a capital 
+access fee-based method of delivering new 
+or increased rail services, where passenger 
+rail operators become customers of the host 
+railroads and a new ‘customer service’ dynamic 
+is applied to on-time performance needs.  
+4.4.  CLIMATE RESILIENCY
+Impacts of Climate Change on the Rail 
+Network
+California is focused on both decarbonizing the 
+State’s rail system by planning and transitioning 
+to zero-emission fleets, as well as preparing for 
+sea level rise and other climate risks by increasing 
+resiliency in the network.
+California’s coast faces a crucial risk of 
+experiencing sea level rise of up to 1.0 feet by 
+2030 and 7.6 feet by 2100.  Many rail corridors 
+in California are at risk of disruption due to sea 
+level rise; some already experience flooding and 
+erosion every year that lead to costly delays 
+and repairs.  Vulnerable coastal zones, host to 
+essential statewide rail infrastructure, include 
+Santa Barbara, Orange, and San Diego counties; 
+as well as San Pablo Bay, Alviso Wetlands, and 
+Elkhorn Slough.
+The ownership, jurisdiction, and management of 
+the rail network in California is complex because 
+the infrastructure itself, owned by a collection of 
+public and private entities, crosses land owned 
+by or under the jurisdiction of multiple cities, 
+counties, and state and federal agencies, thus 
+exacerbating the challenges for mitigating 
+against and responding to sea level rise impacts. 
+Fortifying segments of the rail network in the near-
+term can help preserve the current function of 
+rail infrastructure from sea level rise, but long-term 
+adaptation planning is also needed to address 
+higher amounts of sea level rise and other climate 
+threats.  For example, sea level rise can lead to 
+flooding which can stop trains from running.  Flash 
+floods can lead to a washout of tracks and cause 
+derailments, which can cause track segments 
+to be impassable.  As sea levels rise, flooding will 
+become more frequent. 
+Additionally, increased rainfall intensity will further 
+the severity of flooding.  California continues to 
+reach record high summer temperatures and 
+successive years are expected to be hotter.  
+
+
+=== PRINT 54; PDF 61 ===
+CALTRANS, 2024 CALIFORNIA STATE RAIL PLAN
+54
+Chapter 4: Implementation
+Excessive summer temperatures can warp tracks 
+due to uneven thermal expansion, which can restrict 
+train speeds and cause derailments.  These climate 
+risks all represent the potential impacts the rail 
+network faces in the coming years.  To mitigate 
+these threats, California must follow the Ocean 
+Protection Council’s Sea Level Rise Guidance and 
+other related plans.  A changing climate can lead 
+to serious delays on railroads across California which 
+will result in a loss of economic efficiency and safety 
+while moving people, goods, and services.
+Sea Level Rise and Coastal Erosion
+California’s rail network, particularly along its 
+coastlines, is vulnerable to sea level rise and 
+coastal erosion.  According to the California 
+Coastal Commission’s Sea Level Rise Policy 
+Guidance (2018), sea levels along California’s 
+coast are projected to rise between 1.1 to 2.7 
+feet by 2050, with potential increases of 3.4 to 
+10.2 feet by 2100 if high GHG emissions continue.  
+This rise is primarily due to the thermal expansion 
+of seawater and melting ice caps.  Coastal 
+erosion, exacerbated by these rising sea levels, 
+threatens infrastructure directly adjacent to the 
+coast.  The State of California Sea-Level Rise 
+Guidance highlights regions at risk from these 
+processes, indicating that rail lines close to the 
+shore are particularly vulnerable to damage 
+from both chronic inundation and episodic storm 
+events.  These regions are primarily those in close 
+proximity to the coast, such as San Clemente 
+and the Del Mar Bluffs, or near bodies of water 
+whose water levels are directly impacted by the 
+ocean, such as San Pablo Bay.
+Natural Disasters and Flooding
+Natural disasters such as wildfires and floods are 
+becoming more frequent and severe as climate 
+change accelerates.  The California Climate 
+Change Assessment (2022), conducted by the 
+California Natural Resources Agency, forecasts an 
+increase in the intensity and frequency of wildfires, 
+which can directly damage rail infrastructure 
+through fires and smoke. 
+Flooding risks are also heightened.  The California 
+Flood Future Report (2013), published by the 
+California Department of Water Resources, 
+provides a comprehensive analysis of flood risks, 
+emphasizing the need for updated infrastructure 
+to cope with increased precipitation and storm 
+intensity.  The Federal Emergency Management 
+Agency manages and reports on the areas most 
+susceptible to flooding for any reason, also known 
+as “floodplains.” Understanding how floodplains 
+will grow or change in the future allows 
+transportation agencies to make the most 
+targeted and informed decisions about 
+infrastructure construction or relocation.  
+Almost 8,000 critical transportation facilities 
+are exposed within 500-year floodplains (Flood 
+Future Report, 2013).  These reports underline the 
+necessity of integrating climate projections into 
+infrastructure planning to mitigate the impacts of 
+these disasters.
+Impacts on Freight and Passenger 
+Services
+The disruptions caused by climate change 
+impact both freight and passenger rail services.  
+The National Freight Strategic Plan (2021) by the 
+FRA outlines how climate-induced disruptions, such 
+as track damage from floods or delays due to 
+wildfires, can lead to substantial economic costs 
+and operational inefficiencies for freight services.  
+The report supports a two-pronged approach: 
+having a strong crisis response in place, as well 
+as resiliency planning, in order to be flexible in 
+the face of short-term and long-term climate-
+related disruptions.  Because many passenger rail 
+services also operate on freight operator-owned 
+tracks, freight disruptions can also have severe 
+implications for the timely and correct operation of 
+passenger rail services.  For passenger rail services, 
+the Climate Adaptation Plan (2014) by USDOT 
+provides methodologies for evaluating climate risks 
+and implementing resilience measures.  
+This guide also stresses the importance of designing 
+adaptable transit systems that can respond 
+effectively to changing environmental conditions.
+
+
+=== PRINT 55; PDF 62 ===
+CALTRANS, 2024 CALIFORNIA STATE RAIL PLAN
+55
+Chapter 4: Implementation
+4.5.  PLANNING FOR FUTURE 
+INVESTMENTS
+Alignment with State Goals
+The California Transportation Plan (CTP) 2050, 
+developed by Caltrans, emphasizes the need for 
+a resilient transportation system.  The document 
+articulates long-term goals for maintaining and 
+improving transportation infrastructure.  One of 
+its four key infrastructure objectives emphasizes 
+the importance of rail resiliency as it relates 
+to climate change: “increasing infrastructure 
+resiliency to climate change and natural disasters: 
+this objective focuses on the importance of 
+adaptation by understanding a transportation 
+system’s risk to exposure and sensitivity to a variety 
+of threats, determining consequences, and 
+prioritizing targeted investments.”
+Rail is a critical form of transportation facing 
+challenges that demand both short-term 
+stabilization efforts and long-term solutions.  The 
+State is committed to addressing immediate 
+climate resiliency issues by coordinating with the 
+FRA, rail and other regional partners to secure 
+funding, streamline project delivery, and facilitate 
+regulatory permitting support.  CalSTA will take 
+a greater leadership role and leverage existing 
+planning efforts to create a long-term strategic 
+action plan for rail corridors experiencing 
+resiliency issues. 
+Caltrans is investing $50 million in the form of 
+Climate Adaptation Grants to support local and 
+regional transportation climate resiliency through 
+project-level adaptation planning.  These grants 
+are part of California’s commitment to mitigating 
+climate impacts on critical infrastructure.  They 
+support projects that enhance rail network 
+resilience, improve natural habitat restoration, 
+and provide additional flood protection for 
+surrounding communities.
+Planning studies such as the Sea Level Rise 
+Guidance and the Critical Infrastructure 
+Guidance provide local governments, asset 
+managers and other stakeholders with policies 
+and planning information to help inform sea level 
+adaptation decisions that are consistent with the 
+California Coastal Act.  Other plans included in 
+policy and planning decision-making include 
+CAPTI, the ITSP and more.
+While capital rail improvements and studies 
+across the state are ongoing, Caltrans intends to 
+conduct planning studies with the help of local 
+and regional partners in the rail planning regions.  
+These studies are to be completed in the near-
+term (2028) time horizon.
+Investment Strategies
+Investments in rail infrastructure must be carefully 
+planned:
+Identifying Impacted Areas: 
+Currently, climate impact assessments are 
+spearheaded by local and regional agencies.  
+Example climate assessments include OCTA’s 
+“Rail Defense Against Climate Change Plan” 
+(2021) and the “California High-Speed Rail 2021 
+Climate Adaptation Plan” (2021) by the Authority.
+ 
+Figure 11: Overlaps between current statewide rail network 
+and 100-year flood plains.
+
+
+=== PRINT 56; PDF 63 ===
+CALTRANS, 2024 CALIFORNIA STATE RAIL PLAN
+56
+Chapter 4: Implementation
+Protecting and Relocating Infrastructure: 
+The “Climate Adaptation Strategies for 
+Transportation Infrastructure” (2023), conducted 
+by Caltrans provides guidance on when and 
+how to adapt infrastructure to mitigate a variety 
+of risks, including changes in precipitation, sea 
+level rise, extreme heat events, drought, wildfires, 
+and landslides.  Most of the recommendations 
+suggest construction and maintenance of 
+secondary infrastructure to manage physical 
+effects of such disasters such as drainage systems 
+and intentional landscaping.
+Immediate vs.  Long-Term Investments: 
+The CAPTI (2021), prepared by CalSTA, offers a 
+framework for prioritizing investments based on 
+immediate needs and long-term benefits.  
+Action S2.2 in CAPTI calls for identifying a long-
+term strategic funding pathway across all funding 
+opportunities to realize the State Rail Plan. 
+ This involves prioritizing rail investments statewide 
+for major state funding programs and future 
+federal grant opportunities. 
+Timeframe Considerations: 
+Because of the time-consuming nature of rail 
+planning through project delivery, it is important 
+for agencies to weigh the time necessary to plan 
+projects with the imminent nature of climate-
+related risks.  The “California Climate Adaptation 
+Strategy” (2021), developed by the California 
+Natural Resources Agency, provides action 
+items, their metrics of success, and importantly, 
+timeframes for implementation and reexamination 
+moving forward.
+Coordination with Host Railroads for 
+Resiliency
+Because of the collaborative nature of railroad 
+operation between host railroads and other 
+operators, all parties must be in communication 
+and in concurrence with each other about how 
+to approach climate resiliency.  In case of a 
+climate-related event that causes damage or 
+other disruptions to a rail segment, trains may 
+need to be re-routed or service altered.  Host 
+railroads will need to be in close communication 
+with operators to both safely manage the 
+operations on the new or altered route, as well as 
+manage any potential repair or reinforcement of 
+affected infrastructure.
+Coordination is also critical for determining 
+the long-term strategy for a specific corridor – 
+dialogue must be had between the State and 
+a host railroad to identify shared goals and 
+strategies.  The State will have to know the freight 
+ 
+A Capitol Corridor train traverses Alviso Wetlands in the South San Francisco Bay Area.
+
+
+=== PRINT 57; PDF 64 ===
+CALTRANS, 2024 CALIFORNIA STATE RAIL PLAN
+57
+Chapter 4: Implementation
+options and alternatives to be able to determine 
+if they align with the passenger goals of the 
+corridor, and if they do not, plan accordingly.
+Near-Term Vulnerabilities and Areas of 
+Concern
+Several locations on the state rail network 
+are particularly vulnerable to climate 
+change.  Figure 11 shows the statewide rail 
+network overlaid with the projected 100-year 
+floodplains, which are the areas in the state 
+that are expected to see heavy flooding and 
+inundation in 100 years.  Key areas of concern 
+are highlighted in orange, where the existing 
+or future network lies within one of these 
+floodplains.  Understanding the specific risks at 
+each site is crucial for implementing effective 
+resilience strategies.  
+Suisun to Novato (East-West) Extension
+The East-West Corridor is a proposed rail and 
+multi-modal transportation project intended to 
+connect the SMART system with key east-west 
+routes in the San Francisco Bay Area.  Its goal is 
+to enhance regional connectivity, improve transit 
+options, and support economic development by 
+linking SMART rail lines to major transportation hubs 
+and destinations across the region.  The project 
+is currently still in its planning stages, with three 
+proposed alignments.  All three of these alignments 
+traverse the Napa-Sonoma Marshes, low-lying 
+wetlands connected to San Pablo Bay that are 
+subject to regular flooding and sea-level rise.
+San Pablo Bay
+San Pablo Bay, located north of San Francisco, 
+is critical for rail operations due to its proximity 
+to major rail lines.  Railroads provide critical links 
+between the ports found on the bay and inland 
+distribution centers, supporting regional and 
+international trade.  The “San Pablo Baylands: 
+Ensuring a Resilient Shoreline” (2022) report, 
+conducted by the State Route 37 – Baylands 
+Group, forecasts the rail around San Pablo Bay 
+and its aging system of berms and pumps to be 
+ill-equipped to handle rising sea levels.  This rise 
+increases the risk of flooding and shoreline erosion 
+impacting rail as well as highway infrastructure.  
+Suggested measures include an emphasis on 
+protecting the existing ecosystem to act as a 
+natural buffer against climate-related dangers to 
+the infrastructure.
+Carquinez Strait
+The Carquinez Strait is a narrow tidal channel in 
+Northern California that connects San Pablo Bay 
+to the Sacramento and San Joaquin Rivers.  The 
+Union Pacific-Martinez Subdivision, which sees 
+extensive freight and passenger rail traffic, runs 
+over a flood plain in Yolo County and follows the 
+shorelines of the Carquinez Strait, which makes it 
+particularly susceptible to the adverse effects of 
+climate change and faces significant risks from 
+rising sea levels and extreme weather events.
+Elkhorn Slough
+Elkhorn Slough is a large tidal salt marsh located 
+on the central coast of California, near Monterey 
+Bay, and serves as an important habitat for 
+diverse wildlife, including birds, fish, and marine 
+mammals.  An 8-mile stretch of Highway 1 and 
+nearby rail represents a critical commuting and 
+freight expansion corridor in the area that is at 
+risk due to rising sea levels.  The Transportation 
+Agency for Monterey County (TAMC), in 
+partnership with Caltrans, is conducting the 
+Highway 1 Elkhorn Slough Climate Resiliency 
+Project, which addresses the vulnerability of the 
+transportation infrastructure through the Elkhorn 
+Slough, focusing on multimodal and nature-based 
+solutions to climate change impacts.  The initiative 
+is backed by Caltrans’ funding for preparing a 
+Planning and Environmental Linkages (PEL) study 
+and project documentation.
+Alviso Wetlands
+The Alviso Wetlands are a vast network of tidal 
+marshes and mudflats sitting at the southern 
+end of the San Francisco Bay, near San Jose.  
+The Alviso Wetlands face several risks due to 
+climate change, including rising sea levels that 
+threaten to inundate and erode the marshes, and 
+increased frequency of extreme weather events 
+such as storms, which can exacerbate flooding 
+and habitat loss for local wildlife.  The nearby 
+railroad, which is owned by Union Pacific and 
+operates both freight and passenger rail traffic, 
+runs through a low-lying, environmentally sensitive 
+wetland area that is at significant risk for damage 
+
+
+=== PRINT 58; PDF 65 ===
+CALTRANS, 2024 CALIFORNIA STATE RAIL PLAN
+58
+Chapter 4: Implementation
+and destruction due to rising sea levels.  
+CCJPA and Caltrans are continuing critical 
+climate adaptation planning for railroad 
+infrastructure in the Alviso wetland area of 
+San Francisco Bay, producing the “Alviso Wetlands 
+Railroad Adaptation Alternatives Study.” Funded 
+by Caltrans’ Climate Adaptation Planning Grants, 
+this project focuses on engineering feasibility 
+and stakeholder outreach to benefit transit, 
+the environment, and nearby communities.  
+The adaptation of infrastructure here aims 
+to increase resilience, improve capacity and 
+redundancy, restore natural habitats, and provide 
+flood protection.
+Union Pacific Santa Barbara Subdivision from San 
+Luis Obispo to Ventura County
+The Union Pacific Santa Barbara Subdivision is a 
+rail line operated by Union Pacific Railroad that 
+runs along California’s Central Coast, stretching 
+from San Luis Obispo to Ventura County.  This 
+route is part of a broader rail network that 
+supports both freight and passenger services, 
+providing a crucial transportation link between 
+the coastal areas and inland regions. 
+The line traverses scenic coastal areas and 
+connects with other major rail routes, playing 
+a significant role in regional and intermodal 
+transportation.  Due to its coastal location, this 
+subdivision faces risks such as sea level rise and 
+coastal erosion, which could impact the stability 
+and operations of the rail infrastructure.  This is 
+especially concerning for passenger rail services, 
+as the region has a sparse rail network to lean on.
+San Clemente and Del Mar Bluffs
+The rail line around San Clemente and the Del 
+Mar Bluffs in California is a scenic and crucial 
+segment of the coastal rail corridor, connecting 
+the southern Orange County area to San Diego, 
+and facing ongoing challenges related to erosion 
+and environmental concerns.  The State views 
+improving resiliency in these areas as absolutely 
+critical, and will continue working closely with 
+regional partners, especially OCTA, NCTD, and 
+the San Diego Association of Governments 
+(SANDAG) to support both temporary and long-
+term resiliency measures.  The State is committed 
+to furthering this support and collaboration, 
+providing additional funding, and working to 
+streamline the delivery of priority projects in this 
+key corridor.  CalSTA will take a greater leadership 
+role to study and plan for a long-term vision for 
+the corridor going forward. 
+In addition to participation in repeated 
+investments in the Del Mar Bluffs (now in the 
+fifth phase), CalSTA and Caltrans have 
+coordinated with stakeholders to immediately 
+shore up the bluffs along the LOSSAN corridor, 
+Caltrans coordinated with stakeholders to 
+implement more than $36 million in emergency 
+repairs to improve bluff stabilization, clear debris 
+from rights-of-way, ensure track safety, and 
+recommission track.  Bluff stabilization and rail line 
+protection is a temporary solution however, as 
+extreme weather events and climate change will 
+continue to threaten this corridor’s safety.  In order 
+to protect the railroad for the next 20-30 years, 
+completing the Del Mar Bluffs stabilization projects 
+and completing the recently fully-funded OCTA 
+Coastal Resiliency Project (over $300 million) are 
+essential, but stakeholders must all seek long-term 
+solutions.
+Caltrans and regional stakeholders are proactively 
+identifying, studying, and funding long-term 
+solutions to permanently improve climate resiliency 
+along the Orange County coast by potentially 
+realigning the railroad from the coastline’s Del 
+Mar bluffs into inland tunnels.  This undertaking 
+requires environmental and equity assessments; 
+engineering studies; coordination between 
+SANDAG and OCTA as regional authorities, 
+Metrolink, NCTD, and the BNSF railroad as 
+owners and operators, and LOSSAN as a state 
+supported passenger service provider; as well 
+as state and federal funding coordination. 
+The Orange County Coastal Rail Resiliency Study, 
+conducted by OCTA, is currently underway and 
+is projected to be published in 2025.  A separate 
+study will evaluate potential relocation of the 
+line to an inland alignment to evade coastal 
+erosion already affecting service in the area.  
+Long-term solutions elsewhere on the Orange 
+County coast, including in San Clemente, are also 
+
+
+=== PRINT 59; PDF 66 ===
+CALTRANS, 2024 CALIFORNIA STATE RAIL PLAN
+59
+Chapter 4: Implementation
+being assessed to avoid unplanned track outages.  
+The Del Mar realignment and other investments 
+along the Orange County coast will not only 
+protect the railroad from unstable bluff conditions, 
+but also contribute to the State’s service goals 
+by increasing double track to allow for higher 
+train frequencies through what is today a 
+congested rail corridor.
+4.6.  FUNDING OPPORTUNITIES
+Funding the Rail Plan Vision 
+California’s rail system is funded by several sources 
+and programs, including state fuel taxes and fees, 
+federal fuel taxes, federal grant programs, state 
+bonds, the Cap-and-Trade program, and local 
+sales tax measures. This Rail Plan positions projects 
+for federal and state funding opportunities, such 
+as SCCP, TCEP, Consolidated Rail Infrastructure and 
+Safety Improvement Program (CRISI), FSP/CIDP, 
+and others.  
+Currently, the largest sources of funding include 
+the State’s Public Transportation Account (PTA) 
+funded by the diesel fuel sales tax and a portion 
+of the vehicle registration fee, Greenhouse 
+Gas Reduction Fund (GGRF) revenue from the 
+Cap-and-Trade program, and federal fixed 
+guideway capital investment grants.  Various 
+funding programs cover every aspect of the 
+detailed vision of how the rail system will work, 
+from enhancing active transportation access 
+to stations, to building the appropriate freight 
+infrastructure required to enable higher levels of 
+service.  Funding sources not specifically designed 
+for rail can also help deliver portions of rail 
+projects, and further opportunities to incorporate 
+sea level rise mitigation into state funding 
+programs should be explored.
+Funding for near-term projects are already secured 
+and programmed with construction underway in 
+most cases, while mid-term projects have most of 
+22 
+The combined FY22-23 NOFO for the FSP National Program made available $4.566 billion.  However, IIJA allows the FRA to 
+make contingent commitments of money through a letter of intent to a grantee announcing its intention to obligate an 
+amount to the grantee’s major capital project from future budget authority.  California High-Speed Rail and Brightline West 
+received such commitments (alongside a third corridor in North Carolina) totaling $3.638 billion.
+their funding committed, but may still have funding 
+gaps that are expected to be addressed over the 
+next few years.  Long-term projects typically do not 
+have a significant portion of their funding identified, 
+although some may be identified in regional plans 
+or an expectation of inclusion in future local or 
+regional ballot measures.  Private investments 
+made by host railroads on their own infrastructure 
+is not known or included, but many passenger rail 
+projects have freight co-benefits and can make 
+a project more competitive for funding and can 
+deliver additional benefits.  Public funding sources 
+for shared freight and passenger corridors are 
+included in the Capital Plan. (Appendix 2: Capital 
+Projects).  A few of the most significant funding 
+opportunities for delivering the state rail network 
+are described in more detail below.  Detailed 
+descriptions of all funding sources and awards are 
+provided in Appendix 5: Rail Funding.
+Bipartisan Infrastructure Law
+One significant opportunity to efficiently support 
+the delivery of the projects identified in the Rail 
+Plan is through federal partnerships for grant 
+funding.  The Bipartisan Infrastructure Law, also 
+known as the Infrastructure Investment and 
+Jobs Act of 2021 (P.L.  117-58) invests $66 billion 
+nationally in advanced appropriations and $36 
+billion in authorized funding. 
+As part of those appropriations, significant 
+awards were made to California.  Some highlights 
+include: 
+• $3 billion to the California High-Speed Rail
+Authority from FSP and $202 million from
+CRISI.
+• Up to $3 billion to Nevada Department
+of Transportation for Brightline West High-
+Speed Intercity Passenger Rail from
+Los Angeles to Las Vegas (FSP).22
+• $54 million for the Madera High-Speed Rail
+Station (MEGA).

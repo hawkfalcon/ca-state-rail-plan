@@ -1,0 +1,538 @@
+[
+  {
+    "id": "smart-core",
+    "snaps_m": [
+      434,
+      1013,
+      89,
+      45
+    ],
+    "gaps_m": [],
+    "points": 37
+  },
+  {
+    "id": "smart-north",
+    "snaps_m": [
+      45,
+      349
+    ],
+    "gaps_m": [],
+    "points": 14
+  },
+  {
+    "id": "north-bay-east",
+    "snaps_m": [
+      1013,
+      543,
+      286,
+      2090,
+      873
+    ],
+    "gaps_m": [],
+    "points": 32
+  },
+  {
+    "id": "napa-branch",
+    "snaps_m": [
+      1597,
+      88
+    ],
+    "gaps_m": [],
+    "points": 7
+  },
+  {
+    "id": "vallejo-branch",
+    "snaps_m": [
+      2728,
+      92
+    ],
+    "gaps_m": [],
+    "points": 2
+  },
+  {
+    "id": "north-valley",
+    "snaps_m": [
+      2431,
+      2497,
+      1662,
+      241,
+      766
+    ],
+    "gaps_m": [],
+    "points": 22
+  },
+  {
+    "id": "capitol",
+    "snaps_m": [
+      37,
+      118,
+      217,
+      96,
+      95,
+      158
+    ],
+    "gaps_m": [],
+    "points": 51
+  },
+  {
+    "id": "roseville",
+    "snaps_m": [
+      37,
+      50
+    ],
+    "gaps_m": [
+      305
+    ],
+    "points": 11
+  },
+  {
+    "id": "davis-regional",
+    "snaps_m": [
+      118,
+      37,
+      50
+    ],
+    "gaps_m": [
+      305
+    ],
+    "points": 14
+  },
+  {
+    "id": "auburn",
+    "snaps_m": [
+      50,
+      66
+    ],
+    "gaps_m": [],
+    "points": 17
+  },
+  {
+    "id": "east-bay",
+    "snaps_m": [
+      158,
+      301,
+      78,
+      107
+    ],
+    "gaps_m": [],
+    "points": 22
+  },
+  {
+    "id": "peninsula",
+    "snaps_m": [
+      5,
+      18,
+      101,
+      107
+    ],
+    "gaps_m": [],
+    "points": 27
+  },
+  {
+    "id": "gilroy-regional",
+    "snaps_m": [
+      107,
+      47
+    ],
+    "gaps_m": [],
+    "points": 11
+  },
+  {
+    "id": "peninsula-intercity",
+    "snaps_m": [
+      5,
+      18,
+      101,
+      107
+    ],
+    "gaps_m": [],
+    "points": 27
+  },
+  {
+    "id": "altamont",
+    "snaps_m": [
+      705,
+      741,
+      847,
+      455,
+      78,
+      107
+    ],
+    "gaps_m": [],
+    "points": 71
+  },
+  {
+    "id": "valley-rail",
+    "snaps_m": [
+      37,
+      3656,
+      549,
+      323,
+      439,
+      1595
+    ],
+    "gaps_m": [],
+    "points": 62
+  },
+  {
+    "id": "oakland-merced",
+    "snaps_m": [
+      158,
+      96,
+      870,
+      549,
+      618,
+      1595
+    ],
+    "gaps_m": [],
+    "points": 66
+  },
+  {
+    "id": "valley-legacy",
+    "snaps_m": [
+      1595,
+      747,
+      183,
+      224
+    ],
+    "gaps_m": [],
+    "points": 34
+  },
+  {
+    "id": "gilroy-salinas",
+    "snaps_m": [
+      47,
+      499,
+      962,
+      155
+    ],
+    "gaps_m": [],
+    "points": 35
+  },
+  {
+    "id": "salinas-slo",
+    "snaps_m": [
+      155,
+      129,
+      73
+    ],
+    "gaps_m": [],
+    "points": 120
+  },
+  {
+    "id": "santa-cruz",
+    "snaps_m": [
+      1211,
+      334
+    ],
+    "gaps_m": [],
+    "points": 23
+  },
+  {
+    "id": "slo-sb",
+    "snaps_m": [
+      73,
+      93,
+      267
+    ],
+    "gaps_m": [],
+    "points": 112
+  },
+  {
+    "id": "sb-la",
+    "snaps_m": [
+      267,
+      158,
+      166,
+      43,
+      797,
+      93,
+      539,
+      147
+    ],
+    "gaps_m": [],
+    "points": 78
+  },
+  {
+    "id": "ventura-regional",
+    "snaps_m": [
+      166,
+      43,
+      797,
+      93
+    ],
+    "gaps_m": [],
+    "points": 42
+  },
+  {
+    "id": "moorpark-la",
+    "snaps_m": [
+      797,
+      93,
+      539,
+      147
+    ],
+    "gaps_m": [],
+    "points": 34
+  },
+  {
+    "id": "van-nuys-core",
+    "snaps_m": [
+      93,
+      539,
+      147
+    ],
+    "gaps_m": [],
+    "points": 13
+  },
+  {
+    "id": "antelope-north",
+    "snaps_m": [
+      211,
+      945,
+      362
+    ],
+    "gaps_m": [],
+    "points": 47
+  },
+  {
+    "id": "antelope-core",
+    "snaps_m": [
+      362,
+      1989,
+      147
+    ],
+    "gaps_m": [],
+    "points": 28
+  },
+  {
+    "id": "lossan-south",
+    "snaps_m": [
+      147,
+      161,
+      70,
+      79,
+      212,
+      56,
+      102
+    ],
+    "gaps_m": [],
+    "points": 82
+  },
+  {
+    "id": "oc-regional",
+    "snaps_m": [
+      147,
+      161,
+      70,
+      79
+    ],
+    "gaps_m": [],
+    "points": 24
+  },
+  {
+    "id": "coaster",
+    "snaps_m": [
+      56,
+      187
+    ],
+    "gaps_m": [],
+    "points": 35
+  },
+  {
+    "id": "sprinter",
+    "snaps_m": [
+      97,
+      373
+    ],
+    "gaps_m": [],
+    "points": 31
+  },
+  {
+    "id": "sd-border",
+    "snaps_m": [
+      2156,
+      750,
+      299
+    ],
+    "gaps_m": [],
+    "points": 11
+  },
+  {
+    "id": "san-bernardino",
+    "snaps_m": [
+      147,
+      26,
+      1461
+    ],
+    "gaps_m": [],
+    "points": 29
+  },
+  {
+    "id": "arrow",
+    "snaps_m": [
+      373,
+      368
+    ],
+    "gaps_m": [],
+    "points": 9
+  },
+  {
+    "id": "riverside-direct",
+    "snaps_m": [
+      147,
+      1148,
+      92
+    ],
+    "gaps_m": [],
+    "points": 31
+  },
+  {
+    "id": "ie-orange",
+    "snaps_m": [
+      161,
+      256,
+      92
+    ],
+    "gaps_m": [],
+    "points": 31
+  },
+  {
+    "id": "hemet",
+    "snaps_m": [
+      92,
+      543,
+      75
+    ],
+    "gaps_m": [],
+    "points": 21
+  },
+  {
+    "id": "coachella",
+    "snaps_m": [
+      585,
+      249,
+      1321
+    ],
+    "gaps_m": [],
+    "points": 54
+  },
+  {
+    "id": "hsr-peninsula",
+    "snaps_m": [
+      5,
+      18,
+      107,
+      47
+    ],
+    "gaps_m": [],
+    "points": 37
+  },
+  {
+    "id": "hsr-anaheim",
+    "snaps_m": [
+      147,
+      161,
+      70
+    ],
+    "gaps_m": [],
+    "points": 20
+  },
+  {
+    "id": "hsr-inland-west",
+    "snaps_m": [
+      147,
+      26
+    ],
+    "gaps_m": [],
+    "points": 25
+  },
+  {
+    "id": "hsr-inland-east",
+    "snaps_m": [
+      26,
+      1461
+    ],
+    "gaps_m": [],
+    "points": 5
+  },
+  {
+    "id": "reno-seasonal",
+    "snaps_m": [
+      37,
+      50,
+      66,
+      15204
+    ],
+    "gaps_m": [],
+    "points": 204
+  },
+  {
+    "id": "amtrak-coast-starlight",
+    "snaps_m": [
+      147,
+      539,
+      93,
+      43,
+      267,
+      73,
+      129,
+      155,
+      107,
+      158,
+      85,
+      96,
+      118,
+      37,
+      766,
+      113,
+      53,
+      2
+    ],
+    "gaps_m": [],
+    "points": 678
+  },
+  {
+    "id": "amtrak-california-zephyr",
+    "snaps_m": [
+      85,
+      95,
+      96,
+      118,
+      37,
+      50,
+      121,
+      49,
+      2
+    ],
+    "gaps_m": [],
+    "points": 249
+  },
+  {
+    "id": "amtrak-southwest-chief",
+    "snaps_m": [
+      147,
+      161,
+      92,
+      1052,
+      502,
+      133,
+      98,
+      2
+    ],
+    "gaps_m": [],
+    "points": 205
+  },
+  {
+    "id": "amtrak-sunset-limited",
+    "snaps_m": [
+      147,
+      29,
+      878,
+      249,
+      96
+    ],
+    "gaps_m": [],
+    "points": 102
+  }
+]

@@ -1,0 +1,605 @@
+
+=== PRINT 14; PDF 21 ===
+Chapter 2: Passenger Network Strategy
+CALTRANS, 2024 CALIFORNIA STATE RAIL PLAN
+14
+Chapter 2: Passenger 
+Network Strategy
+The Passenger Network Strategy identifies service goals, phasing, and capital
+investments needed to achieve the vision for a fully integrated statewide  
+passenger network.  As established in the 2018 Rail Plan, the vision for a modern, 
+fully integrated, zero-emission passenger rail network with simple transit  
+connections is a pillar in the State’s strategy to continue to grow California’s 
+economy while achieving critical equity and environmental goals.
+ 
+A rendering of the zero-emission, hydrogen intercity passenger FLIRT train, under development by Caltrans and Stadler.   
+See https://dot.ca.gov/news-releases/news-release-2023-034 for more information.
+
+
+=== PRINT 15; PDF 22 ===
+Chapter 2: Passenger Network Strategy
+CALTRANS, 2024 CALIFORNIA STATE RAIL PLAN
+15
+The vision for California’s statewide rail network 
+provides all-day accessibility and auto-competitive 
+mobility, across modes and markets, decarbonizing 
+passenger transport and proactively addressing 
+the impacts of climate change.
+As a part of Caltrans’ service-led strategic 
+planning methodology, the timetable-based 
+planning approach designs for timed transfers 
+between services at hub stations where a transfer 
+is required to complete a trip across the state, or 
+to a location served by local transit.  A repeating 
+timetable allows for easy trip planning and 
+seamless travel by ensuring connections between 
+trains can be made throughout the day, with 
+minimal transfer times.
+2.1.  NETWORK DESIGN 
+PRINCIPLES 
+Policy goals for addressing equity, the 
+environment, and the economy inform what 
+the rail network aims to accomplish.  Network 
+design principles inform how policy is translated to 
+technical service planning and service operations. 
+The network covers corridors and regions across 
+the state that are served by different agencies, 
+types of equipment, infrastructure owners, 
+operating constraints, and governance structures. 
+To improve consistency and ease of use for the 
+customer and operator, the Rail Plan identifies a 
+standardized and simplified set of strategic design 
+principles, based on international best practice 
+in modern passenger rail operations.  These are 
+applicable statewide and guide service and 
+implementation planning from the outset.
+The design principles enforce a coherent, 
+coordinated network.  They will evolve in 
+implementation planning and be refined by 
+local priorities and stakeholder concerns, while 
+ensuring the whole of the network is greater 
+than the sum of its parts. 
+These design principles include: 
+•
+Service-led design: designing a network
+to support service goals, and only
+identifying infrastructure needed to
+support the network.
+•
+An intuitive network: simplifying and
+standardizing service patterns, schedules,
+connections, operations, and ticketing.
+•
+Direct connections: minimizing physical
+and temporal distance to facilitate easy
+and well-timed transfers across a platform
+or to a bus bay.
+•
+Hub stations: service is organized to meet
+at stations at regular intervals.
+The Rail Plan vision is oriented towards the 
+customer experience.  Likewise, the technical 
+design principles underpinning the outputs of 
+the Rail Plan are also tailored to the customer 
+experience.  When the above principles are 
+applied, many technical outputs are developed 
+to facilitate coordination more seamlessly 
+amongst planning partners.  To communicate 
+the technical outputs of this planning work more 
+easily to the public, timetables are created. 
+The timetable captures how often and at which 
+times trains arrive at a station, how long journeys 
+take, what connections are available between 
+services, and serves as a summary of what 
+the network is, how it operates, and what value 
+it offers potential passenger rail customers.  
+By articulating goals and designing solutions 
+through the timetable, it centers the passenger in 
+every tradeoff analysis and recommendation.
+ 
+Figure 5: Service, operations, equipment, and infrastructure are 
+taken together to develop a networked timetable.
+
+
+=== PRINT 16; PDF 23 ===
+Chapter 2: Passenger Network Strategy
+CALTRANS, 2024 CALIFORNIA STATE RAIL PLAN
+16
+Service Goals 
+Service goals describe the train frequencies on 
+the passenger rail network, reflect travel times 
+needed to be auto and air competitive, and 
+provide for timed connections at hub stations.  
+Service goals balance travel times with the need 
+to schedule connections between services where 
+transfers are needed for travel between different 
+travel markets.  Timed connections between 
+services are critical to extending the reach of the 
+statewide network, reducing trip times, increasing 
+trip availability, and minimizing operating and 
+capital costs.  All markets need not be served 
+by direct service when timed connections 
+can deliver competitive trip times with higher 
+frequency at a fraction of the cost. 
+Service goals are also operator-neutral and 
+strategic, rather than prescriptive.
+Service goals assume local transit will continue 
+operating, with planned improvements to provide 
+necessary local connectivity.  Where connection 
+hubs have been identified on the network, the 
+State will work with regional partners to co-locate 
+all service types to enhance mobility and transfers.  
+For transit services not identified on the statewide 
+network, connectivity to the rail network will be 
+important for local mobility. The State supports and 
+invests in local connectivity as critical to providing 
+a door-to-door platform for statewide mobility.
+Pulse Scheduling
+Network planning is based on pulse scheduling, 
+which requires regular, uniform service patterns 
+that repeat throughout the day on recurring time 
+intervals.  From the customer’s perspective, it’s 
+simple and intuitive to understand when trains 
+arrive without needing to constantly refer 
+to a schedule because of irregular patterns.  
+ 
+SPRINTER regional rail spans 22-miles and connects Oceanside, Vista, San Marcos, and Escondido in Southern California.
+
+
+=== PRINT 17; PDF 24 ===
+Chapter 2: Passenger Network Strategy
+CALTRANS, 2024 CALIFORNIA STATE RAIL PLAN
+17
+For operators, it standardizes the operating plan 
+throughout the day, allowing for more efficient use 
+of equipment, crew resources, and infrastructure. 
+Connections by Design 
+This timetable-based planning approach allows 
+for timed transfers between services at hub 
+stations where a transfer is required to complete 
+a trip across the state, or to a location served by 
+local transit.  A repeating timetable allows for 
+easy trip planning and seamless travel by ensuring 
+that connections between trains can be made 
+throughout the day, with minimal transfer times. 
+Driving Efficiency Through Reduced 
+Operating Costs
+The State expects that increased passenger rail 
+revenues generated from increased use of the 
+system will, in the ultimate vision, allow network 
+services to operate without a subsidy, and 
+generate profits in some corridors that can be 
+reinvested in maintaining and improving 
+the system.  Capital costs are only half the 
+equation to establishing a financially sustainable
+passenger rail service.  The other half consists 
+of operating and maintenance (O&M) costs 
+for providing the service.  Although operating 
+passenger rail service is costly, there are massive 
+efficiencies and economies of scale to be 
+captured through well-planned, fast, and frequent 
+service.  In this way, the more frequently and 
+faster the trains run, the more people ride, and the 
+more cost-effective it is to provide the service per 
+passenger mile traveled. 
+Key factors to lowering costs include:
+• More efficient train rolling stock, largely
+through electrification and modern
+trains that are cleaner and lighter than
+traditional diesel locomotive-hauled trains;
+• Faster train speeds, allowing for shorter trips
+and more hours of revenue service, with
+more efficient train crew service;
+• Faster train turns, reducing the amount of
+time trains are idling at stations or in rail
+yards; and
+  
+Figure 6: String chart diagram shows how local services can be designed to facilitate connectivity with higher speed regional and 
+intercity services.
+
+
+=== PRINT 18; PDF 25 ===
+Chapter 2: Passenger Network Strategy
+CALTRANS, 2024 CALIFORNIA STATE RAIL PLAN
+18
+• Changes in travel distances, largely
+through integrating regional and statewide
+services to ensure market sensitivity in route
+and service planning.
+Taken together, these changes reduce unit costs 
+for train operations, crews, and other overhead, 
+resulting in more service available for far lower 
+unit prices.  Although the O&M costs for the 
+2050 integrated network seem higher than the 
+O&M costs for existing rail services, increased 
+train speeds and frequencies, newer equipment, 
+longer consists (i.e., higher capacity), longer travel 
+distances, and improved operating efficiencies all 
+contribute to driving down the average cost per 
+train mile and cost per seat mile.  In short, growth 
+makes the system more efficient to operate.  Each 
+additional passenger adds revenue with little 
+marginal additional cost.  The 2050 integrated 
+network has a 45% lower cost per train mile, and a 
+65% lower cost per seat mile over today’s service.
+Minimizing Infrastructure 
+Pulse scheduling allows the network to serve more 
+destinations through connections, as airlines use 
+hubs to allow smaller communities more frequent 
+access to more destinations at a lower cost.   
+A pulse schedule allows cost savings by reducing 
+the set of infrastructure improvements needed to 
+only those necessary to operate the repeating 
+timetable.  As such, the capacity of a single-track 
+railroad can be maximized before additional 
+track infrastructure is needed.  The Rail Plan 
+has identified a 30-minute or 60-minute service 
+frequency (or headway) across most portions of 
+the state by 2050. 
+Renewing California’s Intercity Fleet
+Caltrans has begun efforts to convert its full 
+fleet of intercity rolling stock to zero-emission.  
+Caltrans’ entire locomotive fleet currently runs on 
+renewable diesel, a relatively new fuel alternative 
+that contains up to 85% less polluting sulfur than 
+ultra-low sulfur diesel.  The fleet conversion was 
+completed in June 2023.
+Caltrans will overhaul its 13 F59PHI locomotives 
+over the next few years.  This project will extend 
+their service life, improve fuel efficiency, and meet 
+stricter environmental standards.
+ 
+Metrolink passengers.
+
+
+=== PRINT 19; PDF 26 ===
+Chapter 2: Passenger Network Strategy
+CALTRANS, 2024 CALIFORNIA STATE RAIL PLAN
+19
+Caltrans plans on making investments in other 
+areas of propulsion technology and procedures 
+to make the fleet more energy-efficient, including:
+• Purchasing next-generation rail cars and
+multiple-unit trainsets;
+• Converting to regenerative braking that
+recovers and stores energy, reducing the
+demand for so-called head-end power
+such as heating/air conditioning systems
+and lighting;
+• Adopting energy-efficient driving
+techniques.
+Caltrans looks to lead and promote pioneering 
+initiatives in zero-emission vehicles, integrate 
+statewide efforts to accelerate implementation, 
+partner with Caltrans’ Division of Equipment and 
+transit agencies to develop heavy-duty fueling 
+infrastructure, and engage in public outreach 
+that promotes the benefits of rail.
+The Fleet Modernization Project will redesign 
+California’s existing 139 bi-level passenger rail 
+cars.  This will extend the life of these vehicles by 
+15 years and improve reliability, efficiency, and 
+the passenger experience. 
+2.2.  STRATEGIC PLANNING 
+AND PUBLIC ENGAGEMENT
+Decisions required to manage, improve, 
+and expand the public transport network 
+are complex.  Decision-making involves large 
+groups of stakeholders, consequential social 
+equity considerations, and is time and resource 
+intensive.  Public agencies must navigate a 
+range of technical questions supporting service 
+planning, environmental impact analyses, civil 
+engineering, project development, funding 
+strategy, and, ultimately, project delivery and 
+revenue service operations. 
+Effective strategic planning requires agency 
+staff, executives, and boards to be empowered 
+through transparent, reproducible analyses 
+scaled to the level of detail and specificity 
+appropriate to the decision in question.  Given 
+the interconnected nature of the state’s transport 
+network and the overlapping responsibilities 
+of funding and operating agencies, clear 
+documentation and coordination of processes, 
+parameters, and recommendations are critical 
+to working across multiple stakeholder groups, 
+jurisdictions, and planning horizon years. 
+Effective engagement must respect partners’ 
+values, intelligence, and time, providing 
+meaningful opportunities to understand critical 
+issues and provide actionable feedback. 
+That respect demands a robust technical 
+process that provides a platform on which 
+partners can understand tradeoffs, develop 
+informed opinions about options, and ask 
+relevant critical questions.  Service-led Strategic 
+Planning provides that platform. 
+2.3.  HOST RAILROAD 
+COORDINATION
+The State’s goal is to enable continued, market-
+responsive growth in goods movement by freight 
+rail, while providing for increased passenger 
+ 
+Figure 7: Track ownership in California.
+
+
+=== PRINT 20; PDF 27 ===
+Chapter 2: Passenger Network Strategy
+CALTRANS, 2024 CALIFORNIA STATE RAIL PLAN
+20
+capacity.  This will be achieved through early 
+and continuous dialogue with the freight 
+railroad partners, and progressive identification 
+of shared opportunities. 
+Pathing Studies
+Since 2018, the State has supported several 
+pathing studies in collaboration with or led by 
+host railroads, to identify current and future 
+capacity constraints and identify strategic 
+infrastructure needs.  Where freight and passenger 
+services share a corridor, opportunities exist to 
+expand or reorganize agreements for additional 
+capacity.  While solutions are context-specific, 
+the State’s leadership in coordinating planning 
+and supporting detailed technical analyses will 
+continue to facilitate increased dialogue with 
+freight partners.
+The network- and corridor-based pathing 
+study methodology allows for an open, 
+cross-jurisdictional process that weighs 
+operational and capacity impacts on rail 
+operations.  The methodology examines 
+trade-offs, trade corridor impacts, and joint 
+passenger and freight effects.   
+2.4.  PLANNING YEAR 
+HORIZONS
+Planning horizons described in the Rail Plan 
+identify specific service planning and analysis 
+needed to develop and integrate the network 
+over time, responsive to local and regional 
+stakeholder needs.  Planning horizons are not tied 
+to a specific completion year of a given project.  
+Some projects may be completed ahead of the 
+horizon year; others may be near completion.  
+Horizon years and corresponding plans serve as 
+important markers and meet statutory planning 
+requirements.  The four and ten-year horizons are 
+based on realistic projections for what can be 
+built in those timeframes.  These projects are fully 
+funded in the near term, and mid-term projects 
+are fully programmed and mostly funded with all 
+agreements in place and plans for immediate 
+construction in the mid-term.  However, these 
+planning year horizons are fluid; if the funding 
+landscape changes, projects can be accelerated. 
+The State is committed to working with partners to 
+develop and deliver projects efficiently.
+Near-Term (~4-years): Project Delivery
+The near-term service goals and associated 
+capital program identifies improvements that 
+are fully funded or committed, helping to ensure 
+successful, timely, and on-budget project delivery. 
+Mid-Term (~10-years): Implementation 
+Planning 
+The mid-term service goals and associated 
+capital program identifies improvements that are 
+either fully funded or have a path to full funding 
+and construction within 10 years.  Looking ahead 
+to service improvements and capital expansion 
+expected in the mid-term, Caltrans will resource 
+and support partners finalizing implementation 
+and funding plans for future improvements that 
+demonstrate alignment with the State’s vision 
+and provide specific utility to delivering the vision.  
+Services and associated projects in this timeline 
+are either fully funded or have a path to full 
+funding and construction within 10 years. 
+Long-Term (~25-years): Strategic 
+Planning 
+Utilizing the framework and vision provided by the 
+Rail Plan, Caltrans will support long-term strategic 
+planning to support initial project development 
+from feasibility to pre-environmental and pre-
+engineering work, identify tradeoffs in delivery 
+approaches, and prepare funding strategies for 
+downstream implementation planning.
+2.5.  STATE PLANNING 
+PRIORITIES
+Corridor Identification and Development 
+Program
+The CID Program is a new tool to advance 
+implementation of the State Rail Plan by 
+establishing an intercity passenger rail planning 
+and project development program that will set 
+forth a capital project pipeline ready for sustained 
+federal funding.  For many decades, the State has 
+been the primary funder for intercity and high-
+
+
+=== PRINT 21; PDF 28 ===
+Chapter 2: Passenger Network Strategy
+CALTRANS, 2024 CALIFORNIA STATE RAIL PLAN
+21
+speed rail investment in California.  Through the 
+CID Program, the federal government is ready 
+to invest.  This joint federal-state partnership 
+for planning and project delivery will help the 
+intercity passenger rail operators and partners 
+more efficiently develop and deliver projects in 
+partnership with ongoing support and approval 
+from their two most significant funding partners. 
+There are three steps in the CID Program:
+1. Scoping & Program Initiation: FRA will
+grant up to $500,000, with no state or
+local match required, for the sponsor to
+develop a scope, schedule, and budget
+for a Service Development Plan (SDP) and
+create staff capacity to undertake the
+service planning effort.
+2. Service Development Planning: The sponsor
+will collaborate with FRA to develop an
+SDP in accordance with the scope of work
+(SOW) and provide a 10% match to FRA
+funding, as determined from the SOW in
+Step 1.  An SDP is a multi-year planning
+effort to establish the service concept and
+necessary capital projects to operate that
+service.
+3. Project Development: If FRA accepts the
+SDP, the sponsor will coordinate with FRA
+to complete preliminary engineering and
+environmental review for capital projects
+and will provide a 20% match to FRA
+funding, as determined from the SDP in
+Step 2.
+Caltrans is the sponsor for five CID Program 
+corridors and in that role, manages the program 
+administration, facilitates partner coordination 
+and collaboration, creates and deploys standard 
+tools and methodologies, develops and oversees 
+technical analysis, and guides corridor service 
+planning development in alignment with the 
+State Rail Plan.  This is necessarily a collaborative 
+process and Caltrans will work with corridor 
+partners to leverage their expertise to efficiently 
+deliver an SDP.  Caltrans is also working closely 
+with other agencies responsible for CID plans, 
+including the High-Speed Rail Authority, High 
+Desert Corridor Joint Powers Agency, Nevada 
+Department of Transportation and Amtrak.
+The Northern California Megaregion
+In the Northern California Megaregion, creating 
+the network envisioned by the Rail Plan will require 
+a combination of new infrastructure, existing 
+infrastructure improvements, the bridging of 
+key network gaps, and improved coordination 
+of services across the system to provide the 
+frequencies needed to meet growing demands 
+and policy goals.  
+Solano County and the North Bay Area
+Enhancing and expanding the passenger rail 
+corridor between Novato and Solano County, 
+along the highly congested State Route 37 (SR37), 
+will generate significant economic benefits, 
+including job creation and increased access 
+to services and opportunities for residents and 
+businesses.  Many people who work in the North 
+Bay cannot afford to live in Marin or Sonoma 
+Counties and a reliable passenger rail alternative 
+connecting the North Bay to Solano County, 
+Sacramento, and the rest of the Bay Area will 
+significantly expand economic benefits and 
+opportunities.  Additional planning is underway 
+to explore opportunities to further expand 
+connections to Vallejo and Napa, utilizing this east-
+west passenger rail corridor as a connection point. 
+Transbay Crossing
+One critical priority for the State in Northern 
+California is a second transbay crossing that 
+supports an electrified, standard-gauge rail 
+crossing, available for all rail service types.  This is 
+necessary to create a single, integrated corridor 
+between major markets from Sacramento to 
+Oakland, San Francisco, Silicon Valley, and 
+San Jose.  This high-quality corridor will connect 
+several of California’s largest cities, world-
+class universities, international airports, and 
+identified priority populations (low-income and 
+disadvantaged communities). 
+
+
+=== PRINT 22; PDF 29 ===
+Chapter 2: Passenger Network Strategy
+CALTRANS, 2024 CALIFORNIA STATE RAIL PLAN
+22
+Historically, ridership demographics for regional 
+rail skewed towards higher income riders 
+when compared to the income of riders 
+on local transit services, but this will change 
+with the investments planned for the statewide 
+network.4, 5  Additionally, megaregions are 
+densifying, and working hours and travel 
+patterns are changing.  Regional and intercity 
+rail services are reacting to changes in ridership 
+demographics and daily commute trends.  The 
+second transbay crossing infrastructure positions 
+the passenger rail network to provide frequent, 
+all-day, bi-directional service across the Northern 
+California megaregion to better serve all 
+Californians and all trip types, including multiple 
+points of connection to the existing Bay Area 
+Rapid Transit (BART) system.
+Building on the work already begun by BART 
+and the Capitol Corridor Joint Powers Authority 
+(CCJPA), the State’s commitment to continuing 
+to develop this corridor with critical rail agency 
+partners in the Bay Area and Northern California is 
+unwavering.  Extensive collaboration with CCJPA, 
+Caltrain, Transit and Intercity Rail Capital Program 
+and BART, along with other key stakeholders, 
+will help the State present a unified emphasis 
+on the transbay crossing in its strongest context 
+and phase of corridor development.  Additional 
+federal support through the CID program 
+leverages existing and future state project 
+development resources.  The CID program 
+establishes a focused process for engaging 
+partners and developing and delivering complex 
+megaprojects, like the transbay crossing, within a 
+broader corridor and megaregional context. 
+Leveraging Mega-Investments
+Because of the networked effects of delivering 
+rail projects, there are opportunities to leverage 
+each investment to expand the benefits of all 
+the investments.  There are also opportunities to 
+streamline planning and project development 
+to ensure the full range of impacts and 
+4 
+https://www.pbssocal.org/history-society/from-bus-riders-union-to-bus-rapid-transit-race-class-and-transit-infrastructure-in-los-angeles
+5 
+Manaugh, K., & El-Geneidy, A. (2012).  Who benefits from new transportation infrastructure? Using accessibility measures to 
+evaluate social equity in public transport provision.  In Accessibility analysis and transport planning (pp.  211-227).  Edward Elgar 
+Publishing.
+dependencies are accounted for between major 
+projects in a corridor or megaregion.  Finally, there 
+are bottlenecks in the region that must be resolved 
+for other megaprojects to realize their full benefits. 
+One example of expanding benefits is that 
+the transbay crossing investment will increase 
+ridership through the Portal (the former Downtown 
+Rail Extension).  The Portal is a multi-billion-dollar 
+investment to bring Caltrain and high-speed 
+rail service into the new STC in San Francisco’s 
+Financial District, a project that is on track to 
+solidify its remaining funding and be constructed 
+by 2034.  This investment will be maximized by 
+through-running trains across the Bay in the new 
+transbay crossing, rather than using valuable time 
+and space in the STC to turn trains at a terminal 
+station.  Through-running trains will attract more 
+riders by connecting critical markets and result 
+in better utilization of the facility.  The transbay 
+crossing project will be developed in its corridor-
+wide context to maximize the benefits. 
+One significant bottleneck in the megaregion 
+today is the Carquinez Strait lift-bridge.  Due to 
+required deference to marine traffic, each bridge 
+lift interrupts train traffic – both passenger and 
+freight – for 20 minutes or more.  Not only does this 
+bottleneck create significant operational delays, 
+but it precludes future service increases between 
+Sacramento and the Bay Area.  Coordinated 
+planning is needed to determine the best strategy 
+for replacing this bridge in alignment with the 
+broader megaregional goals, including creating a 
+unified corridor between San Jose, the Peninsula, 
+San Francisco, the East Bay, across the Carquinez 
+Straight and up to Sacramento and Roseville.  
+There are opportunities to study how different 
+bridge alignments could serve new markets and 
+expand the benefits of this investment throughout 
+more of the megaregion.  The second transbay 
+crossing and bridge replacement projects are 
+two megaprojects that support corridor-wide 
+improvements to deliver improved travel times, 

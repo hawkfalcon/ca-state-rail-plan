@@ -1,0 +1,5165 @@
+{
+  "cities": [
+    {
+      "id": "arcata",
+      "name": "Arcata",
+      "lon": -124.083,
+      "lat": 40.868,
+      "rank": 2,
+      "region": "North Coast",
+      "connections": "Integrated bus"
+    },
+    {
+      "id": "redding",
+      "name": "Redding",
+      "lon": -122.394,
+      "lat": 40.583,
+      "rank": 2,
+      "region": "North State",
+      "connections": "Integrated bus; Amtrak long-distance context; Coast Starlight (2024 inventory)"
+    },
+    {
+      "id": "chico",
+      "name": "Chico",
+      "lon": -121.846,
+      "lat": 39.725,
+      "rank": 1,
+      "region": "North State",
+      "connections": "North Valley regional rail; Coast Starlight (2024 inventory)"
+    },
+    {
+      "id": "natomas",
+      "name": "Natomas",
+      "lon": -121.503,
+      "lat": 38.656,
+      "rank": 3,
+      "region": "Sacramento",
+      "connections": "Regional rail; connection toward SMF airport"
+    },
+    {
+      "id": "sacramento",
+      "name": "Sacramento",
+      "lon": -121.5008,
+      "lat": 38.5849,
+      "rank": 0,
+      "region": "Sacramento",
+      "connections": "SacRT light rail; regional buses; Coast Starlight, California Zephyr (2024 inventory)"
+    },
+    {
+      "id": "davis",
+      "name": "Davis",
+      "lon": -121.7373,
+      "lat": 38.5423,
+      "rank": 3,
+      "region": "Sacramento",
+      "connections": "Local buses; active transportation; Coast Starlight, California Zephyr (2024 inventory)"
+    },
+    {
+      "id": "roseville",
+      "name": "Roseville",
+      "lon": -121.286,
+      "lat": 38.75,
+      "rank": 2,
+      "region": "Sacramento",
+      "connections": "Regional buses; California Zephyr (2024 inventory)"
+    },
+    {
+      "id": "auburn",
+      "name": "Auburn",
+      "lon": -121.084,
+      "lat": 38.904,
+      "rank": 3,
+      "region": "Sacramento",
+      "connections": "Integrated bus"
+    },
+    {
+      "id": "reno",
+      "name": "Reno",
+      "lon": -119.812,
+      "lat": 39.528,
+      "rank": 2,
+      "region": "Interstate",
+      "connections": "Integrated bus; seasonal rail concept"
+    },
+    {
+      "id": "south-tahoe",
+      "name": "South Lake Tahoe",
+      "lon": -119.977,
+      "lat": 38.95,
+      "rank": 3,
+      "region": "Sierra",
+      "connections": "Integrated bus"
+    },
+    {
+      "id": "cloverdale",
+      "name": "Cloverdale",
+      "lon": -123.008,
+      "lat": 38.799,
+      "rank": 2,
+      "region": "North Bay",
+      "connections": "North Coast bus connection"
+    },
+    {
+      "id": "healdsburg",
+      "name": "Healdsburg",
+      "lon": -122.87,
+      "lat": 38.608,
+      "rank": 3,
+      "region": "North Bay",
+      "connections": "Local buses"
+    },
+    {
+      "id": "santa-rosa",
+      "name": "Santa Rosa",
+      "lon": -122.7228,
+      "lat": 38.438,
+      "rank": 2,
+      "region": "North Bay",
+      "connections": "Local buses"
+    },
+    {
+      "id": "novato",
+      "name": "Novato",
+      "lon": -122.566,
+      "lat": 38.098,
+      "rank": 2,
+      "region": "North Bay",
+      "connections": "East\u2013west rail connection"
+    },
+    {
+      "id": "larkspur",
+      "name": "Larkspur",
+      "lon": -122.5085,
+      "lat": 37.946,
+      "rank": 3,
+      "region": "North Bay",
+      "connections": "Ferry connection"
+    },
+    {
+      "id": "napa",
+      "name": "Napa",
+      "lon": -122.281,
+      "lat": 38.298,
+      "rank": 3,
+      "region": "North Bay",
+      "connections": "Regional rail concept"
+    },
+    {
+      "id": "vallejo",
+      "name": "Vallejo",
+      "lon": -122.249,
+      "lat": 38.123,
+      "rank": 3,
+      "region": "North Bay",
+      "connections": "Ferries; local transit"
+    },
+    {
+      "id": "american-canyon",
+      "name": "American Canyon",
+      "lon": -122.259,
+      "lat": 38.175,
+      "rank": 4,
+      "region": "North Bay",
+      "connections": "Regional rail junction"
+    },
+    {
+      "id": "suisun",
+      "name": "Suisun\u2013Fairfield",
+      "lon": -122.038,
+      "lat": 38.244,
+      "rank": 3,
+      "region": "Bay Area",
+      "connections": "North Bay rail connection"
+    },
+    {
+      "id": "martinez",
+      "name": "Martinez",
+      "lon": -122.138,
+      "lat": 38.019,
+      "rank": 3,
+      "region": "Bay Area",
+      "connections": "Intercity interchange; Coast Starlight, California Zephyr (2024 inventory)"
+    },
+    {
+      "id": "richmond",
+      "name": "Richmond",
+      "lon": -122.353,
+      "lat": 37.937,
+      "rank": 3,
+      "region": "Bay Area",
+      "connections": "BART; California Zephyr (2024 inventory)"
+    },
+    {
+      "id": "oakland",
+      "name": "Oakland",
+      "lon": -122.2718,
+      "lat": 37.7948,
+      "rank": 0,
+      "region": "Bay Area",
+      "connections": "BART; AC Transit; future transbay hub location subject to planning; Coast Starlight (2024 inventory)"
+    },
+    {
+      "id": "coliseum",
+      "name": "Oakland Coliseum",
+      "lon": -122.196,
+      "lat": 37.751,
+      "rank": 4,
+      "region": "Bay Area",
+      "connections": "BART; Oakland airport connector"
+    },
+    {
+      "id": "sf",
+      "name": "San Francisco",
+      "lon": -122.3949,
+      "lat": 37.7764,
+      "rank": 0,
+      "region": "Bay Area",
+      "connections": "Caltrain at 4th & King; Muni; future Portal to Salesforce Transit Center"
+    },
+    {
+      "id": "millbrae",
+      "name": "Millbrae / SFO",
+      "lon": -122.386,
+      "lat": 37.599,
+      "rank": 3,
+      "region": "Bay Area",
+      "connections": "BART; SFO airport"
+    },
+    {
+      "id": "redwood",
+      "name": "Redwood City",
+      "lon": -122.232,
+      "lat": 37.485,
+      "rank": 4,
+      "region": "Bay Area",
+      "connections": "Peninsula connections"
+    },
+    {
+      "id": "san-jose",
+      "name": "San Jose",
+      "lon": -121.9024,
+      "lat": 37.33,
+      "rank": 0,
+      "region": "Bay Area",
+      "connections": "VTA; future BART connection; SJC airport connection; Coast Starlight (2024 inventory)"
+    },
+    {
+      "id": "gilroy",
+      "name": "Gilroy",
+      "lon": -121.566,
+      "lat": 37.005,
+      "rank": 2,
+      "region": "Central Coast",
+      "connections": "High-speed / regional / intercity interchange"
+    },
+    {
+      "id": "union-city",
+      "name": "Union City",
+      "lon": -122.016,
+      "lat": 37.59,
+      "rank": 4,
+      "region": "Bay Area",
+      "connections": "BART connection"
+    },
+    {
+      "id": "fremont",
+      "name": "Fremont",
+      "lon": -122.007,
+      "lat": 37.558,
+      "rank": 4,
+      "region": "Bay Area",
+      "connections": "East Bay transit"
+    },
+    {
+      "id": "pleasanton",
+      "name": "Dublin\u2013Pleasanton",
+      "lon": -121.899,
+      "lat": 37.701,
+      "rank": 3,
+      "region": "Bay Area",
+      "connections": "BART / Valley Link interchange; illustrative hub"
+    },
+    {
+      "id": "livermore",
+      "name": "Livermore",
+      "lon": -121.768,
+      "lat": 37.682,
+      "rank": 4,
+      "region": "Bay Area",
+      "connections": "Altamont corridor"
+    },
+    {
+      "id": "mountain-house",
+      "name": "Mountain House",
+      "lon": -121.545,
+      "lat": 37.752,
+      "rank": 4,
+      "region": "Central Valley",
+      "connections": "Valley Link"
+    },
+    {
+      "id": "north-lathrop",
+      "name": "North Lathrop",
+      "lon": -121.265,
+      "lat": 37.856,
+      "rank": 3,
+      "region": "Central Valley",
+      "connections": "Valley Rail / Valley Link interchange; approximate proposed hub"
+    },
+    {
+      "id": "stockton",
+      "name": "Stockton",
+      "lon": -121.285,
+      "lat": 37.95,
+      "rank": 1,
+      "region": "Central Valley",
+      "connections": "Regional / intercity interchange"
+    },
+    {
+      "id": "modesto",
+      "name": "Modesto",
+      "lon": -120.996,
+      "lat": 37.638,
+      "rank": 3,
+      "region": "Central Valley",
+      "connections": "UP corridor regional station area; existing intercity station lies to the east"
+    },
+    {
+      "id": "ceres",
+      "name": "Ceres",
+      "lon": -120.957,
+      "lat": 37.595,
+      "rank": 4,
+      "region": "Central Valley",
+      "connections": "Valley Rail"
+    },
+    {
+      "id": "merced",
+      "name": "Merced",
+      "lon": -120.485,
+      "lat": 37.305,
+      "rank": 1,
+      "region": "Central Valley",
+      "connections": "Planned cross-platform high-speed / intercity / regional connection"
+    },
+    {
+      "id": "madera",
+      "name": "Madera",
+      "lon": -119.936,
+      "lat": 36.883,
+      "rank": 3,
+      "region": "Central Valley",
+      "connections": "Proposed Avenue 12 HSR station area; conceptual anchor"
+    },
+    {
+      "id": "fresno",
+      "name": "Fresno",
+      "lon": -119.792,
+      "lat": 36.735,
+      "rank": 1,
+      "region": "Central Valley",
+      "connections": "Local bus rapid transit; high-speed rail"
+    },
+    {
+      "id": "kings",
+      "name": "Kings\u2013Tulare",
+      "lon": -119.619,
+      "lat": 36.259,
+      "rank": 2,
+      "region": "Central Valley",
+      "connections": "Proposed HSR interchange; conceptual station anchor"
+    },
+    {
+      "id": "hanford",
+      "name": "Hanford",
+      "lon": -119.65,
+      "lat": 36.325,
+      "rank": 4,
+      "region": "Central Valley",
+      "connections": "Existing intercity corridor"
+    },
+    {
+      "id": "lemoore",
+      "name": "Lemoore",
+      "lon": -119.788,
+      "lat": 36.301,
+      "rank": 3,
+      "region": "Central Valley",
+      "connections": "Regional rail / integrated bus"
+    },
+    {
+      "id": "visalia",
+      "name": "Visalia",
+      "lon": -119.293,
+      "lat": 36.33,
+      "rank": 4,
+      "region": "Central Valley",
+      "connections": "Cross-valley regional corridor"
+    },
+    {
+      "id": "porterville",
+      "name": "Porterville",
+      "lon": -119.018,
+      "lat": 36.065,
+      "rank": 3,
+      "region": "Central Valley",
+      "connections": "Cross-valley regional rail"
+    },
+    {
+      "id": "bakersfield",
+      "name": "Bakersfield",
+      "lon": -119.031,
+      "lat": 35.375,
+      "rank": 1,
+      "region": "Central Valley",
+      "connections": "HSR hub area; intercity buses"
+    },
+    {
+      "id": "yosemite",
+      "name": "Yosemite",
+      "lon": -119.586,
+      "lat": 37.746,
+      "rank": 3,
+      "region": "Sierra",
+      "connections": "Integrated bus; park access"
+    },
+    {
+      "id": "santa-cruz",
+      "name": "Santa Cruz",
+      "lon": -122.027,
+      "lat": 36.974,
+      "rank": 2,
+      "region": "Central Coast",
+      "connections": "METRO bus connections"
+    },
+    {
+      "id": "pajaro",
+      "name": "Pajaro / Watsonville",
+      "lon": -121.747,
+      "lat": 36.899,
+      "rank": 3,
+      "region": "Central Coast",
+      "connections": "Coast / Santa Cruz rail interchange"
+    },
+    {
+      "id": "castroville",
+      "name": "Castroville",
+      "lon": -121.75,
+      "lat": 36.757,
+      "rank": 4,
+      "region": "Central Coast",
+      "connections": "Monterey branch connection"
+    },
+    {
+      "id": "monterey",
+      "name": "Monterey",
+      "lon": -121.891,
+      "lat": 36.602,
+      "rank": 2,
+      "region": "Central Coast",
+      "connections": "MST local transit"
+    },
+    {
+      "id": "salinas",
+      "name": "Salinas",
+      "lon": -121.656,
+      "lat": 36.679,
+      "rank": 2,
+      "region": "Central Coast",
+      "connections": "MST; regional buses; Coast Starlight (2024 inventory)"
+    },
+    {
+      "id": "paso",
+      "name": "Paso Robles",
+      "lon": -120.689,
+      "lat": 35.623,
+      "rank": 2,
+      "region": "Central Coast",
+      "connections": "Cross-valley integrated bus; Coast Starlight (2024 inventory)"
+    },
+    {
+      "id": "slo",
+      "name": "San Luis Obispo",
+      "lon": -120.6549,
+      "lat": 35.2768,
+      "rank": 1,
+      "region": "Central Coast",
+      "connections": "Regional buses; maintenance hub; Coast Starlight (2024 inventory)"
+    },
+    {
+      "id": "goleta",
+      "name": "Goleta",
+      "lon": -119.843,
+      "lat": 34.437,
+      "rank": 3,
+      "region": "Central Coast",
+      "connections": "SBA / UCSB connections"
+    },
+    {
+      "id": "santa-barbara",
+      "name": "Santa Barbara",
+      "lon": -119.691,
+      "lat": 34.4137,
+      "rank": 1,
+      "region": "Central Coast",
+      "connections": "MTD; Central Coast connections; Coast Starlight (2024 inventory)"
+    },
+    {
+      "id": "carpinteria",
+      "name": "Carpinteria",
+      "lon": -119.523,
+      "lat": 34.395,
+      "rank": 4,
+      "region": "Central Coast",
+      "connections": "Local buses"
+    },
+    {
+      "id": "ventura",
+      "name": "Ventura",
+      "lon": -119.298,
+      "lat": 34.2775,
+      "rank": 2,
+      "region": "Southern California",
+      "connections": "VCTC; regional rail"
+    },
+    {
+      "id": "oxnard",
+      "name": "Oxnard",
+      "lon": -119.176,
+      "lat": 34.2,
+      "rank": 3,
+      "region": "Southern California",
+      "connections": "Regional buses; Coast Starlight (2024 inventory)"
+    },
+    {
+      "id": "moorpark",
+      "name": "Moorpark",
+      "lon": -118.883,
+      "lat": 34.279,
+      "rank": 3,
+      "region": "Southern California",
+      "connections": "Regional rail"
+    },
+    {
+      "id": "van-nuys",
+      "name": "Van Nuys",
+      "lon": -118.449,
+      "lat": 34.211,
+      "rank": 3,
+      "region": "Southern California",
+      "connections": "LA Metro connections; Coast Starlight (2024 inventory)"
+    },
+    {
+      "id": "burbank",
+      "name": "Burbank Airport",
+      "lon": -118.358,
+      "lat": 34.193,
+      "rank": 3,
+      "region": "Southern California",
+      "connections": "BUR airport; rail interchange; Coast Starlight (2024 inventory)"
+    },
+    {
+      "id": "santa-clarita",
+      "name": "Santa Clarita",
+      "lon": -118.525,
+      "lat": 34.41,
+      "rank": 3,
+      "region": "Southern California",
+      "connections": "Antelope Valley corridor"
+    },
+    {
+      "id": "palmdale",
+      "name": "Palmdale",
+      "lon": -118.12,
+      "lat": 34.6,
+      "rank": 2,
+      "region": "Southern California",
+      "connections": "High Desert / HSR interchange"
+    },
+    {
+      "id": "lancaster",
+      "name": "Lancaster",
+      "lon": -118.136,
+      "lat": 34.696,
+      "rank": 3,
+      "region": "Southern California",
+      "connections": "Regional rail"
+    },
+    {
+      "id": "la",
+      "name": "Los Angeles",
+      "lon": -118.236,
+      "lat": 34.057,
+      "rank": 0,
+      "region": "Southern California",
+      "connections": "Union Station; LA Metro B/D/A lines; regional buses; Coast Starlight, Southwest Chief, Sunset Limited (2024 inventory)"
+    },
+    {
+      "id": "fullerton",
+      "name": "Fullerton",
+      "lon": -117.924,
+      "lat": 33.869,
+      "rank": 3,
+      "region": "Southern California",
+      "connections": "Regional / intercity junction; Southwest Chief (2024 inventory)"
+    },
+    {
+      "id": "anaheim",
+      "name": "Anaheim",
+      "lon": -117.882,
+      "lat": 33.803,
+      "rank": 2,
+      "region": "Southern California",
+      "connections": "ARTIC; Phase 1 HSR terminus"
+    },
+    {
+      "id": "irvine",
+      "name": "Irvine",
+      "lon": -117.732,
+      "lat": 33.657,
+      "rank": 3,
+      "region": "Southern California",
+      "connections": "Orange County connections"
+    },
+    {
+      "id": "san-clemente",
+      "name": "San Clemente",
+      "lon": -117.622,
+      "lat": 33.42,
+      "rank": 3,
+      "region": "Southern California",
+      "connections": "Coastal resilience priority"
+    },
+    {
+      "id": "oceanside",
+      "name": "Oceanside",
+      "lon": -117.38,
+      "lat": 33.192,
+      "rank": 2,
+      "region": "Southern California",
+      "connections": "SPRINTER; COASTER; intercity connections"
+    },
+    {
+      "id": "escondido",
+      "name": "Escondido",
+      "lon": -117.098,
+      "lat": 33.119,
+      "rank": 3,
+      "region": "Southern California",
+      "connections": "Regional / future inland HSR connections"
+    },
+    {
+      "id": "del-mar",
+      "name": "Del Mar",
+      "lon": -117.271,
+      "lat": 32.96,
+      "rank": 4,
+      "region": "Southern California",
+      "connections": "Coastal resilience priority; not a new station commitment"
+    },
+    {
+      "id": "san-diego",
+      "name": "San Diego",
+      "lon": -117.169,
+      "lat": 32.716,
+      "rank": 0,
+      "region": "Southern California",
+      "connections": "Santa Fe Depot; MTS Trolley; SAN airport connection"
+    },
+    {
+      "id": "convention",
+      "name": "Convention Center",
+      "lon": -117.16,
+      "lat": 32.705,
+      "rank": 4,
+      "region": "Southern California",
+      "connections": "Planned intercity / regional station; MTS"
+    },
+    {
+      "id": "san-ysidro",
+      "name": "San Ysidro / Tijuana",
+      "lon": -117.03,
+      "lat": 32.544,
+      "rank": 3,
+      "region": "Southern California",
+      "connections": "MTS; border connection (not a cross-border rail alignment)"
+    },
+    {
+      "id": "rancho",
+      "name": "Rancho Cucamonga",
+      "lon": -117.559,
+      "lat": 34.092,
+      "rank": 2,
+      "region": "Southern California",
+      "connections": "Brightline West / regional interchange; ONT airport connection"
+    },
+    {
+      "id": "san-bernardino",
+      "name": "San Bernardino",
+      "lon": -117.293,
+      "lat": 34.103,
+      "rank": 2,
+      "region": "Southern California",
+      "connections": "Regional / blended HSR; Arrow; Southwest Chief (2024 inventory)"
+    },
+    {
+      "id": "redlands",
+      "name": "Redlands",
+      "lon": -117.181,
+      "lat": 34.056,
+      "rank": 3,
+      "region": "Southern California",
+      "connections": "Arrow / regional rail"
+    },
+    {
+      "id": "riverside",
+      "name": "Riverside",
+      "lon": -117.37,
+      "lat": 33.976,
+      "rank": 2,
+      "region": "Southern California",
+      "connections": "Regional / blended HSR interchange; Southwest Chief (2024 inventory)"
+    },
+    {
+      "id": "corona",
+      "name": "Corona",
+      "lon": -117.566,
+      "lat": 33.881,
+      "rank": 4,
+      "region": "Southern California",
+      "connections": "Regional junction"
+    },
+    {
+      "id": "perris",
+      "name": "Perris",
+      "lon": -117.224,
+      "lat": 33.781,
+      "rank": 4,
+      "region": "Southern California",
+      "connections": "Regional rail"
+    },
+    {
+      "id": "hemet",
+      "name": "Hemet",
+      "lon": -116.975,
+      "lat": 33.746,
+      "rank": 3,
+      "region": "Southern California",
+      "connections": "Proposed regional extension"
+    },
+    {
+      "id": "victor",
+      "name": "Victor Valley",
+      "lon": -117.186,
+      "lat": 34.548,
+      "rank": 2,
+      "region": "Interstate",
+      "connections": "Proposed High Desert hub area; not the existing Amtrak station"
+    },
+    {
+      "id": "las-vegas",
+      "name": "Las Vegas",
+      "lon": -115.181,
+      "lat": 36.065,
+      "rank": 1,
+      "region": "Interstate",
+      "connections": "Proposed south Las Vegas HSR station area"
+    },
+    {
+      "id": "palm-springs",
+      "name": "Palm Springs",
+      "lon": -116.548,
+      "lat": 33.897,
+      "rank": 3,
+      "region": "Interstate",
+      "connections": "Coachella Valley rail; Sunset Limited (2024 inventory)"
+    },
+    {
+      "id": "coachella",
+      "name": "Coachella Valley",
+      "lon": -116.183,
+      "lat": 33.681,
+      "rank": 2,
+      "region": "Interstate",
+      "connections": "Regional service; future Arizona connection"
+    },
+    {
+      "id": "phoenix",
+      "name": "Phoenix",
+      "lon": -112.073,
+      "lat": 33.449,
+      "rank": 1,
+      "region": "Interstate",
+      "connections": "Interstate HSR vision; corridor alignment not established here"
+    },
+    {
+      "id": "emeryville",
+      "name": "Emeryville",
+      "lon": -122.291463,
+      "lat": 37.840525,
+      "rank": 3,
+      "region": "Bay Area",
+      "connections": "Amtrak long-distance terminal and interchange; Coast Starlight, California Zephyr (2024 inventory)"
+    },
+    {
+      "id": "dunsmuir",
+      "name": "Dunsmuir",
+      "lon": -122.270562,
+      "lat": 41.212453,
+      "rank": 2,
+      "region": "North State",
+      "connections": "Coast Starlight; local connections"
+    },
+    {
+      "id": "truckee",
+      "name": "Truckee",
+      "lon": -120.18617,
+      "lat": 39.327596,
+      "rank": 2,
+      "region": "Sierra",
+      "connections": "California Zephyr; regional buses"
+    },
+    {
+      "id": "colfax",
+      "name": "Colfax",
+      "lon": -120.9532,
+      "lat": 39.098259,
+      "rank": 3,
+      "region": "Sierra",
+      "connections": "California Zephyr; local connections"
+    },
+    {
+      "id": "victorville",
+      "name": "Victorville",
+      "lon": -117.295068,
+      "lat": 34.538096,
+      "rank": 3,
+      "region": "Southern California",
+      "connections": "Existing Southwest Chief station; distinct from the proposed Victor Valley HSR hub"
+    },
+    {
+      "id": "barstow",
+      "name": "Barstow",
+      "lon": -117.027036,
+      "lat": 34.904128,
+      "rank": 2,
+      "region": "Southern California",
+      "connections": "Southwest Chief; local connections"
+    },
+    {
+      "id": "needles",
+      "name": "Needles",
+      "lon": -114.60644,
+      "lat": 34.840674,
+      "rank": 2,
+      "region": "Interstate",
+      "connections": "Southwest Chief toward Arizona and Chicago"
+    },
+    {
+      "id": "pomona",
+      "name": "Pomona",
+      "lon": -117.750535,
+      "lat": 34.059047,
+      "rank": 3,
+      "region": "Southern California",
+      "connections": "Sunset Limited; regional connections"
+    },
+    {
+      "id": "ontario",
+      "name": "Ontario",
+      "lon": -117.648432,
+      "lat": 34.062124,
+      "rank": 3,
+      "region": "Southern California",
+      "connections": "Sunset Limited; regional connections"
+    }
+  ],
+  "routes": [
+    {
+      "id": "smart-core",
+      "name": "North Bay: Larkspur\u2013Healdsburg",
+      "kind": "regional",
+      "nodes": [
+        "larkspur",
+        "novato",
+        "santa-rosa",
+        "healdsburg"
+      ],
+      "phases": {
+        "2028": {
+          "headway": 30,
+          "label": "30 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        },
+        "2034": {
+          "headway": 30,
+          "label": "30 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": 30,
+          "label": "30 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "North Bay",
+      "why": "A half-hourly all-day spine through Marin and Sonoma counties.",
+      "action": "Complete extension, passing-track and station work; coordinate buses and the Larkspur ferry.",
+      "source": {
+        "page": 37,
+        "pdfPage": 44,
+        "label": "Table 1, p. 37",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=44"
+      },
+      "geometry": "rail",
+      "selector": {
+        "owners": [
+          "SMART",
+          "NCRA"
+        ],
+        "subs": [
+          "Main Line",
+          "North Main"
+        ]
+      },
+      "via": null,
+      "offset": 0,
+      "projects": [
+        "smart"
+      ],
+      "notes": "",
+      "conflict": null
+    },
+    {
+      "id": "smart-north",
+      "name": "Healdsburg\u2013Cloverdale",
+      "kind": "regional",
+      "nodes": [
+        "healdsburg",
+        "cloverdale"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2034": {
+          "headway": 60,
+          "label": "60 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": 60,
+          "label": "60 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "North Bay",
+      "why": "An hourly northern extension, with timed bus connections farther up the coast.",
+      "action": "Fund the extension and pathways alongside the operating plan.",
+      "source": {
+        "page": 37,
+        "pdfPage": 44,
+        "label": "Table 1, p. 37",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=44"
+      },
+      "geometry": "rail",
+      "selector": {
+        "owners": [
+          "SMART",
+          "NCRA"
+        ]
+      },
+      "via": null,
+      "offset": 0,
+      "projects": [
+        "smart"
+      ],
+      "notes": "",
+      "conflict": null
+    },
+    {
+      "id": "north-bay-east",
+      "name": "Novato\u2013Suisun / Fairfield",
+      "kind": "regional",
+      "nodes": [
+        "novato",
+        "american-canyon",
+        "suisun"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Integrated bus connections in near and mid terms.",
+          "bound": null,
+          "active": false
+        },
+        "2034": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Integrated bus connections in near and mid terms.",
+          "bound": null,
+          "active": false
+        },
+        "2050": {
+          "headway": 60,
+          "label": "\u226460 min",
+          "detail": "At least hourly regional service.",
+          "bound": "le",
+          "active": true
+        }
+      },
+      "group": "North Bay",
+      "why": "This route would connect North Bay passengers with the statewide railway at Suisun\u2013Fairfield, rather than requiring a road trip around the Bay.",
+      "action": "Develop the proposed timetable with the stations, marshland crossing and railroad-access arrangements it requires. Those decisions affect both cost and the service that could run.",
+      "source": {
+        "page": 37,
+        "pdfPage": 44,
+        "label": "Table 1, p. 37",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=44"
+      },
+      "geometry": "rail",
+      "selector": {
+        "subs": [
+          "Schellville",
+          "Napa",
+          "Brazos Jct.",
+          "Main Line"
+        ]
+      },
+      "via": null,
+      "offset": 0,
+      "projects": [
+        "north-bay"
+      ],
+      "notes": "Existing rail corridor used for geographic context. The plan describes multiple future alternatives; this is not a selected alignment.",
+      "conflict": null
+    },
+    {
+      "id": "napa-branch",
+      "name": "American Canyon\u2013Napa",
+      "kind": "regional",
+      "nodes": [
+        "american-canyon",
+        "napa"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2034": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2050": {
+          "headway": 60,
+          "label": "\u226460 min",
+          "detail": "Part of the at-least-hourly North Bay service concept.",
+          "bound": "le",
+          "active": true
+        }
+      },
+      "group": "North Bay",
+      "why": "Links Napa to the proposed east\u2013west regional rail network.",
+      "action": "Coordinate service, crossings, stations and the Suisun connection.",
+      "source": {
+        "page": 37,
+        "pdfPage": 44,
+        "label": "Table 1, p. 37",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=44"
+      },
+      "geometry": "rail",
+      "selector": {
+        "subs": [
+          "Napa",
+          "Napa Line"
+        ]
+      },
+      "via": null,
+      "offset": 0,
+      "projects": [
+        "north-bay"
+      ],
+      "notes": "Frequency is the Table 1 North Bay corridor goal, not an adopted branch timetable.",
+      "conflict": null
+    },
+    {
+      "id": "vallejo-branch",
+      "name": "American Canyon\u2013Vallejo",
+      "kind": "regional",
+      "nodes": [
+        "american-canyon",
+        "vallejo"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2034": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2050": {
+          "headway": 60,
+          "label": "\u226460 min",
+          "detail": "Part of the at-least-hourly North Bay service concept.",
+          "bound": "le",
+          "active": true
+        }
+      },
+      "group": "North Bay",
+      "why": "Brings Vallejo into the regional network.",
+      "action": "Protect the connection and develop a service-led station and access plan.",
+      "source": {
+        "page": 37,
+        "pdfPage": 44,
+        "label": "Table 1, p. 37",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=44"
+      },
+      "geometry": "rail",
+      "selector": {
+        "subs": [
+          "Vallejo"
+        ]
+      },
+      "via": null,
+      "offset": 0,
+      "projects": [
+        "north-bay"
+      ],
+      "notes": "Frequency is the corridor-level goal; future station and alignment choices remain subject to planning.",
+      "conflict": null
+    },
+    {
+      "id": "north-valley",
+      "name": "Sacramento\u2013Chico",
+      "kind": "regional",
+      "nodes": [
+        "sacramento",
+        "natomas",
+        "chico"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Integrated buses provide the strategic connection in near and mid terms.",
+          "bound": null,
+          "active": false
+        },
+        "2034": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Integrated buses provide the strategic connection in near and mid terms.",
+          "bound": null,
+          "active": false
+        },
+        "2050": {
+          "headway": 120,
+          "label": "120 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Sacramento & north",
+      "why": "The long-term plan proposes regional rail between Sacramento and Chico, with buses continuing toward Redding. It would provide a more frequent regional connection than the existing long-distance train.",
+      "action": "The proposed timetable needs stations, passing tracks and layover facilities, as well as an agreement to use the freight-owned railway. Ask which of these requirements each project addresses.",
+      "source": {
+        "page": 37,
+        "pdfPage": 44,
+        "label": "Table 1, p. 37",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=44"
+      },
+      "geometry": "rail",
+      "selector": {
+        "subs": [
+          "Sacramento",
+          "Valley"
+        ]
+      },
+      "via": [
+        [
+          -121.556,
+          39.136
+        ],
+        [
+          -121.694,
+          39.366
+        ]
+      ],
+      "offset": 0,
+      "projects": [
+        "north-valley"
+      ],
+      "notes": "",
+      "conflict": null
+    },
+    {
+      "id": "capitol",
+      "name": "Sacramento\u2013Oakland",
+      "kind": "intercity",
+      "nodes": [
+        "sacramento",
+        "davis",
+        "suisun",
+        "martinez",
+        "richmond",
+        "oakland"
+      ],
+      "phases": {
+        "2028": {
+          "headway": 60,
+          "label": "60 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        },
+        "2034": {
+          "headway": 60,
+          "label": "60 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": 30,
+          "label": "30 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Bay & Sacramento",
+      "why": "In the long-term plan, Sacramento\u2013Oakland trains would run every half hour and continue through San Francisco toward San Jose. That service depends on more than the existing tracks between Sacramento and Oakland.",
+      "action": "Ask how work at Carquinez, the proposed Bay crossing and shoreline protection would be sequenced around the timetable. Each addresses a different constraint on the through service.",
+      "source": {
+        "page": 37,
+        "pdfPage": 44,
+        "label": "Table 1, p. 37",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=44"
+      },
+      "geometry": "rail",
+      "selector": {
+        "pass": "Capitol Corridor"
+      },
+      "via": null,
+      "offset": 0,
+      "projects": [
+        "mega-corridor"
+      ],
+      "notes": "Existing Martinez Subdivision mapped. Future bridge and shoreline alternatives are not selected here.",
+      "conflict": null
+    },
+    {
+      "id": "roseville",
+      "name": "Sacramento\u2013Roseville",
+      "kind": "intercity",
+      "nodes": [
+        "sacramento",
+        "roseville"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "1 daily RT",
+          "detail": "One intercity round trip continues to Auburn.",
+          "bound": null,
+          "active": true
+        },
+        "2034": {
+          "headway": 240,
+          "label": "240 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": 30,
+          "label": "30 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Bay & Sacramento",
+      "why": "A major frequency increase on the eastern end of the Sacramento corridor.",
+      "action": "Deliver track capacity and passenger\u2013freight operating agreements.",
+      "source": {
+        "page": 37,
+        "pdfPage": 44,
+        "label": "Table 1, p. 37",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=44"
+      },
+      "geometry": "rail",
+      "selector": {
+        "pass": "Capitol Corridor"
+      },
+      "via": null,
+      "offset": 0,
+      "projects": [
+        "mega-corridor"
+      ],
+      "notes": "",
+      "conflict": null
+    },
+    {
+      "id": "davis-regional",
+      "name": "Davis\u2013Roseville regional overlay",
+      "kind": "regional",
+      "nodes": [
+        "davis",
+        "sacramento",
+        "roseville"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2034": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2050": {
+          "headway": 30,
+          "label": "30 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Bay & Sacramento",
+      "why": "A separate half-hourly regional layer complements intercity trains.",
+      "action": "Coordinate stopping patterns and common ticketing, not just additional departures.",
+      "source": {
+        "page": 37,
+        "pdfPage": 44,
+        "label": "Table 1, p. 37",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=44"
+      },
+      "geometry": "rail",
+      "selector": {
+        "pass": "Capitol Corridor"
+      },
+      "via": null,
+      "offset": 5,
+      "projects": [
+        "mega-corridor"
+      ],
+      "notes": "Separate service layer. Do not assume that overlapping trains produce an evenly spaced combined headway.",
+      "conflict": null
+    },
+    {
+      "id": "auburn",
+      "name": "Roseville\u2013Auburn",
+      "kind": "intercity",
+      "nodes": [
+        "roseville",
+        "auburn"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "1 daily RT",
+          "detail": "",
+          "bound": null,
+          "active": true
+        },
+        "2034": {
+          "headway": null,
+          "label": "1 daily RT",
+          "detail": "",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": null,
+          "label": "1 daily RT",
+          "detail": "",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Bay & Sacramento",
+      "why": "Retains a limited intercity connection beyond Roseville.",
+      "action": "Coordinate the daily train with the more frequent rail and bus network.",
+      "source": {
+        "page": 37,
+        "pdfPage": 44,
+        "label": "Table 1, p. 37",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=44"
+      },
+      "geometry": "rail",
+      "selector": {
+        "pass": "Capitol Corridor"
+      },
+      "via": null,
+      "offset": 0,
+      "projects": [],
+      "notes": "",
+      "conflict": null
+    },
+    {
+      "id": "transbay",
+      "name": "Oakland\u2013San Francisco crossing",
+      "kind": "intercity",
+      "nodes": [
+        "oakland",
+        "sf"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2034": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2050": {
+          "headway": 30,
+          "label": "30 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Bay & Sacramento",
+      "why": "The missing link: through-running intercity trains connect Sacramento, the East Bay and the Peninsula.",
+      "action": "Develop a standard-gauge transbay crossing together with the Portal and the full megacorridor.",
+      "source": {
+        "page": 37,
+        "pdfPage": 44,
+        "label": "Table 1, p. 37",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=44"
+      },
+      "geometry": "concept",
+      "selector": null,
+      "via": [
+        [
+          -122.304,
+          37.807
+        ],
+        [
+          -122.349,
+          37.802
+        ],
+        [
+          -122.394,
+          37.789
+        ]
+      ],
+      "offset": 0,
+      "projects": [
+        "mega-corridor",
+        "portal"
+      ],
+      "notes": "Conceptual connection, not a chosen tunnel alignment. Frequency refers to the intercity through service in Table 1.",
+      "conflict": null
+    },
+    {
+      "id": "transbay-regional",
+      "name": "Peninsula\u2013Oakland Coliseum regional",
+      "kind": "regional",
+      "nodes": [
+        "sf",
+        "oakland",
+        "coliseum"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2034": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2050": {
+          "headway": 30,
+          "label": "30 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Bay & Sacramento",
+      "why": "A second service layer uses the new crossing to connect the Peninsula and East Bay.",
+      "action": "Design shared infrastructure for coordinated regional and intercity operations.",
+      "source": {
+        "page": 37,
+        "pdfPage": 44,
+        "label": "Table 1, p. 37",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=44"
+      },
+      "geometry": "concept",
+      "selector": null,
+      "via": [
+        [
+          -122.394,
+          37.789
+        ],
+        [
+          -122.349,
+          37.802
+        ],
+        [
+          -122.304,
+          37.807
+        ]
+      ],
+      "offset": 5,
+      "projects": [
+        "mega-corridor"
+      ],
+      "notes": "Illustrative connection across the Bay; not a tunnel or station alignment.",
+      "conflict": null
+    },
+    {
+      "id": "east-bay",
+      "name": "Oakland\u2013San Jose, via East Bay",
+      "kind": "intercity",
+      "nodes": [
+        "oakland",
+        "coliseum",
+        "fremont",
+        "san-jose"
+      ],
+      "phases": {
+        "2028": {
+          "headway": 120,
+          "label": "120 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        },
+        "2034": {
+          "headway": 120,
+          "label": "120 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": 120,
+          "label": "120 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Bay & Sacramento",
+      "why": "The East Bay retains a two-hourly intercity service alongside the transbay corridor.",
+      "action": "Improve running times and adapt low-lying tracks around Alviso.",
+      "source": {
+        "page": 37,
+        "pdfPage": 44,
+        "label": "Table 1, p. 37",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=44"
+      },
+      "geometry": "rail",
+      "selector": {
+        "pass": "Capitol Corridor"
+      },
+      "via": null,
+      "offset": 0,
+      "projects": [
+        "mega-corridor"
+      ],
+      "notes": "",
+      "conflict": null
+    },
+    {
+      "id": "peninsula",
+      "name": "San Francisco\u2013San Jose regional",
+      "kind": "regional",
+      "nodes": [
+        "sf",
+        "millbrae",
+        "redwood",
+        "san-jose"
+      ],
+      "phases": {
+        "2028": {
+          "headway": 15,
+          "label": "\u226415 min",
+          "detail": "Highly frequent regional service; \u226415-minute band in the service maps.",
+          "bound": "le",
+          "active": true
+        },
+        "2034": {
+          "headway": 15,
+          "label": "\u226415 min",
+          "detail": "Highly frequent regional service; \u226415-minute band in the service maps.",
+          "bound": "le",
+          "active": true
+        },
+        "2050": {
+          "headway": 15,
+          "label": "\u226415 min",
+          "detail": "Highly frequent regional service; \u226415-minute band in the service maps.",
+          "bound": "le",
+          "active": true
+        }
+      },
+      "group": "Bay & Sacramento",
+      "why": "Frequent electrified service is the Peninsula\u2019s foundation for the integrated network.",
+      "action": "Coordinate capacity, grade separations, the Portal, and future high-speed operations.",
+      "source": {
+        "page": 37,
+        "pdfPage": 44,
+        "label": "Table 1, p. 37",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=44"
+      },
+      "geometry": "rail",
+      "selector": {
+        "comm": "Caltrain"
+      },
+      "via": null,
+      "offset": 4,
+      "projects": [
+        "portal"
+      ],
+      "notes": "Frequency band from service maps pp. 30, 33, 35; Table 1 calls this \u201chighly frequent.\u201d The mapped line ends at existing 4th & King; the Portal is a separate project marker.",
+      "conflict": null
+    },
+    {
+      "id": "gilroy-regional",
+      "name": "San Jose\u2013Gilroy regional",
+      "kind": "regional",
+      "nodes": [
+        "san-jose",
+        "gilroy"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Limited",
+          "detail": "Limited regional service.",
+          "bound": null,
+          "active": true
+        },
+        "2034": {
+          "headway": null,
+          "label": "Limited",
+          "detail": "Limited regional service.",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": 15,
+          "label": "\u226415 min",
+          "detail": "Regional corridor frequency band in the long-term map, p. 35.",
+          "bound": "le",
+          "active": true
+        }
+      },
+      "group": "Bay & Sacramento",
+      "why": "Extends the high-frequency regional network south to a major HSR and Coast interchange.",
+      "action": "Develop the blended corridor, stations, fleet and a coordinated operating plan.",
+      "source": {
+        "page": 37,
+        "pdfPage": 44,
+        "label": "Table 1, p. 37",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=44"
+      },
+      "geometry": "rail",
+      "selector": {
+        "comm": "Caltrain"
+      },
+      "via": null,
+      "offset": 4,
+      "projects": [
+        "hsr-phase1"
+      ],
+      "notes": "2050 numeric band comes from the long-term service map; Table 1 does not give a numeric regional headway.",
+      "conflict": null
+    },
+    {
+      "id": "peninsula-intercity",
+      "name": "San Francisco\u2013San Jose intercity",
+      "kind": "intercity",
+      "nodes": [
+        "sf",
+        "millbrae",
+        "redwood",
+        "san-jose"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2034": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2050": {
+          "headway": 30,
+          "label": "30 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Bay & Sacramento",
+      "why": "Sacramento intercity trains continue through San Francisco to San Jose.",
+      "action": "Protect through-running and shared-capacity interfaces in megaproject design.",
+      "source": {
+        "page": 37,
+        "pdfPage": 44,
+        "label": "Table 1, p. 37",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=44"
+      },
+      "geometry": "rail",
+      "selector": {
+        "comm": "Caltrain"
+      },
+      "via": null,
+      "offset": 0,
+      "projects": [
+        "mega-corridor",
+        "portal"
+      ],
+      "notes": "",
+      "conflict": null
+    },
+    {
+      "id": "altamont",
+      "name": "Stockton\u2013San Jose / Union City",
+      "kind": "regional",
+      "nodes": [
+        "stockton",
+        "north-lathrop",
+        "livermore",
+        "fremont",
+        "san-jose"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Growing service",
+          "detail": "ACE frequency increases as market demand dictates.",
+          "bound": null,
+          "active": true
+        },
+        "2034": {
+          "headway": null,
+          "label": "Growing service",
+          "detail": "ACE frequency increases as market demand dictates.",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": 120,
+          "label": "120 min",
+          "detail": "Two-hourly base service with additional peak overlay.",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Central Valley",
+      "why": "The Altamont connection links Valley communities with East Bay and Silicon Valley jobs.",
+      "action": "Secure capacity, fleet and interchange improvements, including Union City.",
+      "source": {
+        "page": 37,
+        "pdfPage": 44,
+        "label": "Table 1, p. 37",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=44"
+      },
+      "geometry": "rail",
+      "selector": {
+        "comm": "ACE"
+      },
+      "via": null,
+      "offset": -3,
+      "projects": [
+        "valley-rail"
+      ],
+      "notes": "San Jose branch mapped on the existing ACE corridor. A future Union City connection is separately indicated at the hub; peak overlays are not converted to all-day headways.",
+      "conflict": null
+    },
+    {
+      "id": "valley-link-west",
+      "name": "Dublin\u2013Pleasanton\u2013Mountain House",
+      "kind": "regional",
+      "nodes": [
+        "pleasanton",
+        "livermore",
+        "mountain-house"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2034": {
+          "headway": 15,
+          "label": "\u226415 min",
+          "detail": "Highly frequent in Table 1; map frequency band \u226415 minutes.",
+          "bound": "le",
+          "active": true
+        },
+        "2050": {
+          "headway": 15,
+          "label": "\u226415 min",
+          "detail": "Highly frequent in Table 1; map frequency band \u226415 minutes.",
+          "bound": "le",
+          "active": true
+        }
+      },
+      "group": "Central Valley",
+      "why": "A frequent connection between BART and the northern San Joaquin Valley.",
+      "action": "Deliver the initial corridor and make timed transfers and station access part of the project.",
+      "source": {
+        "page": 37,
+        "pdfPage": 44,
+        "label": "Table 1, p. 37",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=44"
+      },
+      "geometry": "concept",
+      "selector": null,
+      "via": [
+        [
+          -121.815,
+          37.709
+        ],
+        [
+          -121.768,
+          37.683
+        ],
+        [
+          -121.655,
+          37.722
+        ]
+      ],
+      "offset": 0,
+      "projects": [
+        "valley-link"
+      ],
+      "notes": "Conceptual corridor through the Altamont area; not an engineering alignment.",
+      "conflict": null
+    },
+    {
+      "id": "valley-link-east",
+      "name": "Mountain House\u2013North Lathrop",
+      "kind": "regional",
+      "nodes": [
+        "mountain-house",
+        "north-lathrop"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2034": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2050": {
+          "headway": 15,
+          "label": "\u226415 min",
+          "detail": "Highly frequent service extended east in the long-term map.",
+          "bound": "le",
+          "active": true
+        }
+      },
+      "group": "Central Valley",
+      "why": "Connects Valley Link to the Valley Rail spine.",
+      "action": "Protect the through corridor and plan the North Lathrop transfer as one interchange.",
+      "source": {
+        "page": 37,
+        "pdfPage": 44,
+        "label": "Table 1, p. 37",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=44"
+      },
+      "geometry": "concept",
+      "selector": null,
+      "via": [
+        [
+          -121.43,
+          37.744
+        ],
+        [
+          -121.3,
+          37.785
+        ]
+      ],
+      "offset": 0,
+      "projects": [
+        "valley-link"
+      ],
+      "notes": "",
+      "conflict": null
+    },
+    {
+      "id": "valley-rail",
+      "name": "Sacramento\u2013Merced conventional rail",
+      "kind": "regional",
+      "nodes": [
+        "sacramento",
+        "stockton",
+        "modesto",
+        "ceres",
+        "merced"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Growing service",
+          "detail": "San Joaquins frequency increases; regional service is introduced in the northern corridor.",
+          "bound": null,
+          "active": true
+        },
+        "2034": {
+          "headway": 60,
+          "label": "60 min",
+          "detail": "Coordinated regional + intercity service; combined corridor goal, not 60 minutes for each operator.",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": 60,
+          "label": "60 min",
+          "detail": "Hourly regional service, alongside a separate HSR layer.",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Central Valley",
+      "why": "Builds the feeder network that makes the initial high-speed line useful statewide.",
+      "action": "Deliver Valley Rail, Stockton capacity and the Merced cross-platform connection together.",
+      "source": {
+        "page": 37,
+        "pdfPage": 44,
+        "label": "Table 1, p. 37",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=44"
+      },
+      "geometry": "rail",
+      "selector": {
+        "subs": [
+          "Sacramento",
+          "Fresno"
+        ],
+        "pass": "San Joaquin"
+      },
+      "via": null,
+      "offset": 0,
+      "projects": [
+        "stockton",
+        "valley-rail",
+        "merced"
+      ],
+      "notes": "The UP regional spine is mapped for geographic context. Near-term San Joaquins and some intercity paths use parallel BNSF infrastructure; this corridor aggregate is not a train-path map.",
+      "conflict": null
+    },
+    {
+      "id": "oakland-merced",
+      "name": "Oakland\u2013Merced intercity",
+      "kind": "intercity",
+      "nodes": [
+        "oakland",
+        "martinez",
+        "stockton",
+        "merced"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "5 daily RT",
+          "detail": "Five round trips in Table 1 across all horizons.",
+          "bound": null,
+          "active": true
+        },
+        "2034": {
+          "headway": null,
+          "label": "5 daily RT",
+          "detail": "Five round trips in Table 1 across all horizons.",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": null,
+          "label": "5 daily RT",
+          "detail": "Five round trips in Table 1 across all horizons.",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Central Valley",
+      "why": "Connects the East Bay directly to the Merced high-speed interchange.",
+      "action": "Deliver the transfer connection and coordinate schedules across operators.",
+      "source": {
+        "page": 37,
+        "pdfPage": 44,
+        "label": "Table 1, p. 37",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=44"
+      },
+      "geometry": "rail",
+      "selector": {
+        "pass": "San Joaquin"
+      },
+      "via": null,
+      "offset": 3,
+      "projects": [
+        "merced",
+        "stockton"
+      ],
+      "notes": "Five daily round trips are not converted to a regular headway. The BNSF approach to Merced is shown; future MITC geometry is not prescribed.",
+      "conflict": null
+    },
+    {
+      "id": "valley-legacy",
+      "name": "Merced\u2013Bakersfield conventional intercity",
+      "kind": "intercity",
+      "nodes": [
+        "merced",
+        "fresno",
+        "hanford",
+        "bakersfield"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Existing corridor",
+          "detail": "Near-term San Joaquins continues to Bakersfield; frequency increase, not a numeric headway.",
+          "bound": null,
+          "active": true
+        },
+        "2034": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Mid-term service concept reorganizes connections around HSR at Merced and Madera.",
+          "bound": null,
+          "active": false
+        },
+        "2050": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Long-term intercity network is reorganized around HSR. This is not a claim that freight tracks close.",
+          "bound": null,
+          "active": false
+        }
+      },
+      "group": "Central Valley",
+      "why": "Before HSR opens, conventional intercity rail remains the Valley backbone.",
+      "action": "Maintain reliable service during the transition and preserve seamless connections.",
+      "source": {
+        "page": 37,
+        "pdfPage": 44,
+        "label": "Table 1, p. 37",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=44"
+      },
+      "geometry": "rail",
+      "selector": {
+        "pass": "San Joaquin"
+      },
+      "via": null,
+      "offset": 0,
+      "projects": [
+        "merced",
+        "central-hsr"
+      ],
+      "notes": "",
+      "conflict": null
+    },
+    {
+      "id": "cross-valley",
+      "name": "Lemoore\u2013Kings/Tulare\u2013Porterville",
+      "kind": "regional",
+      "nodes": [
+        "lemoore",
+        "kings",
+        "visalia",
+        "porterville"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Integrated bus connection via Hanford.",
+          "bound": null,
+          "active": false
+        },
+        "2034": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Integrated bus connection to Kings\u2013Tulare HSR.",
+          "bound": null,
+          "active": false
+        },
+        "2050": {
+          "headway": 60,
+          "label": "60 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Central Valley",
+      "why": "An east\u2013west regional link extends HSR access beyond the north\u2013south spine.",
+      "action": "Plan track upgrades, four stations and the HSR transfer together.",
+      "source": {
+        "page": 37,
+        "pdfPage": 44,
+        "label": "Table 1, p. 37",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=44"
+      },
+      "geometry": "concept",
+      "selector": null,
+      "via": [
+        [
+          -119.651,
+          36.325
+        ],
+        [
+          -119.445,
+          36.33
+        ],
+        [
+          -119.133,
+          36.3
+        ]
+      ],
+      "offset": 0,
+      "projects": [
+        "cross-valley"
+      ],
+      "notes": "Conceptual connection via Visalia. Existing freight corridors and the new HSR station interface require project-level definition.",
+      "conflict": null
+    },
+    {
+      "id": "gilroy-salinas",
+      "name": "Gilroy\u2013Salinas intercity",
+      "kind": "intercity",
+      "nodes": [
+        "gilroy",
+        "pajaro",
+        "castroville",
+        "salinas"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Limited",
+          "detail": "Limited regional/intercity service. The narrative describes 3 San Jose\u2013Salinas round trips in the near term.",
+          "bound": null,
+          "active": true
+        },
+        "2034": {
+          "headway": null,
+          "label": "Limited + growth",
+          "detail": "Narrative p. 32 describes doubling the San Jose\u2013Salinas frequency; no uniform headway adopted.",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": 60,
+          "label": "60 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Central Coast",
+      "why": "Hourly service connects the Monterey Bay region to HSR at Gilroy.",
+      "action": "Deliver stations, sidings, rolling stock and timed Gilroy connections.",
+      "source": {
+        "page": 37,
+        "pdfPage": 44,
+        "label": "Table 1, p. 37",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=44"
+      },
+      "geometry": "rail",
+      "selector": {
+        "pass": "Coast Starlight"
+      },
+      "via": null,
+      "offset": 0,
+      "projects": [
+        "coast"
+      ],
+      "notes": "Near/mid frequency remains qualitative; a daily trip count is not a regular all-day headway.",
+      "conflict": null
+    },
+    {
+      "id": "salinas-slo",
+      "name": "Salinas\u2013San Luis Obispo",
+      "kind": "intercity",
+      "nodes": [
+        "salinas",
+        "paso",
+        "slo"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Integrated bus is the state-service connection in Table 1; the existing daily Coast Starlight is shown separately in gray.",
+          "bound": null,
+          "active": false
+        },
+        "2034": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Integrated bus is the state-service connection in Table 1; the existing daily Coast Starlight is shown separately in gray.",
+          "bound": null,
+          "active": false
+        },
+        "2050": {
+          "headway": 240,
+          "label": "240 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Central Coast",
+      "why": "Regular four-hourly service would make the Coast corridor more useful than its daily long-distance baseline.",
+      "action": "Build passing capacity, Coast stations and maintenance capability; secure host access.",
+      "source": {
+        "page": 37,
+        "pdfPage": 44,
+        "label": "Table 1, p. 37",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=44"
+      },
+      "geometry": "rail",
+      "selector": {
+        "pass": "Coast Starlight"
+      },
+      "via": null,
+      "offset": 0,
+      "projects": [
+        "coast"
+      ],
+      "notes": "",
+      "conflict": null
+    },
+    {
+      "id": "santa-cruz",
+      "name": "Santa Cruz\u2013Pajaro / Watsonville",
+      "kind": "regional",
+      "nodes": [
+        "santa-cruz",
+        "pajaro"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Integrated bus connection.",
+          "bound": null,
+          "active": false
+        },
+        "2034": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Integrated bus connection.",
+          "bound": null,
+          "active": false
+        },
+        "2050": {
+          "headway": 60,
+          "label": "60 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Central Coast",
+      "why": "An hourly regional branch connects Santa Cruz to the statewide network.",
+      "action": "Advance the zero-emission passenger corridor and a convenient Pajaro transfer.",
+      "source": {
+        "page": 37,
+        "pdfPage": 44,
+        "label": "Table 1, p. 37",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=44"
+      },
+      "geometry": "rail",
+      "selector": {
+        "subs": [
+          "Santa Cruz Branch Rail Line"
+        ]
+      },
+      "via": null,
+      "offset": 0,
+      "projects": [
+        "coast"
+      ],
+      "notes": "",
+      "conflict": null
+    },
+    {
+      "id": "monterey",
+      "name": "Castroville\u2013Monterey",
+      "kind": "regional",
+      "nodes": [
+        "castroville",
+        "monterey"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Integrated bus connection.",
+          "bound": null,
+          "active": false
+        },
+        "2034": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Integrated bus connection.",
+          "bound": null,
+          "active": false
+        },
+        "2050": {
+          "headway": 60,
+          "label": "60 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Central Coast",
+      "why": "Hourly regional rail ties the Monterey Peninsula to the Coast spine.",
+      "action": "Develop track, station and access improvements with a coordinated interchange.",
+      "source": {
+        "page": 37,
+        "pdfPage": 44,
+        "label": "Table 1, p. 37",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=44"
+      },
+      "geometry": "concept",
+      "selector": null,
+      "via": [
+        [
+          -121.761,
+          36.703
+        ],
+        [
+          -121.805,
+          36.657
+        ],
+        [
+          -121.862,
+          36.617
+        ]
+      ],
+      "offset": 0,
+      "projects": [
+        "coast"
+      ],
+      "notes": "Generalized former branch corridor, not a selected final alignment.",
+      "conflict": null
+    },
+    {
+      "id": "slo-sb",
+      "name": "San Luis Obispo\u2013Santa Barbara",
+      "kind": "intercity",
+      "nodes": [
+        "slo",
+        "goleta",
+        "santa-barbara"
+      ],
+      "phases": {
+        "2028": {
+          "headway": 240,
+          "label": "240 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        },
+        "2034": {
+          "headway": 240,
+          "label": "240 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": 240,
+          "label": "240 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Central Coast",
+      "why": "A regular four-hourly intercity service, not hourly rail along the entire coast.",
+      "action": "Protect the shoreline corridor; add capacity and maintenance facilities where the timetable requires.",
+      "source": {
+        "page": 37,
+        "pdfPage": 44,
+        "label": "Table 1, p. 37",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=44"
+      },
+      "geometry": "rail",
+      "selector": {
+        "pass": "Pacific Surfliner"
+      },
+      "via": null,
+      "offset": 0,
+      "projects": [
+        "coast-resilience",
+        "coast"
+      ],
+      "notes": "",
+      "conflict": null
+    },
+    {
+      "id": "sb-la",
+      "name": "Santa Barbara\u2013Los Angeles",
+      "kind": "intercity",
+      "nodes": [
+        "santa-barbara",
+        "carpinteria",
+        "ventura",
+        "oxnard",
+        "moorpark",
+        "van-nuys",
+        "burbank",
+        "la"
+      ],
+      "phases": {
+        "2028": {
+          "headway": 120,
+          "label": "120 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        },
+        "2034": {
+          "headway": 120,
+          "label": "120 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": 60,
+          "label": "60 min*",
+          "detail": "Table 1: coordinated hourly regional + intercity service. See the source discrepancy.",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Central Coast",
+      "why": "A more useful all-day coastal corridor connects Santa Barbara and Ventura to Los Angeles.",
+      "action": "Tie passing tracks, fleet, operating support and coastal resilience to a single service plan.",
+      "source": {
+        "page": 38,
+        "pdfPage": 45,
+        "label": "Table 1, p. 38",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=45"
+      },
+      "geometry": "rail",
+      "selector": {
+        "pass": "Pacific Surfliner"
+      },
+      "via": null,
+      "offset": -2,
+      "projects": [
+        "coast-resilience",
+        "link-us"
+      ],
+      "notes": "The long-term table value is a combined corridor target; it is not an additional hourly train on top of all regional layers.",
+      "conflict": "Table 1 (p. 38) specifies coordinated hourly service in 2050; the narrative on p. 34 describes combined half-hourly service. This atlas uses the table\u2019s 60-minute goal and flags the unresolved 30/60-minute discrepancy. Do not present either as an adopted timetable."
+    },
+    {
+      "id": "ventura-regional",
+      "name": "Ventura\u2013Van Nuys regional",
+      "kind": "regional",
+      "nodes": [
+        "ventura",
+        "oxnard",
+        "moorpark",
+        "van-nuys"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Limited",
+          "detail": "Limited regional service in Table 1.",
+          "bound": null,
+          "active": true
+        },
+        "2034": {
+          "headway": null,
+          "label": "Limited",
+          "detail": "Limited regional service in Table 1.",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": null,
+          "label": "Varies",
+          "detail": "Long-term text p. 36 gives half-hourly service from Moorpark; Table 1 does not specify the outer regional corridor.",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Southern California",
+      "why": "Regional service supplements intercity trains on the western approach to Los Angeles.",
+      "action": "Match passing capacity and platform works to the integrated timetable.",
+      "source": {
+        "page": 38,
+        "pdfPage": 45,
+        "label": "Table 1, p. 38",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=45"
+      },
+      "geometry": "rail",
+      "selector": {
+        "comm": "Ventura County Line",
+        "pass": "Pacific Surfliner"
+      },
+      "via": null,
+      "offset": 4,
+      "projects": [
+        "coast-resilience"
+      ],
+      "notes": "Use the Moorpark\u2013LA corridor card for the long-term half-hourly regional goal. No uniform headway is assigned to Ventura\u2013Van Nuys as a whole.",
+      "conflict": null
+    },
+    {
+      "id": "moorpark-la",
+      "name": "Moorpark\u2013Los Angeles regional",
+      "kind": "regional",
+      "nodes": [
+        "moorpark",
+        "van-nuys",
+        "burbank",
+        "la"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Outer corridor is shown separately as limited regional service.",
+          "bound": null,
+          "active": false
+        },
+        "2034": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Outer corridor is shown separately as limited regional service.",
+          "bound": null,
+          "active": false
+        },
+        "2050": {
+          "headway": 30,
+          "label": "30 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Southern California",
+      "why": "A half-hourly regional trunk supports through-running toward San Diego and Redlands.",
+      "action": "Coordinate Metrolink capacity projects, fleet and Link US interfaces.",
+      "source": {
+        "page": 36,
+        "pdfPage": 43,
+        "label": "Long-term service map / text, p. 36",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=43"
+      },
+      "geometry": "rail",
+      "selector": {
+        "pass": "Pacific Surfliner"
+      },
+      "via": null,
+      "offset": 4,
+      "projects": [
+        "link-us"
+      ],
+      "notes": "Long-term narrative p. 36. This overlaps the Van Nuys core as a description of the same regional layer, not additional trains.",
+      "conflict": null
+    },
+    {
+      "id": "van-nuys-core",
+      "name": "Van Nuys\u2013Los Angeles regional core",
+      "kind": "regional",
+      "nodes": [
+        "van-nuys",
+        "burbank",
+        "la"
+      ],
+      "phases": {
+        "2028": {
+          "headway": 30,
+          "label": "30 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        },
+        "2034": {
+          "headway": 30,
+          "label": "30 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": 30,
+          "label": "30 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Southern California",
+      "why": "Half-hourly regional service in the LA core, even before long-term build-out.",
+      "action": "Deliver targeted track and station capacity, with coordinated fares and connections.",
+      "source": {
+        "page": 38,
+        "pdfPage": 45,
+        "label": "Table 1, p. 38",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=45"
+      },
+      "geometry": "rail",
+      "selector": {
+        "pass": "Pacific Surfliner"
+      },
+      "via": null,
+      "offset": 4,
+      "projects": [
+        "link-us"
+      ],
+      "notes": "",
+      "conflict": null
+    },
+    {
+      "id": "antelope-north",
+      "name": "Lancaster\u2013Santa Clarita",
+      "kind": "regional",
+      "nodes": [
+        "lancaster",
+        "palmdale",
+        "santa-clarita"
+      ],
+      "phases": {
+        "2028": {
+          "headway": 60,
+          "label": "60 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        },
+        "2034": {
+          "headway": 60,
+          "label": "60 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": 60,
+          "label": "60 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Southern California",
+      "why": "Hourly all-day service brings the Antelope Valley into the regional network.",
+      "action": "Deliver signaling, passing tracks, terminal improvements and crew/fleet plans.",
+      "source": {
+        "page": 38,
+        "pdfPage": 45,
+        "label": "Table 1, p. 38",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=45"
+      },
+      "geometry": "rail",
+      "selector": {
+        "comm": "Antelope Valley Line"
+      },
+      "via": null,
+      "offset": 0,
+      "projects": [
+        "antelope"
+      ],
+      "notes": "",
+      "conflict": null
+    },
+    {
+      "id": "antelope-core",
+      "name": "Santa Clarita\u2013Los Angeles",
+      "kind": "regional",
+      "nodes": [
+        "santa-clarita",
+        "burbank",
+        "la"
+      ],
+      "phases": {
+        "2028": {
+          "headway": 30,
+          "label": "30 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        },
+        "2034": {
+          "headway": 30,
+          "label": "30 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": 30,
+          "label": "30 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Southern California",
+      "why": "Half-hourly regional service on the Antelope Valley corridor\u2019s inner section.",
+      "action": "Complete capacity work and coordinate through services via Union Station.",
+      "source": {
+        "page": 38,
+        "pdfPage": 45,
+        "label": "Table 1, p. 38",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=45"
+      },
+      "geometry": "rail",
+      "selector": {
+        "comm": "Antelope Valley Line"
+      },
+      "via": null,
+      "offset": 3,
+      "projects": [
+        "antelope",
+        "link-us"
+      ],
+      "notes": "Table 1 also describes a two-hourly intercity overlay south of Santa Clarita; it is not added to create a fictitious regular combined interval.",
+      "conflict": null
+    },
+    {
+      "id": "lossan-south",
+      "name": "Los Angeles\u2013San Diego intercity",
+      "kind": "intercity",
+      "nodes": [
+        "la",
+        "fullerton",
+        "anaheim",
+        "irvine",
+        "san-clemente",
+        "oceanside",
+        "san-diego"
+      ],
+      "phases": {
+        "2028": {
+          "headway": 60,
+          "label": "60 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        },
+        "2034": {
+          "headway": 60,
+          "label": "60 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": 30,
+          "label": "30 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Southern California",
+      "why": "The plan increases the intercity service from hourly to half-hourly in the long term. That would give passengers more choice of departure time, provided the coastal railway remains reliable.",
+      "action": "Capacity improvements need to be planned with coastal resilience at San Clemente and Del Mar. The service also requires trains, crews and recurring operating funds after construction.",
+      "source": {
+        "page": 38,
+        "pdfPage": 45,
+        "label": "Table 1, p. 38",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=45"
+      },
+      "geometry": "rail",
+      "selector": {
+        "pass": "Pacific Surfliner"
+      },
+      "via": null,
+      "offset": -3,
+      "projects": [
+        "san-clemente",
+        "del-mar",
+        "link-us"
+      ],
+      "notes": "Existing coastal alignment mapped. Long-term relocation/tunnel alternatives are not selected by this atlas; regular service extends toward the Convention Center in the vision.",
+      "conflict": null
+    },
+    {
+      "id": "oc-regional",
+      "name": "Los Angeles\u2013Irvine regional",
+      "kind": "regional",
+      "nodes": [
+        "la",
+        "fullerton",
+        "anaheim",
+        "irvine"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Integrated growth",
+          "detail": "Near/mid all-day service is developed in coordination with intercity trains; no separate number in this Table 1 row.",
+          "bound": null,
+          "active": true
+        },
+        "2034": {
+          "headway": null,
+          "label": "Integrated growth",
+          "detail": "Near/mid all-day service is developed in coordination with intercity trains; no separate number in this Table 1 row.",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": 30,
+          "label": "30 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Southern California",
+      "why": "A separate regional stopping layer complements intercity service.",
+      "action": "Deliver capacity, Orange County maintenance facilities and coordinated passenger operations.",
+      "source": {
+        "page": 38,
+        "pdfPage": 45,
+        "label": "Table 1, p. 38",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=45"
+      },
+      "geometry": "rail",
+      "selector": {
+        "pass": "Pacific Surfliner"
+      },
+      "via": null,
+      "offset": 4,
+      "projects": [
+        "link-us"
+      ],
+      "notes": "Do not simply add this and intercity headways: stopping patterns and departure spacing differ.",
+      "conflict": null
+    },
+    {
+      "id": "coaster",
+      "name": "Oceanside\u2013San Diego regional",
+      "kind": "regional",
+      "nodes": [
+        "oceanside",
+        "san-diego"
+      ],
+      "phases": {
+        "2028": {
+          "headway": 30,
+          "label": "30 min",
+          "detail": "Regional coastal service; near-term Southern California map clarifies the compressed Table 1 wording.",
+          "bound": null,
+          "active": true
+        },
+        "2034": {
+          "headway": 30,
+          "label": "30 min",
+          "detail": "Regional coastal service; near-term Southern California map clarifies the compressed Table 1 wording.",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": 30,
+          "label": "30 min",
+          "detail": "Regional coastal service; near-term Southern California map clarifies the compressed Table 1 wording.",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Southern California",
+      "why": "A half-hourly coastal regional layer connects northern San Diego County.",
+      "action": "Develop double track, platforms, fleet and resilient coastal infrastructure.",
+      "source": {
+        "page": 38,
+        "pdfPage": 45,
+        "label": "Table 1, p. 38",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=45"
+      },
+      "geometry": "rail",
+      "selector": {
+        "comm": "Coaster"
+      },
+      "via": null,
+      "offset": 4,
+      "projects": [
+        "del-mar"
+      ],
+      "notes": "Near/mid endpoint interpretation follows service maps pp. 31 and 34. Long-term frequency is retained as a service layer, not an additional aggregate headway.",
+      "conflict": null
+    },
+    {
+      "id": "sprinter",
+      "name": "Oceanside\u2013Escondido",
+      "kind": "regional",
+      "nodes": [
+        "oceanside",
+        "escondido"
+      ],
+      "phases": {
+        "2028": {
+          "headway": 30,
+          "label": "30 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        },
+        "2034": {
+          "headway": 30,
+          "label": "30 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": 15,
+          "label": "\u226415 min",
+          "detail": "Highly frequent regional service in Table 1; \u226415-minute map band.",
+          "bound": "le",
+          "active": true
+        }
+      },
+      "group": "Southern California",
+      "why": "The Oceanside\u2013Escondido service connects inland communities with coastal trains. A short wait at Oceanside would make the combined journey more useful than either service considered alone.",
+      "action": "Plan the fleet and track capacity around both the proposed frequency and the coastal connections. Include accessible routes between the connecting platforms.",
+      "source": {
+        "page": 38,
+        "pdfPage": 45,
+        "label": "Table 1, p. 38",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=45"
+      },
+      "geometry": "rail",
+      "selector": {
+        "subs": [
+          "Escondido"
+        ]
+      },
+      "via": null,
+      "offset": 0,
+      "projects": [
+        "del-mar"
+      ],
+      "notes": "",
+      "conflict": null
+    },
+    {
+      "id": "sd-convention",
+      "name": "San Diego\u2013Convention Center",
+      "kind": "regional",
+      "nodes": [
+        "san-diego",
+        "convention"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2034": {
+          "headway": 60,
+          "label": "60 min",
+          "detail": "Mid-term narrative: at least hourly coordinated service.",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": 30,
+          "label": "30 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Southern California",
+      "why": "Extends the mainline network beyond Santa Fe Depot to the Convention Center area.",
+      "action": "Resolve the station operating concept and capacity interfaces with local transit.",
+      "source": {
+        "page": 36,
+        "pdfPage": 43,
+        "label": "Long-term service map / text, p. 36",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=43"
+      },
+      "geometry": "concept",
+      "selector": null,
+      "via": null,
+      "offset": 0,
+      "projects": [
+        "del-mar"
+      ],
+      "notes": "Mid-term narrative p. 32; long-term p. 36. The appendix station project still lists regular versus special-event service as to be determined; this is a vision, not a confirmed operating plan.",
+      "conflict": null
+    },
+    {
+      "id": "sd-border",
+      "name": "San Diego\u2013San Ysidro intercity",
+      "kind": "intercity",
+      "nodes": [
+        "san-diego",
+        "convention",
+        "san-ysidro"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Local MTS Trolley is not represented as intercity rail.",
+          "bound": null,
+          "active": false
+        },
+        "2034": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Local MTS Trolley is not represented as intercity rail.",
+          "bound": null,
+          "active": false
+        },
+        "2050": {
+          "headway": 60,
+          "label": "60 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Southern California",
+      "why": "Hourly intercity rail is envisioned alongside highly frequent local transit toward the border.",
+      "action": "Study compatibility, stations and cross-border connections; do not assume a through train into Mexico.",
+      "source": {
+        "page": 38,
+        "pdfPage": 45,
+        "label": "Table 1, p. 38",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=45"
+      },
+      "geometry": "rail",
+      "selector": {
+        "comm": "San Diego Light Rail Trolley (Blue Line)"
+      },
+      "via": null,
+      "offset": 0,
+      "projects": [],
+      "notes": "Existing Blue Line/right-of-way corridor shown for geographic orientation only; no committed intercity track configuration or border-crossing alignment is implied.",
+      "conflict": null
+    },
+    {
+      "id": "san-bernardino",
+      "name": "Los Angeles\u2013San Bernardino regional",
+      "kind": "regional",
+      "nodes": [
+        "la",
+        "rancho",
+        "san-bernardino"
+      ],
+      "phases": {
+        "2028": {
+          "headway": 30,
+          "label": "30 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        },
+        "2034": {
+          "headway": 30,
+          "label": "30 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": 30,
+          "label": "30 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Southern California",
+      "why": "The plan proposes a regional train every half hour between Los Angeles and San Bernardino. At Rancho Cucamonga, passengers would be able to connect to the Las Vegas route.",
+      "action": "Relate additional track and platform work to the proposed timetable, and check the walking and waiting time for the connection at Rancho Cucamonga.",
+      "source": {
+        "page": 38,
+        "pdfPage": 45,
+        "label": "Table 1, p. 38",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=45"
+      },
+      "geometry": "rail",
+      "selector": {
+        "comm": "San Bernardino Line"
+      },
+      "via": null,
+      "offset": 4,
+      "projects": [
+        "inland"
+      ],
+      "notes": "",
+      "conflict": null
+    },
+    {
+      "id": "arrow",
+      "name": "San Bernardino\u2013Redlands",
+      "kind": "regional",
+      "nodes": [
+        "san-bernardino",
+        "redlands"
+      ],
+      "phases": {
+        "2028": {
+          "headway": 60,
+          "label": "60 min",
+          "detail": "Hourly service band on the near-term map, p. 31.",
+          "bound": null,
+          "active": true
+        },
+        "2034": {
+          "headway": 60,
+          "label": "60 min",
+          "detail": "At least hourly coordinated service to Redlands, p. 32.",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": 30,
+          "label": "30 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Southern California",
+      "why": "Builds from Arrow to a half-hourly connected regional corridor.",
+      "action": "Integrate zero-emission fleet, capacity and through-service planning.",
+      "source": {
+        "page": 36,
+        "pdfPage": 43,
+        "label": "Long-term service map / text, p. 36",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=43"
+      },
+      "geometry": "rail",
+      "selector": {
+        "subs": [
+          "Redlands"
+        ]
+      },
+      "via": null,
+      "offset": 0,
+      "projects": [
+        "inland"
+      ],
+      "notes": "Near/mid interpretations use service maps and narrative; the long-term half-hourly goal is explicit on p. 36.",
+      "conflict": null
+    },
+    {
+      "id": "riverside-direct",
+      "name": "Los Angeles\u2013Riverside connection",
+      "kind": "regional",
+      "nodes": [
+        "la",
+        "riverside"
+      ],
+      "phases": {
+        "2028": {
+          "headway": 120,
+          "label": "120 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        },
+        "2034": {
+          "headway": 60,
+          "label": "60 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": 30,
+          "label": "30 min",
+          "detail": "Coordinated regional and blended HSR corridor goal.",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Southern California",
+      "why": "The plan moves this corridor from two-hourly to an integrated half-hourly service.",
+      "action": "Resolve freight capacity, shared corridor use and coordinated regional/HSR operations.",
+      "source": {
+        "page": 38,
+        "pdfPage": 45,
+        "label": "Table 1, p. 38",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=45"
+      },
+      "geometry": "rail",
+      "selector": {
+        "comm": "Riverside Line"
+      },
+      "via": null,
+      "offset": 0,
+      "projects": [
+        "inland"
+      ],
+      "notes": "Existing direct Riverside Line geography is shown. The 2050 table goal is for the broader LA\u2013Riverside connection and may be delivered using blended paths via Rancho Cucamonga; it is not a promised future routing on this exact track.",
+      "conflict": null
+    },
+    {
+      "id": "ie-orange",
+      "name": "Fullerton\u2013Corona\u2013Riverside",
+      "kind": "regional",
+      "nodes": [
+        "fullerton",
+        "corona",
+        "riverside"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Regional layer",
+          "detail": "Regional service shown in the plan\u2019s Southern California map.",
+          "bound": null,
+          "active": true
+        },
+        "2034": {
+          "headway": 60,
+          "label": "60 min",
+          "detail": "Hourly regional map band, p. 34.",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": 30,
+          "label": "30 min",
+          "detail": "Half-hourly regional map band, p. 36.",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Southern California",
+      "why": "Creates a regional Inland Empire connection to the Orange County/coastal spine.",
+      "action": "Coordinate passenger\u2013freight capacity, junction improvements and fleet.",
+      "source": {
+        "page": 36,
+        "pdfPage": 43,
+        "label": "Long-term service map / text, p. 36",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=43"
+      },
+      "geometry": "rail",
+      "selector": {
+        "comm": [
+          "Inland Empire-Orange County Line",
+          "91 Line"
+        ]
+      },
+      "via": null,
+      "offset": 0,
+      "projects": [
+        "inland"
+      ],
+      "notes": "Frequency bands transcribed from the regional service maps rather than a dedicated Table 1 row.",
+      "conflict": null
+    },
+    {
+      "id": "hemet",
+      "name": "Riverside\u2013Hemet regional",
+      "kind": "regional",
+      "nodes": [
+        "riverside",
+        "perris",
+        "hemet"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Existing regional service to Perris is not mapped as an extension to Hemet.",
+          "bound": null,
+          "active": false
+        },
+        "2034": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Existing regional service to Perris is not mapped as an extension to Hemet.",
+          "bound": null,
+          "active": false
+        },
+        "2050": {
+          "headway": 60,
+          "label": "60 min",
+          "detail": "Hourly branch in the long-term Southern California map.",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Southern California",
+      "why": "Extends the regional network through Perris to Hemet / San Jacinto.",
+      "action": "Advance track rehabilitation, signaling, stations and maintenance capacity.",
+      "source": {
+        "page": 36,
+        "pdfPage": 43,
+        "label": "Long-term service map / text, p. 36",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=43"
+      },
+      "geometry": "rail",
+      "selector": {
+        "subs": [
+          "San Jacinto Industrial Spur"
+        ],
+        "comm": "Inland Empire-Orange County Line"
+      },
+      "via": null,
+      "offset": 0,
+      "projects": [
+        "inland"
+      ],
+      "notes": "Existing freight/regional corridor geography; not a committed station plan.",
+      "conflict": null
+    },
+    {
+      "id": "coachella",
+      "name": "Los Angeles\u2013Coachella Valley regional connection",
+      "kind": "regional",
+      "nodes": [
+        "riverside",
+        "palm-springs",
+        "coachella"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Rail + bus",
+          "detail": "Table 1 calls for integrated bus and regional rail services between LA and the Coachella Valley.",
+          "bound": null,
+          "active": true
+        },
+        "2034": {
+          "headway": null,
+          "label": "Rail + bus",
+          "detail": "Table 1 calls for integrated bus and regional rail services between LA and the Coachella Valley.",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": null,
+          "label": "Regional overlay",
+          "detail": "Regional overlay serving the Coachella Valley; no numeric headway specified in Table 1.",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Southern California",
+      "why": "A new rail market builds the foundation for a later Arizona connection.",
+      "action": "Advance the service development plan, host access, third track, stations and operating resources.",
+      "source": {
+        "page": 38,
+        "pdfPage": 45,
+        "label": "Table 1, p. 38",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=45"
+      },
+      "geometry": "rail",
+      "selector": {
+        "pass": "Sunset Limited"
+      },
+      "via": null,
+      "offset": 0,
+      "projects": [
+        "inland"
+      ],
+      "notes": "The mapped eastern leg is a corridor connection, not a claim of continuous frequent passenger rail in 2028 or 2034. LA access is via connecting regional corridors. See the detail\u2019s rail + bus qualifier.",
+      "conflict": null
+    },
+    {
+      "id": "hsr-sac",
+      "name": "Sacramento\u2013Merced high-speed",
+      "kind": "hsr",
+      "nodes": [
+        "sacramento",
+        "stockton",
+        "merced"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2034": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2050": {
+          "headway": 30,
+          "label": "30 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "High-speed backbone",
+      "why": "Electrifies the northern Valley and extends HSR directly to Sacramento.",
+      "action": "Develop the blended corridor and agree passenger/freight capacity, power and stations.",
+      "source": {
+        "page": 37,
+        "pdfPage": 44,
+        "label": "Table 1, p. 37",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=44"
+      },
+      "geometry": "concept",
+      "selector": null,
+      "via": [
+        [
+          -121.273,
+          38.138
+        ],
+        [
+          -120.998,
+          37.638
+        ]
+      ],
+      "offset": -4,
+      "projects": [
+        "hsr-sac"
+      ],
+      "notes": "Geographic corridor connection, not a preferred engineering alignment.",
+      "conflict": null
+    },
+    {
+      "id": "hsr-merced-madera",
+      "name": "Merced\u2013Madera high-speed",
+      "kind": "hsr",
+      "nodes": [
+        "merced",
+        "madera"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2034": {
+          "headway": 60,
+          "label": "60 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": 30,
+          "label": "30 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "High-speed backbone",
+      "why": "This part of the initial high-speed line meets conventional rail at Merced. Its value to passengers from Sacramento and the Bay Area depends partly on how the transfer works.",
+      "action": "Plan the trains, power, signaling and maintenance alongside the interchange. A completed line cannot provide the proposed connecting service unless those other elements are ready.",
+      "source": {
+        "page": 35,
+        "pdfPage": 42,
+        "label": "Long-term service map / text, p. 35",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=42"
+      },
+      "geometry": "concept",
+      "selector": null,
+      "via": null,
+      "offset": 0,
+      "projects": [
+        "central-hsr",
+        "merced"
+      ],
+      "notes": "30-minute long-term branch in map p. 35; hourly initial Central Valley HSR in Table 1 p. 38. Conceptual geographic connection, not track design.",
+      "conflict": null
+    },
+    {
+      "id": "hsr-valley-trunk",
+      "name": "Madera\u2013Bakersfield high-speed trunk",
+      "kind": "hsr",
+      "nodes": [
+        "madera",
+        "fresno",
+        "kings",
+        "bakersfield"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2034": {
+          "headway": 60,
+          "label": "60 min",
+          "detail": "Initial Central Valley HSR service.",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": 15,
+          "label": "\u226415 min",
+          "detail": "Aggregate combined HSR trunk south of Madera; not every station pair.",
+          "bound": "le",
+          "active": true
+        }
+      },
+      "group": "High-speed backbone",
+      "why": "South of Madera, the long-term plan combines high-speed services into a frequent shared section. The frequency shown here applies to that combined section, not to every origin and destination.",
+      "action": "Ask which trains make up the proposed timetable and what power, signaling, fleet and maintenance capacity they require. Coordinate that work with the connecting stations.",
+      "source": {
+        "page": 35,
+        "pdfPage": 42,
+        "label": "Long-term service map / text, p. 35",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=42"
+      },
+      "geometry": "concept",
+      "selector": null,
+      "via": null,
+      "offset": 0,
+      "projects": [
+        "central-hsr",
+        "merced"
+      ],
+      "notes": "For mapping, this corridor is split into Merced\u2013Madera (30-minute long-term branch) and Madera\u2013Bakersfield (\u226415-minute combined trunk). This is aggregate corridor frequency, not service at every stop or on every origin\u2013destination pair.",
+      "conflict": null
+    },
+    {
+      "id": "hsr-peninsula",
+      "name": "San Francisco\u2013Gilroy high-speed",
+      "kind": "hsr",
+      "nodes": [
+        "sf",
+        "millbrae",
+        "san-jose",
+        "gilroy"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2034": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2050": {
+          "headway": 30,
+          "label": "30 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "High-speed backbone",
+      "why": "Brings the high-speed backbone into the Bay Area via the electrified Peninsula corridor.",
+      "action": "Complete Phase 1 interfaces and protect capacity for regional rail.",
+      "source": {
+        "page": 35,
+        "pdfPage": 42,
+        "label": "Long-term service map / text, p. 35",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=42"
+      },
+      "geometry": "rail",
+      "selector": {
+        "comm": "Caltrain"
+      },
+      "via": null,
+      "offset": -5,
+      "projects": [
+        "hsr-phase1",
+        "portal"
+      ],
+      "notes": "30-minute HSR band transcribed from the long-term map. Existing rail alignment used as the blended corridor reference, not a final HSR track layout.",
+      "conflict": null
+    },
+    {
+      "id": "hsr-pacheco",
+      "name": "Gilroy\u2013Central Valley high-speed",
+      "kind": "hsr",
+      "nodes": [
+        "gilroy",
+        "madera"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2034": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2050": {
+          "headway": 30,
+          "label": "30 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "High-speed backbone",
+      "why": "The Pacheco connection joins the Bay Area to the Central Valley spine.",
+      "action": "Advance the mountain crossing and related Phase 1 works as part of a funded delivery sequence.",
+      "source": {
+        "page": 35,
+        "pdfPage": 42,
+        "label": "Long-term service map / text, p. 35",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=42"
+      },
+      "geometry": "concept",
+      "selector": null,
+      "via": [
+        [
+          -121.467,
+          37.065
+        ],
+        [
+          -121.32,
+          37.083
+        ],
+        [
+          -121.2,
+          37.069
+        ],
+        [
+          -121.04,
+          37.061
+        ],
+        [
+          -120.77,
+          37.103
+        ],
+        [
+          -120.35,
+          37.1
+        ]
+      ],
+      "offset": 0,
+      "projects": [
+        "hsr-phase1"
+      ],
+      "notes": "Generalized Pacheco / Central Valley Wye connection; endpoints and corridor are geographic, but not an engineering alignment.",
+      "conflict": null
+    },
+    {
+      "id": "hsr-tehachapi",
+      "name": "Bakersfield\u2013Palmdale high-speed",
+      "kind": "hsr",
+      "nodes": [
+        "bakersfield",
+        "palmdale"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2034": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2050": {
+          "headway": 15,
+          "label": "\u226415 min",
+          "detail": "Aggregate high-speed trunk band on the long-term service map.",
+          "bound": "le",
+          "active": true
+        }
+      },
+      "group": "High-speed backbone",
+      "why": "Connects the Valley to Southern California across the Tehachapis.",
+      "action": "Advance tunnels, viaducts, systems and the Palmdale interchange with a credible funding sequence.",
+      "source": {
+        "page": 36,
+        "pdfPage": 43,
+        "label": "Long-term service map / text, p. 36",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=43"
+      },
+      "geometry": "concept",
+      "selector": null,
+      "via": [
+        [
+          -118.9,
+          35.21
+        ],
+        [
+          -118.57,
+          35.106
+        ],
+        [
+          -118.3,
+          34.92
+        ],
+        [
+          -118.135,
+          34.695
+        ]
+      ],
+      "offset": 0,
+      "projects": [
+        "hsr-phase1"
+      ],
+      "notes": "Conceptual corridor, not a selected track alignment. Aggregate corridor frequency is not the frequency of every station pair.",
+      "conflict": null
+    },
+    {
+      "id": "hsr-burbank",
+      "name": "Palmdale\u2013Los Angeles high-speed",
+      "kind": "hsr",
+      "nodes": [
+        "palmdale",
+        "burbank",
+        "la"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2034": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2050": {
+          "headway": 15,
+          "label": "\u226415 min",
+          "detail": "Aggregate high-speed trunk band on the long-term service map.",
+          "bound": "le",
+          "active": true
+        }
+      },
+      "group": "High-speed backbone",
+      "why": "The mountain crossing reaches the LA basin and its regional network.",
+      "action": "Coordinate Phase 1 construction with Burbank\u2013Anaheim capacity and Union Station.",
+      "source": {
+        "page": 36,
+        "pdfPage": 43,
+        "label": "Long-term service map / text, p. 36",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=43"
+      },
+      "geometry": "concept",
+      "selector": null,
+      "via": [
+        [
+          -118.2,
+          34.52
+        ],
+        [
+          -118.3,
+          34.4
+        ],
+        [
+          -118.36,
+          34.28
+        ]
+      ],
+      "offset": -5,
+      "projects": [
+        "hsr-phase1",
+        "link-us"
+      ],
+      "notes": "Generalized connection; not a tunnel alignment or engineering drawing.",
+      "conflict": null
+    },
+    {
+      "id": "hsr-anaheim",
+      "name": "Los Angeles\u2013Anaheim high-speed",
+      "kind": "hsr",
+      "nodes": [
+        "la",
+        "fullerton",
+        "anaheim"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2034": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2050": {
+          "headway": 30,
+          "label": "30 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "High-speed backbone",
+      "why": "Completes the Phase 1 HSR corridor to Anaheim while sharing a busy multi-operator region.",
+      "action": "Coordinate passenger, HSR and freight track capacity, power and station interfaces.",
+      "source": {
+        "page": 36,
+        "pdfPage": 43,
+        "label": "Long-term service map / text, p. 36",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=43"
+      },
+      "geometry": "rail",
+      "selector": {
+        "pass": "Pacific Surfliner"
+      },
+      "via": null,
+      "offset": -9,
+      "projects": [
+        "hsr-phase1",
+        "link-us"
+      ],
+      "notes": "Long-term map frequency band. Existing rail corridor generalized for context; future track configuration is not specified.",
+      "conflict": null
+    },
+    {
+      "id": "brightline",
+      "name": "Rancho Cucamonga\u2013Las Vegas",
+      "kind": "hsr",
+      "nodes": [
+        "rancho",
+        "victor",
+        "las-vegas"
+      ],
+      "phases": {
+        "2028": {
+          "headway": 60,
+          "label": "60 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        },
+        "2034": {
+          "headway": 60,
+          "label": "60 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": 30,
+          "label": "30 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "High-speed backbone",
+      "why": "The Las Vegas route connects to Southern California regional rail at Rancho Cucamonga. The long-term network would also connect it with California high-speed rail through the High Desert Corridor.",
+      "action": "Ask how passengers will change trains at Rancho Cucamonga and how schedules and fares will work together. The connecting systems need a shared service plan.",
+      "source": {
+        "page": 38,
+        "pdfPage": 45,
+        "label": "Table 1, p. 38",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=45"
+      },
+      "geometry": "concept",
+      "selector": null,
+      "via": [
+        [
+          -117.54,
+          34.137
+        ],
+        [
+          -117.443,
+          34.273
+        ],
+        [
+          -117.42,
+          34.357
+        ],
+        [
+          -117.367,
+          34.445
+        ],
+        [
+          -117.294,
+          34.524
+        ],
+        [
+          -117.024,
+          34.846
+        ],
+        [
+          -116.675,
+          34.965
+        ],
+        [
+          -116.36,
+          35.08
+        ],
+        [
+          -115.92,
+          35.39
+        ],
+        [
+          -115.55,
+          35.68
+        ],
+        [
+          -115.33,
+          35.88
+        ]
+      ],
+      "offset": 0,
+      "projects": [
+        "brightline"
+      ],
+      "notes": "Near/mid timing is the 2024 plan horizon, not a current opening-date claim. Generalized I-15 corridor; station nodes approximate proposed hubs.",
+      "conflict": null
+    },
+    {
+      "id": "high-desert",
+      "name": "Palmdale\u2013Victor Valley",
+      "kind": "hsr",
+      "nodes": [
+        "palmdale",
+        "victor"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2034": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2050": {
+          "headway": 30,
+          "label": "30 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "High-speed backbone",
+      "why": "The proposed Palmdale\u2013Victor Valley line would connect California high-speed rail with the Las Vegas corridor, avoiding a journey through central Los Angeles.",
+      "action": "Coordinate the connector's opening with the two systems it joins. Power, trains, stations and operating arrangements need to be compatible.",
+      "source": {
+        "page": 38,
+        "pdfPage": 45,
+        "label": "Table 1, p. 38",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=45"
+      },
+      "geometry": "concept",
+      "selector": null,
+      "via": [
+        [
+          -117.95,
+          34.605
+        ],
+        [
+          -117.62,
+          34.591
+        ],
+        [
+          -117.33,
+          34.556
+        ]
+      ],
+      "offset": 0,
+      "projects": [
+        "high-desert"
+      ],
+      "notes": "",
+      "conflict": null
+    },
+    {
+      "id": "hsr-inland-west",
+      "name": "Los Angeles\u2013Rancho Cucamonga blended HSR",
+      "kind": "hsr",
+      "nodes": [
+        "la",
+        "rancho"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2034": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2050": {
+          "headway": 30,
+          "label": "30 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "High-speed backbone",
+      "why": "A faster east\u2013west layer complements regional stops on the Inland Empire corridor.",
+      "action": "Plan electrification and shared operations with freight and regional services.",
+      "source": {
+        "page": 38,
+        "pdfPage": 45,
+        "label": "Table 1, p. 38",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=45"
+      },
+      "geometry": "rail",
+      "selector": {
+        "comm": "San Bernardino Line"
+      },
+      "via": null,
+      "offset": -4,
+      "projects": [
+        "inland"
+      ],
+      "notes": "\u201cBlended high-speed\u201d is the plan\u2019s category; not every segment is a dedicated 200-mph railway. Existing rail corridor shown, not final track design.",
+      "conflict": null
+    },
+    {
+      "id": "hsr-inland-east",
+      "name": "Rancho Cucamonga\u2013San Bernardino HSR",
+      "kind": "hsr",
+      "nodes": [
+        "rancho",
+        "san-bernardino"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2034": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2050": {
+          "headway": 60,
+          "label": "60 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "High-speed backbone",
+      "why": "Extends the blended high-speed layer east into San Bernardino.",
+      "action": "Coordinate corridor upgrades, power, platforms and transfers.",
+      "source": {
+        "page": 38,
+        "pdfPage": 45,
+        "label": "Table 1, p. 38",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=45"
+      },
+      "geometry": "rail",
+      "selector": {
+        "comm": "San Bernardino Line"
+      },
+      "via": null,
+      "offset": -4,
+      "projects": [
+        "inland"
+      ],
+      "notes": "",
+      "conflict": null
+    },
+    {
+      "id": "hsr-sd",
+      "name": "Rancho Cucamonga\u2013San Diego inland HSR",
+      "kind": "hsr",
+      "nodes": [
+        "rancho",
+        "escondido",
+        "san-diego"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2034": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2050": {
+          "headway": 30,
+          "label": "30 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "High-speed backbone",
+      "why": "A new inland high-speed connection complements, rather than replaces, the coastal corridor.",
+      "action": "Advance the I-15 corridor concept, power and interfaces with the wider HSR network.",
+      "source": {
+        "page": 38,
+        "pdfPage": 45,
+        "label": "Table 1, p. 38",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=45"
+      },
+      "geometry": "concept",
+      "selector": null,
+      "via": [
+        [
+          -117.536,
+          33.9
+        ],
+        [
+          -117.455,
+          33.78
+        ],
+        [
+          -117.38,
+          33.57
+        ],
+        [
+          -117.14,
+          33.43
+        ],
+        [
+          -117.08,
+          33.12
+        ],
+        [
+          -117.108,
+          32.948
+        ],
+        [
+          -117.18,
+          32.805
+        ]
+      ],
+      "offset": 0,
+      "projects": [
+        "hsr-sd"
+      ],
+      "notes": "I-15 corridor concept described in the plan. Not an approved alignment; geography is illustrative between named markets.",
+      "conflict": null
+    },
+    {
+      "id": "hsr-arizona",
+      "name": "Coachella Valley\u2013Phoenix high-speed",
+      "kind": "hsr",
+      "nodes": [
+        "coachella",
+        "phoenix"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2034": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2050": {
+          "headway": 60,
+          "label": "60 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "High-speed backbone",
+      "why": "Extends the integrated network to Arizona; the table describes LA\u2013Arizona service via Rancho Cucamonga.",
+      "action": "Establish interstate governance and complete service, route, host-access and funding studies.",
+      "source": {
+        "page": 38,
+        "pdfPage": 45,
+        "label": "Table 1, p. 38",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=45"
+      },
+      "geometry": "concept",
+      "selector": null,
+      "via": [
+        [
+          -115.8,
+          33.59
+        ],
+        [
+          -114.95,
+          33.55
+        ],
+        [
+          -114.42,
+          33.53
+        ],
+        [
+          -113.5,
+          33.5
+        ]
+      ],
+      "offset": 0,
+      "projects": [
+        "arizona"
+      ],
+      "notes": "Illustrative market connection only. No route choice between Coachella and Phoenix is implied. The LA\u2013Coachella through-service interfaces remain subject to planning.",
+      "conflict": null
+    },
+    {
+      "id": "hsr-coachella",
+      "name": "Rancho Cucamonga\u2013Coachella Valley HSR",
+      "kind": "hsr",
+      "nodes": [
+        "rancho",
+        "san-bernardino",
+        "palm-springs",
+        "coachella"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2034": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2050": {
+          "headway": 60,
+          "label": "60 min",
+          "detail": "",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "High-speed backbone",
+      "why": "Connects the LA / Rancho Cucamonga network with the hourly Arizona service concept.",
+      "action": "Develop the blended corridor, host access, electrification and interstate operating plan.",
+      "source": {
+        "page": 38,
+        "pdfPage": 45,
+        "label": "Table 1, p. 38",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=45"
+      },
+      "geometry": "concept",
+      "selector": null,
+      "via": null,
+      "offset": 0,
+      "projects": [
+        "arizona",
+        "inland"
+      ],
+      "notes": "Table 1\u2019s LA\u2013Arizona hourly service applied to its eastern connection; the route between named markets is generalized, not selected engineering.",
+      "conflict": null
+    },
+    {
+      "id": "bus-northcoast",
+      "name": "Arcata\u2013North Bay integrated bus",
+      "kind": "bus",
+      "nodes": [
+        "arcata",
+        "cloverdale",
+        "healdsburg"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Timed bus",
+          "detail": "Frequency not specified in Table 1; timed connections are the goal.",
+          "bound": null,
+          "active": true
+        },
+        "2034": {
+          "headway": null,
+          "label": "Timed bus",
+          "detail": "Frequency not specified in Table 1; timed connections are the goal.",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": null,
+          "label": "Timed bus",
+          "detail": "Frequency not specified in Table 1; timed connections are the goal.",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "North State",
+      "why": "A timed bus connection extends the rail network\u2019s reach beyond the tracks.",
+      "action": "Fund recurring operations, accessible interchanges, coordinated ticketing and protected connections.",
+      "source": {
+        "page": 37,
+        "pdfPage": 44,
+        "label": "Table 1, p. 37",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=44"
+      },
+      "geometry": "bus",
+      "selector": null,
+      "via": [
+        [
+          -123.81,
+          39.99
+        ],
+        [
+          -123.21,
+          39.15
+        ]
+      ],
+      "offset": 0,
+      "projects": [],
+      "notes": "Near term connects at Healdsburg; mid/long term at Cloverdale. Generalized connection, not a road route.",
+      "conflict": null
+    },
+    {
+      "id": "bus-redding",
+      "name": "Redding\u2013Sacramento integrated bus",
+      "kind": "bus",
+      "nodes": [
+        "redding",
+        "chico",
+        "sacramento"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Timed bus",
+          "detail": "Frequency not specified in Table 1; timed connections are the goal.",
+          "bound": null,
+          "active": true
+        },
+        "2034": {
+          "headway": null,
+          "label": "Timed bus",
+          "detail": "Frequency not specified in Table 1; timed connections are the goal.",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": null,
+          "label": "Timed bus",
+          "detail": "Frequency not specified in Table 1; timed connections are the goal.",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "North State",
+      "why": "A timed bus connection extends the rail network\u2019s reach beyond the tracks.",
+      "action": "Fund recurring operations, accessible interchanges, coordinated ticketing and protected connections.",
+      "source": {
+        "page": 37,
+        "pdfPage": 44,
+        "label": "Table 1, p. 37",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=44"
+      },
+      "geometry": "bus",
+      "selector": null,
+      "via": null,
+      "offset": 0,
+      "projects": [],
+      "notes": "Long-term regional rail replaces the Chico\u2013Sacramento strategic bus link; Redding retains a timed bus to Chico.",
+      "conflict": null
+    },
+    {
+      "id": "bus-reno",
+      "name": "Sacramento\u2013Reno integrated bus",
+      "kind": "bus",
+      "nodes": [
+        "sacramento",
+        "roseville",
+        "auburn",
+        "reno"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Timed bus",
+          "detail": "Frequency not specified in Table 1; timed connections are the goal.",
+          "bound": null,
+          "active": true
+        },
+        "2034": {
+          "headway": null,
+          "label": "Timed bus",
+          "detail": "Frequency not specified in Table 1; timed connections are the goal.",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": null,
+          "label": "Timed bus",
+          "detail": "Frequency not specified in Table 1; timed connections are the goal.",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Sierra",
+      "why": "A timed bus connection extends the rail network\u2019s reach beyond the tracks.",
+      "action": "Fund recurring operations, accessible interchanges, coordinated ticketing and protected connections.",
+      "source": {
+        "page": 37,
+        "pdfPage": 44,
+        "label": "Table 1, p. 37",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=44"
+      },
+      "geometry": "bus",
+      "selector": null,
+      "via": [
+        [
+          -120.75,
+          39.25
+        ],
+        [
+          -120.18,
+          39.33
+        ]
+      ],
+      "offset": 0,
+      "projects": [],
+      "notes": "Table 1 specifies integrated bus, while the long-term map and capital program also show a seasonal Reno rail concept; see the seasonal rail layer.",
+      "conflict": null
+    },
+    {
+      "id": "bus-tahoe",
+      "name": "Sacramento\u2013South Lake Tahoe bus",
+      "kind": "bus",
+      "nodes": [
+        "sacramento",
+        "south-tahoe"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Timed bus",
+          "detail": "Frequency not specified in Table 1; timed connections are the goal.",
+          "bound": null,
+          "active": true
+        },
+        "2034": {
+          "headway": null,
+          "label": "Timed bus",
+          "detail": "Frequency not specified in Table 1; timed connections are the goal.",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": null,
+          "label": "Timed bus",
+          "detail": "Frequency not specified in Table 1; timed connections are the goal.",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Sierra",
+      "why": "A timed bus connection extends the rail network\u2019s reach beyond the tracks.",
+      "action": "Fund recurring operations, accessible interchanges, coordinated ticketing and protected connections.",
+      "source": {
+        "page": 37,
+        "pdfPage": 44,
+        "label": "Table 1, p. 37",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=44"
+      },
+      "geometry": "bus",
+      "selector": null,
+      "via": [
+        [
+          -120.8,
+          38.73
+        ],
+        [
+          -120.18,
+          38.8
+        ]
+      ],
+      "offset": 0,
+      "projects": [],
+      "notes": "",
+      "conflict": null
+    },
+    {
+      "id": "bus-yosemite",
+      "name": "Merced\u2013Yosemite integrated bus",
+      "kind": "bus",
+      "nodes": [
+        "merced",
+        "yosemite"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Timed bus",
+          "detail": "Frequency not specified in Table 1; timed connections are the goal.",
+          "bound": null,
+          "active": true
+        },
+        "2034": {
+          "headway": null,
+          "label": "Timed bus",
+          "detail": "Frequency not specified in Table 1; timed connections are the goal.",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": null,
+          "label": "Timed bus",
+          "detail": "Frequency not specified in Table 1; timed connections are the goal.",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Sierra",
+      "why": "A timed bus connection extends the rail network\u2019s reach beyond the tracks.",
+      "action": "Fund recurring operations, accessible interchanges, coordinated ticketing and protected connections.",
+      "source": {
+        "page": 35,
+        "pdfPage": 42,
+        "label": "Long-term service map, p. 35",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=42"
+      },
+      "geometry": "bus",
+      "selector": null,
+      "via": [
+        [
+          -119.97,
+          37.49
+        ]
+      ],
+      "offset": 0,
+      "projects": [],
+      "notes": "Connection in the service maps; no numeric frequency assigned. Source: long-term map p. 35.",
+      "conflict": null
+    },
+    {
+      "id": "bus-crossvalley",
+      "name": "Paso Robles\u2013Lemoore integrated bus",
+      "kind": "bus",
+      "nodes": [
+        "paso",
+        "lemoore"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Timed bus",
+          "detail": "Frequency not specified in Table 1; timed connections are the goal.",
+          "bound": null,
+          "active": true
+        },
+        "2034": {
+          "headway": null,
+          "label": "Timed bus",
+          "detail": "Frequency not specified in Table 1; timed connections are the goal.",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": null,
+          "label": "Timed bus",
+          "detail": "Frequency not specified in Table 1; timed connections are the goal.",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Central Coast",
+      "why": "A timed bus connection extends the rail network\u2019s reach beyond the tracks.",
+      "action": "Fund recurring operations, accessible interchanges, coordinated ticketing and protected connections.",
+      "source": {
+        "page": 37,
+        "pdfPage": 44,
+        "label": "Table 1, p. 37",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=44"
+      },
+      "geometry": "bus",
+      "selector": null,
+      "via": [
+        [
+          -120.24,
+          35.9
+        ]
+      ],
+      "offset": 0,
+      "projects": [],
+      "notes": "Continues to Porterville in near/mid horizons; long term connects to regional rail at Lemoore.",
+      "conflict": null
+    },
+    {
+      "id": "bus-sj-santacruz",
+      "name": "San Jose\u2013Santa Cruz integrated bus",
+      "kind": "bus",
+      "nodes": [
+        "san-jose",
+        "santa-cruz"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Timed bus",
+          "detail": "Frequency not specified in Table 1; timed connections are the goal.",
+          "bound": null,
+          "active": true
+        },
+        "2034": {
+          "headway": null,
+          "label": "Timed bus",
+          "detail": "Frequency not specified in Table 1; timed connections are the goal.",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": null,
+          "label": "Timed bus",
+          "detail": "Frequency not specified in Table 1; timed connections are the goal.",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Central Coast",
+      "why": "A timed bus connection extends the rail network\u2019s reach beyond the tracks.",
+      "action": "Fund recurring operations, accessible interchanges, coordinated ticketing and protected connections.",
+      "source": {
+        "page": 35,
+        "pdfPage": 42,
+        "label": "Long-term service map, p. 35",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=42"
+      },
+      "geometry": "bus",
+      "selector": null,
+      "via": [
+        [
+          -121.98,
+          37.17
+        ]
+      ],
+      "offset": 0,
+      "projects": [],
+      "notes": "Generalized connection via the Santa Cruz Mountains. Map p. 35 shows frequent integrated bus; a numeric bus timetable is not derived here.",
+      "conflict": null
+    },
+    {
+      "id": "bus-northbay",
+      "name": "North Bay\u2013Solano integrated bus",
+      "kind": "bus",
+      "nodes": [
+        "novato",
+        "american-canyon",
+        "suisun"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Timed bus",
+          "detail": "Frequency not specified in Table 1; timed connections are the goal.",
+          "bound": null,
+          "active": true
+        },
+        "2034": {
+          "headway": null,
+          "label": "Timed bus",
+          "detail": "Frequency not specified in Table 1; timed connections are the goal.",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Long-term regional rail provides the strategic connection; local bus services may continue.",
+          "bound": null,
+          "active": false
+        }
+      },
+      "group": "North Bay",
+      "why": "A timed bus connection extends the rail network\u2019s reach beyond the tracks.",
+      "action": "Fund recurring operations, accessible interchanges, coordinated ticketing and protected connections.",
+      "source": {
+        "page": 37,
+        "pdfPage": 44,
+        "label": "Table 1, p. 37",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=44"
+      },
+      "geometry": "bus",
+      "selector": null,
+      "via": null,
+      "offset": 0,
+      "projects": [],
+      "notes": "Near/mid integrated bus link; long-term rail replaces this strategic connection in the atlas.",
+      "conflict": null
+    },
+    {
+      "id": "reno-seasonal",
+      "name": "Sacramento\u2013Reno seasonal rail concept",
+      "kind": "intercity",
+      "nodes": [
+        "sacramento",
+        "roseville",
+        "auburn",
+        "reno"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2034": {
+          "headway": null,
+          "label": "Later horizon",
+          "detail": "Not shown as a rail service in this planning horizon.",
+          "bound": null,
+          "active": false
+        },
+        "2050": {
+          "headway": null,
+          "label": "Seasonal",
+          "detail": "Special/seasonal rail concept, no regular headway asserted.",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Sierra",
+      "why": "A seasonal rail concept appears in the long-term map and capital program, in addition to the bus connection.",
+      "action": "Study capacity, seasonality and host-railroad operations without treating a concept as an everyday timetable.",
+      "source": {
+        "page": 35,
+        "pdfPage": 42,
+        "label": "Long-term service map / text, p. 35",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf#page=42"
+      },
+      "geometry": "rail",
+      "selector": {
+        "pass": "California Zephyr"
+      },
+      "via": null,
+      "offset": 0,
+      "projects": [],
+      "notes": "Table 1 retains the bus connection; map p. 35 labels special service and Appendix 2.1 includes Seasonal Reno Service. GIS geometry is available only within California; the Nevada tail is generalized.",
+      "conflict": null
+    },
+    {
+      "id": "amtrak-coast-starlight",
+      "name": "Coast Starlight",
+      "kind": "longdistance",
+      "nodes": [
+        "la",
+        "burbank",
+        "van-nuys",
+        "oxnard",
+        "santa-barbara",
+        "slo",
+        "paso",
+        "salinas",
+        "san-jose",
+        "oakland",
+        "emeryville",
+        "martinez",
+        "davis",
+        "sacramento",
+        "chico",
+        "redding",
+        "dunsmuir"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Daily round trip",
+          "detail": "One train per direction per day in the 2024 plan inventory; not a regular all-day headway.",
+          "bound": null,
+          "active": true
+        },
+        "2034": {
+          "headway": null,
+          "label": "Daily round trip",
+          "detail": "One train per direction per day in the 2024 plan inventory; not a regular all-day headway.",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": null,
+          "label": "Daily round trip",
+          "detail": "One train per direction per day in the 2024 plan inventory; not a regular all-day headway.",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Existing Amtrak",
+      "why": "The existing daily train already links the Bay Area and San Luis Obispo through the Central Coast, and connects California to the Pacific Northwest. It is not a substitute for the more frequent intercity network in the plan.",
+      "action": "Protect reliable national-network service and coordinate its connections with regional rail, local transit and the planned statewide network.",
+      "source": {
+        "page": 24,
+        "pdfPage": 24,
+        "document": "appendix",
+        "label": "Existing-service inventory \u00b7 Appendix 3.1 (PDF p. 24)",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/20241203-appendices-a11y.pdf#page=24"
+      },
+      "geometry": "rail",
+      "selector": {
+        "pass": "Coast Starlight"
+      },
+      "via": null,
+      "offset": 4,
+      "projects": [],
+      "notes": "Existing service described by Appendix 3.1, not a new state-plan frequency target. Shown unchanged as context in all three horizon views, not a promise of future continuation. Frequencies and station context are plan-era, not a live timetable. Only selected California stops and the available rail-GIS extent are drawn; the full interstate alignment is not mapped. No additional near-term frequency is inferred.",
+      "conflict": null,
+      "baseline": true,
+      "geometryEnd": [
+        -121.873499,
+        42.038808
+      ],
+      "continuation": "To Portland / Seattle",
+      "labelFraction": 0.355,
+      "capitalIds": [
+        "cap-033"
+      ],
+      "inventory": {
+        "year": 2024,
+        "frequency": "Daily round trip",
+        "short": "Daily",
+        "fullRoute": "Los Angeles\u2013Oakland\u2013Sacramento\u2013Portland\u2013Seattle",
+        "detail": "One train per direction per day in the 2024 plan inventory; not a regular all-day headway."
+      }
+    },
+    {
+      "id": "amtrak-california-zephyr",
+      "name": "California Zephyr",
+      "kind": "longdistance",
+      "nodes": [
+        "emeryville",
+        "richmond",
+        "martinez",
+        "davis",
+        "sacramento",
+        "roseville",
+        "colfax",
+        "truckee"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Daily round trip",
+          "detail": "One train per direction per day in the 2024 plan inventory; not a regular all-day headway.",
+          "bound": null,
+          "active": true
+        },
+        "2034": {
+          "headway": null,
+          "label": "Daily round trip",
+          "detail": "One train per direction per day in the 2024 plan inventory; not a regular all-day headway.",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": null,
+          "label": "Daily round trip",
+          "detail": "One train per direction per day in the 2024 plan inventory; not a regular all-day headway.",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Existing Amtrak",
+      "why": "Preserves the existing daily trans-Sierra rail connection, distinct from the plan\u2019s timed buses and additional seasonal Reno rail concept.",
+      "action": "Protect reliable national-network service and coordinate its connections with regional rail, local transit and the planned statewide network.",
+      "source": {
+        "page": 23,
+        "pdfPage": 23,
+        "document": "appendix",
+        "label": "Existing-service inventory \u00b7 Appendix 3.1 (PDF p. 23)",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/20241203-appendices-a11y.pdf#page=23"
+      },
+      "geometry": "rail",
+      "selector": {
+        "pass": "California Zephyr"
+      },
+      "via": null,
+      "offset": -4,
+      "projects": [],
+      "notes": "Existing service described by Appendix 3.1, not a new state-plan frequency target. Shown unchanged as context in all three horizon views, not a promise of future continuation. Frequencies and station context are plan-era, not a live timetable. Only selected California stops and the available rail-GIS extent are drawn; the full interstate alignment is not mapped. No additional near-term frequency is inferred.",
+      "conflict": null,
+      "baseline": true,
+      "geometryEnd": [
+        -119.98846,
+        39.517768
+      ],
+      "continuation": "To Reno / Chicago",
+      "labelFraction": 0.47,
+      "capitalIds": [],
+      "inventory": {
+        "year": 2024,
+        "frequency": "Daily round trip",
+        "short": "Daily",
+        "fullRoute": "Emeryville\u2013Sacramento\u2013Reno\u2013Denver\u2013Chicago",
+        "detail": "One train per direction per day in the 2024 plan inventory; not a regular all-day headway."
+      }
+    },
+    {
+      "id": "amtrak-southwest-chief",
+      "name": "Southwest Chief",
+      "kind": "longdistance",
+      "nodes": [
+        "la",
+        "fullerton",
+        "riverside",
+        "san-bernardino",
+        "victorville",
+        "barstow",
+        "needles"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "Daily round trip",
+          "detail": "One train per direction per day in the 2024 plan inventory; not a regular all-day headway.",
+          "bound": null,
+          "active": true
+        },
+        "2034": {
+          "headway": null,
+          "label": "Daily round trip",
+          "detail": "One train per direction per day in the 2024 plan inventory; not a regular all-day headway.",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": null,
+          "label": "Daily round trip",
+          "detail": "One train per direction per day in the 2024 plan inventory; not a regular all-day headway.",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Existing Amtrak",
+      "why": "Existing daily long-distance rail serves the Inland Empire, Victorville, Barstow and Needles, independently of the proposed high-speed network.",
+      "action": "Protect reliable national-network service and coordinate its connections with regional rail, local transit and the planned statewide network.",
+      "source": {
+        "page": 24,
+        "pdfPage": 24,
+        "document": "appendix",
+        "label": "Existing-service inventory \u00b7 Appendix 3.1 (PDF p. 24)",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/20241203-appendices-a11y.pdf#page=24"
+      },
+      "geometry": "rail",
+      "selector": {
+        "pass": "Southwest Chief"
+      },
+      "via": null,
+      "offset": 4,
+      "projects": [],
+      "notes": "Existing service described by Appendix 3.1, not a new state-plan frequency target. Shown unchanged as context in all three horizon views, not a promise of future continuation. Frequencies and station context are plan-era, not a live timetable. Only selected California stops and the available rail-GIS extent are drawn; the full interstate alignment is not mapped. No additional near-term frequency is inferred.",
+      "conflict": null,
+      "baseline": true,
+      "geometryEnd": [
+        -114.60537,
+        34.84082
+      ],
+      "continuation": "To Albuquerque / Chicago",
+      "labelFraction": 0.47,
+      "capitalIds": [],
+      "inventory": {
+        "year": 2024,
+        "frequency": "Daily round trip",
+        "short": "Daily",
+        "fullRoute": "Los Angeles\u2013Albuquerque\u2013Kansas City\u2013Chicago",
+        "detail": "One train per direction per day in the 2024 plan inventory; not a regular all-day headway."
+      }
+    },
+    {
+      "id": "amtrak-sunset-limited",
+      "name": "Sunset Limited",
+      "kind": "longdistance",
+      "nodes": [
+        "la",
+        "pomona",
+        "ontario",
+        "palm-springs"
+      ],
+      "phases": {
+        "2028": {
+          "headway": null,
+          "label": "3 days per week",
+          "detail": "The 2024 plan inventory describes operation on three days per week; not daily service or a regular headway.",
+          "bound": null,
+          "active": true
+        },
+        "2034": {
+          "headway": null,
+          "label": "3 days per week",
+          "detail": "The 2024 plan inventory describes operation on three days per week; not daily service or a regular headway.",
+          "bound": null,
+          "active": true
+        },
+        "2050": {
+          "headway": null,
+          "label": "3 days per week",
+          "detail": "The 2024 plan inventory describes operation on three days per week; not daily service or a regular headway.",
+          "bound": null,
+          "active": true
+        }
+      },
+      "group": "Existing Amtrak",
+      "why": "Retains the existing but infrequent national-network rail connection through Palm Springs and the lower Colorado River corridor. It is not the new Coachella Valley regional service envisioned by the plan.",
+      "action": "Protect reliable national-network service and coordinate its connections with regional rail, local transit and the planned statewide network.",
+      "source": {
+        "page": 24,
+        "pdfPage": 24,
+        "document": "appendix",
+        "label": "Existing-service inventory \u00b7 Appendix 3.1 (PDF p. 24)",
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/20241203-appendices-a11y.pdf#page=24"
+      },
+      "geometry": "rail",
+      "selector": {
+        "pass": "Sunset Limited"
+      },
+      "via": null,
+      "offset": -4,
+      "projects": [],
+      "notes": "Existing service described by Appendix 3.1, not a new state-plan frequency target. Shown unchanged as context in all three horizon views, not a promise of future continuation. Frequencies and station context are plan-era, not a live timetable. Only selected California stops and the available rail-GIS extent are drawn; the full interstate alignment is not mapped. No additional near-term frequency is inferred.",
+      "conflict": null,
+      "baseline": true,
+      "geometryEnd": [
+        -114.615429,
+        32.729263
+      ],
+      "continuation": "To Tucson / New Orleans",
+      "labelFraction": 0.47,
+      "capitalIds": [],
+      "inventory": {
+        "year": 2024,
+        "frequency": "3 days per week",
+        "short": "3\u00d7 weekly",
+        "fullRoute": "Los Angeles\u2013San Antonio\u2013New Orleans",
+        "detail": "The 2024 plan inventory describes operation on three days per week; not daily service or a regular headway."
+      }
+    }
+  ]
+}

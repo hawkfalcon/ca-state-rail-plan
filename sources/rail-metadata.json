@@ -1,0 +1,502 @@
+{
+  "currentVersion": 11.1,
+  "cimVersion": "3.1.0",
+  "id": 0,
+  "name": "California Rail Network",
+  "type": "Feature Layer",
+  "parentLayer": null,
+  "defaultVisibility": true,
+  "minScale": 0,
+  "maxScale": 0,
+  "canScaleSymbols": false,
+  "geometryType": "esriGeometryPolyline",
+  "description": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>The purpose of the data is to represent the rail network using available reference data and information contained in the California Region Timetable 20. The Rail feature class contains alignment for passenger and freight railroad lines, including commuter rail and heavy rail. The Rail feature class allows for the selection of all passenger, commuter, recreational, freight, and shortline rail alignment in California with the exception of BART.</SPAN></P></DIV></DIV></DIV>",
+  "copyrightText": "",
+  "editFieldsInfo": null,
+  "ownershipBasedAccessControlForFeatures": null,
+  "syncCanReturnChanges": false,
+  "relationships": [],
+  "isDataVersioned": false,
+  "isDataArchived": false,
+  "infoInEstimates": [
+    "extent",
+    "count"
+  ],
+  "isDataBranchVersioned": false,
+  "isDataReplicaTracked": false,
+  "isCoGoEnabled": false,
+  "supportsRollbackOnFailureParameter": true,
+  "archivingInfo": {
+    "supportsQueryWithHistoricMoment": false,
+    "startArchivingMoment": -1
+  },
+  "supportsStatistics": true,
+  "supportsExceedsLimitStatistics": true,
+  "supportsAdvancedQueries": true,
+  "supportsValidateSQL": true,
+  "supportsCoordinatesQuantization": true,
+  "supportsQuantizationEditMode": true,
+  "supportsCalculate": true,
+  "supportsASyncCalculate": true,
+  "supportsDatumTransformation": true,
+  "advancedQueryCapabilities": {
+    "supportsPagination": true,
+    "supportsTrueCurve": true,
+    "supportsQueryWithDistance": true,
+    "supportsReturningQueryExtent": true,
+    "supportsStatistics": true,
+    "supportsPercentileStatistics": true,
+    "supportsHavingClause": true,
+    "supportsOrderBy": true,
+    "supportsDistinct": true,
+    "supportsCountDistinct": true,
+    "supportsQueryWithResultType": true,
+    "supportsReturningGeometryCentroid": false,
+    "supportsSqlExpression": true,
+    "supportsQueryWithDatumTransformation": true,
+    "supportsLod": false,
+    "supportsQueryWithLodSR": false,
+    "supportsQueryAnalytic": true
+  },
+  "advancedQueryAnalyticCapabilities": {
+    "supportsLinearRegression": true,
+    "supportsAsync": false,
+    "supportsPercentileAnalytic": true
+  },
+  "advancedEditingCapabilities": {
+    "supportedSqlFormatsInCalculate": [
+      "standard"
+    ],
+    "supportsAsyncApplyEdits": true,
+    "supportsApplyEditsbyUploadID": true,
+    "supportedApplyEditsUploadIDFormats": "JSON"
+  },
+  "hasGeometryProperties": true,
+  "geometryProperties": {
+    "shapeLengthFieldName": "Shape__Length",
+    "units": "esriMeters"
+  },
+  "hasMetadata": true,
+  "extent": {
+    "xmin": -13828650.7264,
+    "ymin": 3834788.8928999975,
+    "xmax": -12722321.1122,
+    "ymax": 5172394.596000001,
+    "spatialReference": {
+      "wkid": 102100,
+      "latestWkid": 3857,
+      "xyTolerance": 0.001,
+      "zTolerance": 0.001,
+      "mTolerance": 0.001,
+      "falseX": -20037700,
+      "falseY": -30241100,
+      "xyUnits": 10000,
+      "falseZ": -100000,
+      "zUnits": 10000,
+      "falseM": -100000,
+      "mUnits": 10000
+    }
+  },
+  "sourceSpatialReference": {
+    "wkid": 102100,
+    "latestWkid": 3857,
+    "xyTolerance": 0.001,
+    "zTolerance": 2,
+    "mTolerance": 2,
+    "falseX": -20037700,
+    "falseY": -30241100,
+    "xyUnits": 10000,
+    "falseZ": 0,
+    "zUnits": 1,
+    "falseM": 0,
+    "mUnits": 1
+  },
+  "drawingInfo": {
+    "renderer": {
+      "type": "simple",
+      "symbol": {
+        "type": "esriSLS",
+        "style": "esriSLSSolid",
+        "color": [
+          0,
+          92,
+          230,
+          255
+        ],
+        "width": 1
+      }
+    },
+    "scaleSymbols": true,
+    "transparency": 0,
+    "labelingInfo": null
+  },
+  "hasM": false,
+  "hasZ": false,
+  "allowGeometryUpdates": false,
+  "allowTrueCurvesUpdates": false,
+  "onlyAllowTrueCurveUpdatesByTrueCurveClients": true,
+  "hasAttachments": false,
+  "supportsApplyEditsWithGlobalIds": false,
+  "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
+  "objectIdField": "OBJECTID",
+  "globalIdField": "",
+  "displayField": "BEGIN_MP",
+  "typeIdField": "",
+  "subtypeField": "",
+  "fields": [
+    {
+      "name": "OBJECTID",
+      "type": "esriFieldTypeOID",
+      "alias": "OBJECTID",
+      "domain": null,
+      "editable": false,
+      "nullable": false,
+      "defaultValue": null,
+      "modelName": "OBJECTID"
+    },
+    {
+      "name": "BEGIN_MP",
+      "type": "esriFieldTypeDouble",
+      "alias": "BEGIN_MP",
+      "domain": null,
+      "editable": true,
+      "nullable": true,
+      "defaultValue": null,
+      "modelName": "BEGIN_MP"
+    },
+    {
+      "name": "END_MP",
+      "type": "esriFieldTypeDouble",
+      "alias": "END_MP",
+      "domain": null,
+      "editable": true,
+      "nullable": true,
+      "defaultValue": null,
+      "modelName": "END_MP"
+    },
+    {
+      "name": "ROW_OWNER",
+      "type": "esriFieldTypeString",
+      "alias": "ROW_OWNER",
+      "domain": null,
+      "editable": true,
+      "nullable": true,
+      "length": 6,
+      "defaultValue": null,
+      "modelName": "ROW_OWNER"
+    },
+    {
+      "name": "FREIGHT_OP",
+      "type": "esriFieldTypeString",
+      "alias": "FREIGHT_OP",
+      "domain": null,
+      "editable": true,
+      "nullable": true,
+      "length": 12,
+      "defaultValue": null,
+      "modelName": "FREIGHT_OP"
+    },
+    {
+      "name": "SUBDIVISIO",
+      "type": "esriFieldTypeString",
+      "alias": "SUBDIVISIO",
+      "domain": null,
+      "editable": true,
+      "nullable": true,
+      "length": 34,
+      "defaultValue": null,
+      "modelName": "SUBDIVISIO"
+    },
+    {
+      "name": "SHRTLN_NAM",
+      "type": "esriFieldTypeString",
+      "alias": "SHRTLN_NAM",
+      "domain": null,
+      "editable": true,
+      "nullable": true,
+      "length": 42,
+      "defaultValue": null,
+      "modelName": "SHRTLN_NAM"
+    },
+    {
+      "name": "SHRTLN_COD",
+      "type": "esriFieldTypeString",
+      "alias": "SHRTLN_COD",
+      "domain": null,
+      "editable": true,
+      "nullable": true,
+      "length": 4,
+      "defaultValue": null,
+      "modelName": "SHRTLN_COD"
+    },
+    {
+      "name": "PASS_OP",
+      "type": "esriFieldTypeString",
+      "alias": "PASS_OP",
+      "domain": null,
+      "editable": true,
+      "nullable": true,
+      "length": 6,
+      "defaultValue": null,
+      "modelName": "PASS_OP"
+    },
+    {
+      "name": "PASS_NETWO",
+      "type": "esriFieldTypeString",
+      "alias": "PASS_NETWO",
+      "domain": null,
+      "editable": true,
+      "nullable": true,
+      "length": 64,
+      "defaultValue": null,
+      "modelName": "PASS_NETWO"
+    },
+    {
+      "name": "COMM_OP",
+      "type": "esriFieldTypeString",
+      "alias": "COMM_OP",
+      "domain": null,
+      "editable": true,
+      "nullable": true,
+      "length": 11,
+      "defaultValue": null,
+      "modelName": "COMM_OP"
+    },
+    {
+      "name": "COMM_NETWO",
+      "type": "esriFieldTypeString",
+      "alias": "COMM_NETWO",
+      "domain": null,
+      "editable": true,
+      "nullable": true,
+      "length": 127,
+      "defaultValue": null,
+      "modelName": "COMM_NETWO"
+    },
+    {
+      "name": "RECR_OP",
+      "type": "esriFieldTypeString",
+      "alias": "RECR_OP",
+      "domain": null,
+      "editable": true,
+      "nullable": true,
+      "length": 5,
+      "defaultValue": null,
+      "modelName": "RECR_OP"
+    },
+    {
+      "name": "RECR_NETWO",
+      "type": "esriFieldTypeString",
+      "alias": "RECR_NETWO",
+      "domain": null,
+      "editable": true,
+      "nullable": true,
+      "length": 24,
+      "defaultValue": null,
+      "modelName": "RECR_NETWO"
+    },
+    {
+      "name": "STATUS",
+      "type": "esriFieldTypeString",
+      "alias": "STATUS",
+      "domain": null,
+      "editable": true,
+      "nullable": true,
+      "length": 1,
+      "defaultValue": null,
+      "modelName": "STATUS"
+    },
+    {
+      "name": "RR_CLSS",
+      "type": "esriFieldTypeString",
+      "alias": "RR_CLSS",
+      "domain": null,
+      "editable": true,
+      "nullable": true,
+      "length": 3,
+      "defaultValue": null,
+      "modelName": "RR_CLSS"
+    },
+    {
+      "name": "TRK_CLSS",
+      "type": "esriFieldTypeSmallInteger",
+      "alias": "TRK_CLSS",
+      "domain": null,
+      "editable": true,
+      "nullable": true,
+      "defaultValue": null,
+      "modelName": "TRK_CLSS"
+    },
+    {
+      "name": "PASS_SPEED",
+      "type": "esriFieldTypeSmallInteger",
+      "alias": "PASS_SPEED",
+      "domain": null,
+      "editable": true,
+      "nullable": true,
+      "defaultValue": null,
+      "modelName": "PASS_SPEED"
+    },
+    {
+      "name": "FRT_SPEED",
+      "type": "esriFieldTypeSmallInteger",
+      "alias": "FRT_SPEED",
+      "domain": null,
+      "editable": true,
+      "nullable": true,
+      "defaultValue": null,
+      "modelName": "FRT_SPEED"
+    },
+    {
+      "name": "FRT_DNS",
+      "type": "esriFieldTypeSmallInteger",
+      "alias": "FRT_DNS",
+      "domain": null,
+      "editable": true,
+      "nullable": true,
+      "defaultValue": null,
+      "modelName": "FRT_DNS"
+    },
+    {
+      "name": "NUM_TRACK",
+      "type": "esriFieldTypeString",
+      "alias": "NUM_TRACK",
+      "domain": null,
+      "editable": true,
+      "nullable": true,
+      "length": 2,
+      "defaultValue": null,
+      "modelName": "NUM_TRACK"
+    },
+    {
+      "name": "STRACNET",
+      "type": "esriFieldTypeString",
+      "alias": "STRACNET",
+      "domain": null,
+      "editable": true,
+      "nullable": true,
+      "length": 1,
+      "defaultValue": null,
+      "modelName": "STRACNET"
+    },
+    {
+      "name": "CR63",
+      "type": "esriFieldTypeString",
+      "alias": "CR63",
+      "domain": null,
+      "editable": true,
+      "nullable": true,
+      "length": 20,
+      "defaultValue": null,
+      "modelName": "CR63"
+    },
+    {
+      "name": "SHAPE_LENG",
+      "type": "esriFieldTypeDouble",
+      "alias": "SHAPE_LENG",
+      "domain": null,
+      "editable": true,
+      "nullable": true,
+      "defaultValue": null,
+      "modelName": "SHAPE_LENG"
+    },
+    {
+      "name": "Shape__Length",
+      "type": "esriFieldTypeDouble",
+      "alias": "Shape.STLength()",
+      "domain": null,
+      "editable": false,
+      "nullable": true,
+      "defaultValue": null,
+      "modelName": "Shape.STLength()"
+    }
+  ],
+  "geometryField": {
+    "name": "Shape",
+    "type": "esriFieldTypeGeometry",
+    "alias": "Shape",
+    "domain": null,
+    "editable": false,
+    "nullable": true,
+    "defaultValue": null,
+    "modelName": "Shape"
+  },
+  "indexes": [
+    {
+      "name": "R707_pk",
+      "fields": "OBJECTID",
+      "isAscending": true,
+      "isUnique": true,
+      "description": ""
+    },
+    {
+      "name": "S695_idx",
+      "fields": "Shape",
+      "isAscending": true,
+      "isUnique": true,
+      "description": ""
+    }
+  ],
+  "datesInUnknownTimezone": false,
+  "dateFieldsTimeReference": {
+    "timeZone": "UTC",
+    "respectsDaylightSaving": false
+  },
+  "preferredTimeReference": null,
+  "types": [],
+  "templates": [
+    {
+      "name": "California Rail Network",
+      "description": "",
+      "prototype": {
+        "attributes": {
+          "SHAPE_LENG": null,
+          "BEGIN_MP": null,
+          "END_MP": null,
+          "ROW_OWNER": null,
+          "FREIGHT_OP": null,
+          "SUBDIVISIO": null,
+          "SHRTLN_NAM": null,
+          "SHRTLN_COD": null,
+          "PASS_OP": null,
+          "PASS_NETWO": null,
+          "COMM_OP": null,
+          "COMM_NETWO": null,
+          "RECR_OP": null,
+          "RECR_NETWO": null,
+          "STATUS": null,
+          "RR_CLSS": null,
+          "TRK_CLSS": null,
+          "PASS_SPEED": null,
+          "FRT_SPEED": null,
+          "FRT_DNS": null,
+          "NUM_TRACK": null,
+          "STRACNET": null,
+          "CR63": null
+        }
+      },
+      "drawingTool": "esriFeatureEditToolLine"
+    }
+  ],
+  "maxRecordCount": 2000,
+  "supportedQueryFormats": "JSON, geoJSON, PBF",
+  "supportedExportFormats": "sqlite,filegdb,shapefile,csv,geojson",
+  "capabilities": "Query,Extract",
+  "useStandardizedQueries": true,
+  "supportedSpatialRelationships": [
+    "esriSpatialRelIntersects",
+    "esriSpatialRelContains",
+    "esriSpatialRelCrosses",
+    "esriSpatialRelEnvelopeIntersects",
+    "esriSpatialRelIndexIntersects",
+    "esriSpatialRelOverlaps",
+    "esriSpatialRelTouches",
+    "esriSpatialRelWithin",
+    "esriSpatialRelRelation"
+  ],
+  "standardMaxRecordCount": 8000,
+  "tileMaxRecordCount": 4000,
+  "standardMaxRecordCountNoGeometry": 32000,
+  "maxRecordCountFactor": 1,
+  "serviceItemId": "bf0c1301ee8d4f19854679658156d2ad"
+}

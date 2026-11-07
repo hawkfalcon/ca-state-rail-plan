@@ -1,0 +1,19 @@
+{
+  "checks": [
+    "New explanatory overview is published in the self-contained file",
+    "Common place abbreviations put the intended city first",
+    "Keyboard search can select the first match with Arrow Down and Enter",
+    "Every one of the 180 original capital entries can be found by its title",
+    "King City search opens the original entry; its shared URL restores the expanded register",
+    "Implementation and Sources links remain on the right page, including old links with route parameters",
+    "Shared map URLs also restore the regional view and color mode",
+    "Route bookmarks restore the horizon, and Escape dismisses menus without clearing the route",
+    "Role filters actually hide unrelated questions and announce the selected role/count",
+    "Mobile Sources is accessible; the closed detail sheet is inert and skipped by Tab",
+    "Show map closes the mobile sheet, restores focus and retains the selected corridor",
+    "Mobile Escape closes the search first and the sheet second, keeping map context",
+    "All pages fit at 320, 390 and 768 pixels, with Sources available in navigation",
+    "No runtime errors in the revised desktop/mobile journeys"
+  ],
+  "errors": []
+}

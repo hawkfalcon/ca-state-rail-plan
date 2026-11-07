@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "cap-001",
+    "horizon": "Near Term",
+    "name": "Brightline West - High Desert Hub to Rancho Cucamonga",
+    "description": "Construction of a high-speed rail guideway in the median of Interstate 15 from the High Desert Hub in the Victor Valley to Rancho Cucamonga. (In coordination with Caltrans District 8)",
+    "agency": "Brightline West",
+    "cost": 12000000000,
+    "category": "Capital",
+    "pdfPage": 6
+  },
+  {
+    "id": "cap-002",
+    "horizon": "Near Term",
+    "name": "SWIFT Long Beach Harbor Improvements -- Rail components only",
+    "description": "Construction of SWIFT Long Beach Harbor Improvement rail components, which include the Pier B On-Dock Rail Support Facility",
+    "agency": "Port of Long Beach",
+    "cost": 1574000000,
+    "category": "Capital",
+    "pdfPage": 6
+  },
+  {
+    "id": "cap-003",
+    "horizon": "Near Term",
+    "name": "Port of Stockton Rail Infrastructure Improvements for Sustainable Exports Project (RIISE)",
+    "description": "The RIISE project supports building new infrastructure to enhance rail capacity, accommodate increased freight tonnage and train frequencies, mitigate potential service disruptions, and reduce long-term repair and maintenance costs. PFIP will fund elements of this project including a replacement of the San Joaquin River rail bridge; expansion of the Port\u2019s long lead track to two tracks; and procurement of a zero-emission electric railcar mover.",
+    "agency": "Port of Stockton",
+    "cost": 371223580,
+    "category": "Capital",
+    "pdfPage": 6
+  },
+  {
+    "id": "cap-004",
+    "horizon": "Near Term",
+    "name": "Coastal Rail Infrastructure Resiliency",
+    "description": "Infrastructure improvements near San Clenente to stabalize track bed. These improvements include sand nourishment, rock reinforcement, overtop protection.",
+    "agency": "OCTA",
+    "cost": 313243000,
+    "category": "Capital",
+    "pdfPage": 6
+  },
+  {
+    "id": "cap-005",
+    "horizon": "Near Term",
+    "name": "Valley Rail Initial Service (Ceres / Midtown to SJC)",
+    "description": "Construction of various Infrastructure projects (track upgrades, stations, support facilities) for initial Valley Rail service from Ceres / Midtown to San Jose. Account for initial frequency to Ceres and service expansion from Stockton to Sacramento.",
+    "agency": "SJRRC",
+    "cost": 311394000,
+    "category": "Capital",
+    "pdfPage": 6
+  },
+  {
+    "id": "cap-006",
+    "horizon": "Near Term",
+    "name": "Antelope Valley Projects",
+    "description": "Construction of multiple track and terminal projects in the Antelope Valley. These projects include the construction of a double track near Balboa, construction of a double track near Canyon, and construction of improvements to the Lancaster Terminal.",
+    "agency": "SCRRA",
+    "cost": 302900000,
+    "category": "Capital",
+    "pdfPage": 6
+  },
+  {
+    "id": "cap-007",
+    "horizon": "Near Term",
+    "name": "Stockton Diamond",
+    "description": "Construction of a rail to rail grade separation between UPRR and BNSF in Stockton California. This project will result in a major increase in network fluidity in the San Joaquin Valley, the elimination of freight interference between both Class I railroads, and an overall reduction of freight interference with vehicles and pedestrians in the corridor. Installation of crossovers south of the UPRR Stockton yard to increase network fluidity during and after the construction of the Stockton Wye. Restores and improves the connection between the UPRR Fresno and Oakland Subdivisions to the Port of Stockton.",
+    "agency": "Multiple Agencies",
+    "cost": 301553000,
+    "category": "Capital",
+    "pdfPage": 6
+  },
+  {
+    "id": "cap-008",
+    "horizon": "Near Term",
+    "name": "Brighton to Roxford",
+    "description": "Construction of a double track from Brighton to Roxford on the Antelope Valley Line, which will include new and upgraded traffic and pedestrian crossings, improving safety and regional rail service.",
+    "agency": "LA Metro",
+    "cost": 300000000,
+    "category": "Capital",
+    "pdfPage": 6
+  },
+  {
+    "id": "cap-009",
+    "horizon": "Near Term",
+    "name": "SMART Extension: Windsor to Healdsburg Depot, with pathway",
+    "description": "Capital improvements to existing infrastructure to enable extended SMART service north from Windsor to Healdsburg, including Healdsburg station development and infrastructure to Healdsburg north.",
+    "agency": "SMART",
+    "cost": 269000000,
+    "category": "Capital",
+    "pdfPage": 6
+  },
+  {
+    "id": "cap-010",
+    "horizon": "Near Term",
+    "name": "San Dieguito Double Track and Platform (Del Mar Fairgrounds Special Events Platform)",
+    "description": "Construction of 2.1 miles of second main track and San Dieguito bridge replacement from north of CP Valley (MP 242.2) to CP Del Mar (MP 243.9). This project includes construction of a special event platform at the Del Mar Fairgrounds.",
+    "agency": "SANDAG",
+    "cost": 230800000,
+    "category": "Capital",
+    "pdfPage": 6
+  },
+  {
+    "id": "cap-011",
+    "horizon": "Near Term",
+    "name": "Container Terminal Support Facility (Port of Los Angeles and Port of Long Beach)",
+    "description": "Construction of an 80-acre container terminal support facility to provide chassis staging/storage to serve POLA/POLB, as well as Rail (Alameda Corridor terminus) Highway grade separation for unimpeded access to the chassis facility.",
+    "agency": "POLA",
+    "cost": 200000000,
+    "category": "Capital",
+    "pdfPage": 6
+  },
+  {
+    "id": "cap-012",
+    "horizon": "Near Term",
+    "name": "Del Mar Tunnel - 2 PE/ENV",
+    "description": "Preliminary Engineering, environmental clearance, and public outreach for the Del Mar Tunnel.",
+    "agency": "SANDAG",
+    "cost": 152000000,
+    "category": "Capital",
+    "pdfPage": 6
+  },
+  {
+    "id": "cap-013",
+    "horizon": "Near Term",
+    "name": "High Desert Corridor Operational Efficiency",
+    "description": "Construction of two 22,500-ft staging tracks and a third main track to extend the existing triple track by 11 miles on the BNSF Cajon Subdivision in San Bernardino County between railroad control points (CP) Martinez and CP Thorn (roughly from the top of Cajon Pass one mile east of the Hesperia City Limits, through Hesperia, to 1/3 mile north of Bear Valley Road in the City of Victorville). This project will increase operational efficiency and throughput by allowing phasing, queuing and expanded passing opportunities.",
+    "agency": "Caltrans",
+    "cost": 150467000,
+    "category": "Capital",
+    "pdfPage": 6
+  },
+  {
+    "id": "cap-014",
+    "horizon": "Near Term",
+    "name": "Eastbrook to Shell Double Track",
+    "description": "Construction of 0.8 miles of new double track railroad near Harbor Drive (CP Eastbrook, MP 225.2) to south of Surfrider Way (CP Shell, MP 226.0) both in the City of Oceanside and replacement of NCTD bridge at MP 225.4 with a new double track bridge spanning San Luis Rey River.",
+    "agency": "SANDAG",
+    "cost": 134200000,
+    "category": "Capital",
+    "pdfPage": 6
+  },
+  {
+    "id": "cap-015",
+    "horizon": "Near Term",
+    "name": "North Lathrop Station",
+    "description": "Construction of a North Lathrop Station (infill on existing line) as a part if the Valley Rail Program that would serve the Altmont Corridor Express (ACE)",
+    "agency": "SJRRC",
+    "cost": 119790000,
+    "category": "Capital",
+    "pdfPage": 6
+  },
+  {
+    "id": "cap-016",
+    "horizon": "Near Term",
+    "name": "Batiquitos Lagoon Double Track Project",
+    "description": "Construction of .75 miles of second mainline rail track from Avenida Encinas in Carlsbad to La Costa Avenue in Encinitas across the Batiquitos Lagoon. This project also includes replacing a wooden trestle bridge with a modern, double-track concrete rail bridge.",
+    "agency": "SANDAG",
+    "cost": 117800000,
+    "category": "Capital",
+    "pdfPage": 6
+  },
+  {
+    "id": "cap-017",
+    "horizon": "Near Term",
+    "name": "Merced County Inland Port",
+    "description": "Construction of enhancements to the Castle Commerce Center in Merced County, including through expansion of the railway to a new staging and container laydown area to support cross-docking and processing.",
+    "agency": "Merced Inland Port",
+    "cost": 115674000,
+    "category": "Capital",
+    "pdfPage": 6
+  },
+  {
+    "id": "cap-018",
+    "horizon": "Near Term",
+    "name": "Modesto Station (UPRR Sub)",
+    "description": "Construction of new Valley Rail Station: Modesto Station. This project will support the ACE Extension along the UP Fresno Subdivision between Stockton and Merced.",
+    "agency": "SJRRC",
+    "cost": 112100000,
+    "category": "Capital",
+    "pdfPage": 6
+  },
+  {
+    "id": "cap-019",
+    "horizon": "Near Term",
+    "name": "Ventura and Santa Barbara County Siding Extensions and Double Track",
+    "description": "Construction of siding and track extensions and double tracking between Ventura and Santa Barbara County.",
+    "agency": "LOSSAN",
+    "cost": 100000000,
+    "category": "Capital",
+    "pdfPage": 6
+  },
+  {
+    "id": "cap-020",
+    "horizon": "Near Term",
+    "name": "Orange County Maintenance Facility",
+    "description": "Construction of a new maintenance facility in Irvine, required prior to increasing services on OC and IE-OC Lines.",
+    "agency": "OCTA",
+    "cost": 100000000,
+    "category": "Capital",
+    "pdfPage": 6
+  },
+  {
+    "id": "cap-021",
+    "horizon": "Near Term",
+    "name": "Del Mar Bluffs Phase 5",
+    "description": "Implementation of slope stability improvements at the Del Mar Bluffs in the City of Del Mar. This phase of the project will construct the following improvements at locations between MP 244.1 and MP 245.7: deep driven piles to provide seismic stability to portions of the bluff, retaining walls, drainage improvements, and erosion control measures.",
+    "agency": "SANDAG",
+    "cost": 99600000,
+    "category": "Capital",
+    "pdfPage": 6
+  },
+  {
+    "id": "cap-022",
+    "horizon": "Near Term",
+    "name": "Simi Valley Double Track & Platform Expansion",
+    "description": "Construction of a double track from MP 436.65 to CP Santa Susana to allow at-speed meets at MP 437.4. This project will also add a 2nd platform at Simi Valley station to allow boarding from both tracks to enable 30 minute service.",
+    "agency": "SCRRA",
+    "cost": 88967000,
+    "category": "Capital",
+    "pdfPage": 6
+  },
+  {
+    "id": "cap-023",
+    "horizon": "Near Term",
+    "name": "LOSSAN Corridor Hardening",
+    "description": "The LOSSAN Corridor Hardening project focuses on improving areas affected experiencing slumping and erosion due to surface water runoff in Santa Barbara and Ventura Counties. Key project elements include: - Hollister Ranch Repairs: Infrastructure enhancements to address significant bluff erosion and the failure of old rock buttresses. - Ortega Hill Bluff Repair - El Capitan Bluff and Pipe Repair: Repairs aimed at addressing a broken pipe, filling scour holes, and stabilizing slopes above seawalls at El Capitan in Santa Barbara County. - Rincon Point Slope Repairs: Improvements targeting significant erosion areas above the track and toe erosion at the base of the slope. - Honda Siding Stabilization: Rehabilitation of a 1.37-mile siding north of the Honda Bridge to increase regional capacity. - Honda Bluff Repair: Design and construction efforts to address significant damage to the Honda bluffs.",
+    "agency": "LOSSAN",
+    "cost": 85767000,
+    "category": "Capital",
+    "pdfPage": 7
+  },
+  {
+    "id": "cap-024",
+    "horizon": "Near Term",
+    "name": "Sacramento Valley Station (SVS) - Light Rail Integration",
+    "description": "Realignment of SacRT light rail to create easier multi-modal transfers at Sacramento Valley Station by bringing the Gold Line platform and tracks closer to the intercity rail platforms.",
+    "agency": "Multiple Agencies",
+    "cost": 82940000,
+    "category": "Capital",
+    "pdfPage": 7
+  },
+  {
+    "id": "cap-025",
+    "horizon": "Near Term",
+    "name": "Salinas Rail Service Extension",
+    "description": "Track and signal improvements on the track segment between Gilroy and Salinas to enable regional rail service extension to Salinas. Construction of a train layover facility connected to the Coast Mainline. This project includes a new train crew base building and storage shed, fencing, lighting, and a new platform.",
+    "agency": "TAMC",
+    "cost": 81000000,
+    "category": "Capital",
+    "pdfPage": 7
+  },
+  {
+    "id": "cap-026",
+    "horizon": "Near Term",
+    "name": "Coast Sub PTC",
+    "description": "Implementation of positive train control from Alameda to Monterey County on the Coast Subdivision.",
+    "agency": "Caltrans",
+    "cost": 72000000,
+    "category": "Capital",
+    "pdfPage": 7
+  },
+  {
+    "id": "cap-027",
+    "horizon": "Near Term",
+    "name": "Guadalupe River Bridge Replacement",
+    "description": "Replacement of the Guadalupe River Bridge in San Jose to improve reliability of Caltrain and ACE operations.",
+    "agency": "Caltrain",
+    "cost": 63300000,
+    "category": "Capital",
+    "pdfPage": 7
+  },
+  {
+    "id": "cap-028",
+    "horizon": "Near Term",
+    "name": "Facilitating and Accelerating Service Transformations (FAST) on the Central Coast Program",
+    "description": "Provides coordinated improvements along the Coast Line between Monterey and Santa Barbara Counties. The King City Multi Modal Transportation Center will establish a new rail station in downtown King City, including railroad siding upgrades and a staging area for National Guard service members connecting between the rail station and Fort Hunter Liggett by bus. Crossover and siding improvements near San Luis Obispo and Paso Robles stations will improve train reliability and operational flexibility for increased train service along the Central Coast. Finally, the Ortega Siding will be built between Santa Barbara and Carpinteria, enabling a seventh Pacific Surfliner roundtrip and improving overall corridor efficiency for both freight and passenger rail.",
+    "agency": "Multiple Agencies",
+    "cost": 63000000,
+    "category": "Capital",
+    "pdfPage": 7
+  },
+  {
+    "id": "cap-029",
+    "horizon": "Near Term",
+    "name": "Ca\u00f1ada Honda Creek Bridge Replacement & Leesdale Siding Extension",
+    "description": "- Construction of a replacement bridge over the Ca\u00f1ada Honda Creek (north of Gaviota Beach, near Vandenberg AFB). This bridge replacement is Project 26 in the Caltrans reports for Proposition 1B Bond Program. Due to delays related to the Environmental Document Phase, the schedule for Construction allocation has been extended to Fiscal Year 2023-24. - Partial construction of Leesdale siding between CO402 at MP 409.1 and CP O406 at 405.6. When combined with a second platform at Oxnard station, this project will enable 30-minute passenger frequencies to Oxnard.",
+    "agency": "LOSSAN",
+    "cost": 56000000,
+    "category": "Capital",
+    "pdfPage": 7
+  },
+  {
+    "id": "cap-030",
+    "horizon": "Near Term",
+    "name": "Irvine Station Improvements",
+    "description": "The Irvine Station improvements include a 4th Main Track expansion between west of Milepost (MP) 184.0 and east of CP Bake, MP 186.9, with two center island platforms.",
+    "agency": "OCTA",
+    "cost": 54151000,
+    "category": "Capital",
+    "pdfPage": 7
+  },
+  {
+    "id": "cap-031",
+    "horizon": "Near Term",
+    "name": "El Monte Station Ped Improvements and Siding Extension",
+    "description": "Construction of El Monte Station pedestrian improvements to eliminate hold out rule and allow meets mid-platform. This project will extend the platform westward and extend the siding track west toward the flyover, as well as upgrade to a higher speed switch and add new signaling.",
+    "agency": "SCRRA",
+    "cost": 51796000,
+    "category": "Capital",
+    "pdfPage": 7
+  },
+  {
+    "id": "cap-032",
+    "horizon": "Near Term",
+    "name": "Mead Valley Station Development",
+    "description": "Construction of a new station and mobility hub in Mead Valley on the 91/Perris Valley Line at Cajalco Expressway/Ramona Expressway, just west of Interstate 215. This station will function as a transit hub, improving local access to both freight and passenger rail services.",
+    "agency": "RCTC",
+    "cost": 50500000,
+    "category": "Capital",
+    "pdfPage": 7
+  },
+  {
+    "id": "cap-033",
+    "horizon": "Near Term",
+    "name": "King City Station",
+    "description": "Construction of a new station in King City to provide an additional local stop on the Coast subdivision for immediate use by the Coast Starlight and longer-term use by intercity trains along the coast. The initial project is a platform with the longer-term project being led by the city to develop a multimodal station.",
+    "agency": "King City",
+    "cost": 47011805,
+    "category": "Capital",
+    "pdfPage": 7
+  },
+  {
+    "id": "cap-034",
+    "horizon": "Near Term",
+    "name": "Rancho Siding Extension from MP 39.2 to CP Archibald",
+    "description": "Construction of a 1-mile siding extension west toward MP 39.2 and speed increase upon approach to Rancho Cucamonga station to enable 30-min service.",
+    "agency": "SCRRA",
+    "cost": 46581000,
+    "category": "Capital",
+    "pdfPage": 7
+  },
+  {
+    "id": "cap-035",
+    "horizon": "Near Term",
+    "name": "San Luis Obispo Layover Facility",
+    "description": "Construction of a new and expanded layover facility in San Luis Obispo that will enable additional Pacific Surfliner service. The project will facilitate the maintenance of equipment mid-route and at route terminus.",
+    "agency": "LOSSAN",
+    "cost": 40500000,
+    "category": "Capital",
+    "pdfPage": 7
+  },
+  {
+    "id": "cap-036",
+    "horizon": "Near Term",
+    "name": "San Juan Creek Bridge replacement",
+    "description": "Replacement of the 100-year old railroad bridge over San Juan Creek in San Juan Capistrano. The existing bridge foundation does not meet current design standards and the bridge itself does not meet current railroad design load standards. The new bridge will be built on the western side of the existing bridge to minimize disruption to passenger and freight.",
+    "agency": "OCTA",
+    "cost": 38333000,
+    "category": "Capital",
+    "pdfPage": 7
+  },
+  {
+    "id": "cap-037",
+    "horizon": "Near Term",
+    "name": "Hobart Lead Tracks Development",
+    "description": "The Hobart Intermodal Facility Improvement Project in Los Angeles enhances the existing facility by increasing efficiency along the freight corridor. The project aims to improve yard capacity and efficiency, facilitate better train movement and staging, boost the throughput of freight and passenger trains, and plan for future upgrades to fully separate freight and passenger operations within the yards.",
+    "agency": "Caltrans",
+    "cost": 37000000,
+    "category": "Capital",
+    "pdfPage": 7
+  },
+  {
+    "id": "cap-038",
+    "horizon": "Near Term",
+    "name": "Serra Siding Extension / CP Songs to San Mateo Creek",
+    "description": "To enhance reliability and flexibility at the meeting point between Los Angeles and San Diego, two options are being considered for this project: Option 1 (Serra Siding Extension) - Construction of an extension to the Serra Siding. The project will reduce the bottleneck at San Clemente and enables 2 trains per hour and direction to operate. Includes extensions both to the north and south. Option 2 (CP Songs to San Mateo Creek) - Construction of a second main track between the county line (Project is located entirely within San Diego County) at MP 207.4 and MP 208.2. The limits of the project include the structures across San Mateo Creek, Br 207.6 and the bridge across the wetland, Br. 207.8.",
+    "agency": "OCTA",
+    "cost": 36918000,
+    "category": "Capital",
+    "pdfPage": 7
+  },
+  {
+    "id": "cap-039",
+    "horizon": "Near Term",
+    "name": "San Joaquin Corridor 2nd Platforms",
+    "description": "Construction of an additional platform at both the Modesto and Turlock-Denair Amtrak Stations.",
+    "agency": "Caltrans",
+    "cost": 36400000,
+    "category": "Capital",
+    "pdfPage": 7
+  },
+  {
+    "id": "cap-040",
+    "horizon": "Near Term",
+    "name": "Madera Station Relocation",
+    "description": "Relocation of the existing Madera San Joaquins Station, which is nearly three miles north of Madera. A location near Avenue 12 will better meet regional goals of improving ridership and connectivity.",
+    "agency": "SJJPA",
+    "cost": 35585000,
+    "category": "Capital",
+    "pdfPage": 8
+  },
+  {
+    "id": "cap-041",
+    "horizon": "Near Term",
+    "name": "San Onofre-Pulgas Phase 2",
+    "description": "Construction of a 1.6 mile segment of second main track (MP216.5 to MP 218.1) and bridges at MP 217.3 and MP 218.0.",
+    "agency": "SANDAG",
+    "cost": 35530000,
+    "category": "Capital",
+    "pdfPage": 8
+  },
+  {
+    "id": "cap-042",
+    "horizon": "Near Term",
+    "name": "Placentia Station Platform",
+    "description": "Construction of additional station platform",
+    "agency": "OCTA",
+    "cost": 35000000,
+    "category": "Capital",
+    "pdfPage": 8
+  },
+  {
+    "id": "cap-043",
+    "horizon": "Near Term",
+    "name": "Ortega Siding",
+    "description": "Construction of a new siding track, approximately located 3 miles north of the City of Carpinteria, to support service expansion and enhancement goals for the Pacific Surfliner. Once completed, this project will also enable the addition of a 7th round trip between Goleta and San Diego.",
+    "agency": "Caltrans",
+    "cost": 33178000,
+    "category": "Capital",
+    "pdfPage": 8
+  },
+  {
+    "id": "cap-044",
+    "horizon": "Near Term",
+    "name": "Chatsworth Station & Signal Improvements",
+    "description": "Infrastructure improvements on approach to Chatsworth station to increase speeds and allow meets at platform without loss of time.",
+    "agency": "SCRRA",
+    "cost": 25158000,
+    "category": "Capital",
+    "pdfPage": 8
+  },
+  {
+    "id": "cap-045",
+    "horizon": "Near Term",
+    "name": "Perris South Station and Layover Track Expansion",
+    "description": "Construction of a new track and second platform at the Perris South Station along with a fourth layover track at the maintenance facility.",
+    "agency": "RCTC",
+    "cost": 25000000,
+    "category": "Capital",
+    "pdfPage": 8
+  },
+  {
+    "id": "cap-046",
+    "horizon": "Near Term",
+    "name": "Goleta Station Project",
+    "description": "Construction of a new multi-modal train station next to the existing Amtrak platform on South La Patera Lane. This project will improve connections to bus transit, accommodate transit service to/from the Santa Barbara Airport and the University of California Santa Barbara (UCSB), add new bicycle and pedestrian facilities, and allow accommodation for potential future additional train storage that will support increased commuter rail needs.",
+    "agency": "City of Goleta",
+    "cost": 19000000,
+    "category": "Capital",
+    "pdfPage": 8
+  },
+  {
+    "id": "cap-047",
+    "horizon": "Near Term",
+    "name": "BNSF Escalon improvements",
+    "description": "East Escalon Siding Project",
+    "agency": "SJJPA",
+    "cost": 18158000,
+    "category": "Capital",
+    "pdfPage": 8
+  },
+  {
+    "id": "cap-048",
+    "horizon": "Near Term",
+    "name": "Camarillo Station Grade Separated Pedestrian Crossing",
+    "description": "Construction of a grade separated pedestrian crossing over the UPRR tracks in the Camarillo Station area, improving pedestrian access and ADA compliance between station platforms and parking areas.",
+    "agency": "City of Camarillo",
+    "cost": 18000000,
+    "category": "Capital",
+    "pdfPage": 8
+  },
+  {
+    "id": "cap-049",
+    "horizon": "Near Term",
+    "name": "LOSSAN Corridor Quiet Zones",
+    "description": "To reduce noise around 20 at-grade rail crossings for nearby residents and businesses, infrastructure improvements will be made to enable quiet zones throughout the LOSSAN rail corridor (excluding Laurel Street, Coast Boulevard and Chesterfield Drive).",
+    "agency": "SANDAG",
+    "cost": 16660000,
+    "category": "Capital",
+    "pdfPage": 8
+  },
+  {
+    "id": "cap-050",
+    "horizon": "Near Term",
+    "name": "Coastal Rail Corridor Relocation Study",
+    "description": "Study to analyze and propose solutions to various coastal issues in southern Orange County. Focuses on 11-mile segment from San Juan Capistrano to San Onofre and another 7-mile segment between Dana Point and San Clemente This near-term effort may extend to mid-term and advances the project through the Environmental and Preliminary Engineering Phase.",
+    "agency": "OCTA",
+    "cost": 15000000,
+    "category": "Capital",
+    "pdfPage": 8
+  },
+  {
+    "id": "cap-051",
+    "horizon": "Near Term",
+    "name": "Petaluma North Station",
+    "description": "Construction of a Petaluma North Station to serve an extension of the Sonoma-Marin Area Rail Transit (SMART) corridor service to North Petaluma.",
+    "agency": "SMART",
+    "cost": 14100000,
+    "category": "Capital",
+    "pdfPage": 8
+  },
+  {
+    "id": "cap-052",
+    "horizon": "Near Term",
+    "name": "Goleta Layover Facility",
+    "description": "Construction of an expansion to the layover facility at Goleta. The current layover facility is 725 feet and can only accommodate one train for servicing. This project would construct an additional layover servicing area that would allow for additional trainsets to layover and receive turnaround servicing.",
+    "agency": "LOSSAN",
+    "cost": 14100000,
+    "category": "Capital",
+    "pdfPage": 8
+  },
+  {
+    "id": "cap-053",
+    "horizon": "Near Term",
+    "name": "San Onofre Bridges",
+    "description": "Replacement of three timber trestle railway bridges at MP 207.6, 207.8 and 209.9.",
+    "agency": "SANDAG",
+    "cost": 13641000,
+    "category": "Capital",
+    "pdfPage": 8
+  },
+  {
+    "id": "cap-054",
+    "horizon": "Near Term",
+    "name": "Agnew Siding",
+    "description": "Construction of a half-mile siding along a stretch of single track served by ACE and Capital Corridor services. The project provides additional flexibility by allowing trains to meet without having to make complex backing moves to use the existing siding. This will enable enhanced special event service at Levi Stadium and will reduce delays for regularly scheduled rail service.",
+    "agency": "CCJPA",
+    "cost": 12508000,
+    "category": "Capital",
+    "pdfPage": 8
+  },
+  {
+    "id": "cap-055",
+    "horizon": "Near Term",
+    "name": "Commerce Flyover Development",
+    "description": "Project development to construct a two-track flyover (grade-separated rail bridge) on a rail corridor segment just east of downtown Los Angeles on the BNSF San Bernardino Subdivision (Commerce Corridor). The project will construct improvements to separate two tracks to serve passenger rail service from the other main tracks, lead tracks, and staging tracks that serve the freight rail within this segment of the corridor.",
+    "agency": "Caltrans",
+    "cost": 12000000,
+    "category": "Capital",
+    "pdfPage": 8
+  },
+  {
+    "id": "cap-056",
+    "horizon": "Near Term",
+    "name": "Ventura Subdivision Track and Structures Rehabilitation Project",
+    "description": "Construction of improvements to existing track and structures along the Ventura Subdivision at various locations in Burbank, Moorpark, and Simi Valley within the Counties of Los Angeles and Ventura. This includes the replacement of one highway-rail crossing, eight turnouts, 5,574 timber ties, the upgrade of 4,057 additional timber ties to concrete ties, 4,050 track fasteners, 9,974 feet of rail, four culvert replacements, four culvert rehabilitations, and the rehabilitation of Tunnel 26.",
+    "agency": "SCRRA",
+    "cost": 11108000,
+    "category": "Capital",
+    "pdfPage": 8
+  },
+  {
+    "id": "cap-057",
+    "horizon": "Near Term",
+    "name": "Watsonville/Pajaro Station - Environmental",
+    "description": "Environmental Assessment funding for Pajaro Station improvements to accommodate through service on the Pacific coast and connections to Santa Cruz.",
+    "agency": "TAMC",
+    "cost": 11000000,
+    "category": "Capital",
+    "pdfPage": 8
+  },
+  {
+    "id": "cap-058",
+    "horizon": "Near Term",
+    "name": "The Newark-Albrae Siding Connection Project",
+    "description": "Construction to connect two sidings to create a second main track. The connected sidings would permit double track operation between Fremont and just north of the Alviso Wetlands, increasing overall capacity. This project connects with previous improvements implemented by the Capitol Corridor Joint Power Authority and will benefit both ACE and Capital Corridor services",
+    "agency": "SJRRC",
+    "cost": 9800000,
+    "category": "Capital",
+    "pdfPage": 8
+  },
+  {
+    "id": "cap-059",
+    "horizon": "Near Term",
+    "name": "Marengo Siding Extension",
+    "description": "Construction of a 1-mile extension to the existing Marengo Siding east toward CSULA.",
+    "agency": "Caltrans",
+    "cost": 9675000,
+    "category": "Capital",
+    "pdfPage": 8
+  },
+  {
+    "id": "cap-060",
+    "horizon": "Near Term",
+    "name": "Oakley Station",
+    "description": "Design and construct a new station and platform in the Oakley Civic Center on the San Joaquins route between Oakland and Stockton. This station is five miles from the existing Antioch/Pittsburg Station and will serve the communities of Oakley and Brentwood.",
+    "agency": "SJJPA",
+    "cost": 8623119,
+    "category": "Capital",
+    "pdfPage": 8
+  },
+  {
+    "id": "cap-061",
+    "horizon": "Near Term",
+    "name": "San Joaquin Street Station Layover Track",
+    "description": "Construct layover track, reconfigure parking lot, and install street lighting along San Joaquin Street. This project is needed to provide a layover track.",
+    "agency": "SJJPA",
+    "cost": 7000000,
+    "category": "Capital",
+    "pdfPage": 8
+  },
+  {
+    "id": "cap-062",
+    "horizon": "Near Term",
+    "name": "Port of San Diego Balanced Freight Project National City",
+    "description": "Construction of a rail connector and storage track as a part of San Diego's Balanced Freight project in national City as a part of the broader National City Bayfront Projects Initiative.",
+    "agency": "Port of San Diego",
+    "cost": 6700000,
+    "category": "Capital",
+    "pdfPage": 8
+  },
+  {
+    "id": "cap-063",
+    "horizon": "Near Term",
+    "name": "Santa Clara Interlocking",
+    "description": "Improve operational flexibility and reliability between San Jos\u00e9 and Newark by adding a new track-switching location for passenger and freight train. Project includes upgrades such as new signaling systems, track realignment, and enhancements to interlocking control mechanisms.",
+    "agency": "CCJPA",
+    "cost": 6394000,
+    "category": "Capital",
+    "pdfPage": 8
+  },
+  {
+    "id": "cap-064",
+    "horizon": "Near Term",
+    "name": "Sacramento Valley Station (SVS) Transit Center - Northside Access",
+    "description": "Expansion of the existing emergency egress stairway to enable regular station access to the portion of the Railyards development north of the Sacramento Valley Station (SVS).",
+    "agency": "CCJPA",
+    "cost": 6014000,
+    "category": "Capital",
+    "pdfPage": 8
+  },
+  {
+    "id": "cap-065",
+    "horizon": "Near Term",
+    "name": "Fremont Platform Extension",
+    "description": "400-foot platform extension at Fremont station to accommodate longer 10-car trains for the ACE service.",
+    "agency": "SJRRC",
+    "cost": 5770000,
+    "category": "Capital",
+    "pdfPage": 9
+  },
+  {
+    "id": "cap-066",
+    "horizon": "Near Term",
+    "name": "Orcutt Road Left Hand Crossover",
+    "description": "Create a universal crossover near San Luis Obispo Station, providing the operational flexibility to run additional trains and introduce a more regular passenger rail service along the Central Coast.",
+    "agency": "Caltrans",
+    "cost": 5000000,
+    "category": "Capital",
+    "pdfPage": 9
+  },
+  {
+    "id": "cap-067",
+    "horizon": "Near Term",
+    "name": "Signal Respacing: Avery to Songs (reliability improvement)",
+    "description": "Signal Respacing. Adds intermediate signal pairs and associated crossing work at control points Avery to SONGS.",
+    "agency": "SCRRA",
+    "cost": 5000000,
+    "category": "Capital",
+    "pdfPage": 9
+  },
+  {
+    "id": "cap-068",
+    "horizon": "Near Term",
+    "name": "SVS Rail Western Access",
+    "description": "Connect the active transportation network around SVS with the growing Railyards District by extending Bercut Drive to meet the SVS Westside Tunnel path. The Bercut Drive extension will include bicycle and pedestrian infrastructure and layover facilities for SacRT buses.",
+    "agency": "City of Sacramento",
+    "cost": 4865000,
+    "category": "Capital",
+    "pdfPage": 9
+  },
+  {
+    "id": "cap-069",
+    "horizon": "Near Term",
+    "name": "BNSF Projects \u2013 Empire Crossover",
+    "description": "Construction of a crossover to improve reliability and allow trains along the San Joaquins route to switch from one main track to the other, providing more opportunities to avoid delay due to interference from other train traffic.",
+    "agency": "SJJPA",
+    "cost": 4814000,
+    "category": "Capital",
+    "pdfPage": 9
+  },
+  {
+    "id": "cap-070",
+    "horizon": "Near Term",
+    "name": "Devonshire Street Crossing Improvements Project",
+    "description": "Construction of improvements to the Devonshire Street at-grade crossing on the SCRRA Ventura Subdivision (MP445.17). These improvements will increase safety and bring the crossing up to the latest's SCRRA standards.",
+    "agency": "SCRRA",
+    "cost": 4272000,
+    "category": "Capital",
+    "pdfPage": 9
+  },
+  {
+    "id": "cap-071",
+    "horizon": "Near Term",
+    "name": "Sorrento Valley Blvd Safety Improvements",
+    "description": "Construction of near-side signals between Sorrento Valley station and Sorrento Valley Blvd to reduce conflicts with heavy traffic congestion.",
+    "agency": "SANDAG",
+    "cost": 3980000,
+    "category": "Capital",
+    "pdfPage": 9
+  },
+  {
+    "id": "cap-072",
+    "horizon": "Near Term",
+    "name": "Robert J. Cabral Station Expansion (Stockton)",
+    "description": "Construction of improved Cabral Station, including security enhancements and ADA compliant sidewalks.",
+    "agency": "Multiple Agencies",
+    "cost": 3900000,
+    "category": "Capital",
+    "pdfPage": 9
+  },
+  {
+    "id": "cap-073",
+    "horizon": "Near Term",
+    "name": "Tunnel 25 Rehab",
+    "description": "Rehabilitation of Tunnel 25 in the Antelope Valley Line in the City of Santa Clarita and portions of unincorporated Los Angeles County. The 6,976 ft tunnel was originally built in 1876 and requires major rehabilitation work every 25-30 years due to its length and elevation.",
+    "agency": "SCRRA",
+    "cost": 1602000,
+    "category": "Capital",
+    "pdfPage": 9
+  },
+  {
+    "id": "cap-074",
+    "horizon": "Mid Term",
+    "name": "Capitol Corridor -Sacramento to Roseville Third Track Service Expansion (Phase 1)",
+    "description": "Infrastructure improvements to enable two additional daily roundtrips on the existing passenger rail corridor between Sacramento and Roseville for a total of three round trips per day between Roseville and Sacramento.",
+    "agency": "CCJPA",
+    "cost": 214000000,
+    "category": "Capital",
+    "pdfPage": 10
+  },
+  {
+    "id": "cap-075",
+    "horizon": "Mid Term",
+    "name": "Sacramento Valley Station (SVS) - Regional Bus and Mobility Hub",
+    "description": "Construction of a two-level transit center surrounding the intercity rail station at Sacramento Valley Station. key for connecting transit to the intercity and regional network at SVS - highway system connections",
+    "agency": "Multiple Agencies",
+    "cost": 139885000,
+    "category": "Capital",
+    "pdfPage": 10
+  },
+  {
+    "id": "cap-076",
+    "horizon": "Mid Term",
+    "name": "Davis Station Platform Replacement and Track Improvements",
+    "description": "Construction of a new or improved station to eliminate danger from passengers crossing active main line track to reach their train. This project will provide ADA accessible 8 inch above top rail platform for both main tracks and eliminate holdout rule to improve freight train operation and corridor fluidity.",
+    "agency": "CCJPA",
+    "cost": 40000000,
+    "category": "Capital",
+    "pdfPage": 10
+  },
+  {
+    "id": "cap-077",
+    "horizon": "Mid Term",
+    "name": "SMART Healdsburg to Cloverdale Extension, with pathway",
+    "description": "Reconstruction to maximize public benefit of currently unusable publicly-owned infrastructure. Project will facilitate the reduction of emissions, increased transit ridership, support of freight rail investments, improved access to high-speed internet for public institutions, and enables the City of Healdsburg and the City of Cloverdale to consider land use changes that could be made with the introduction of high quality transit service.",
+    "agency": "SMART",
+    "cost": 312000000,
+    "category": "Capital",
+    "pdfPage": 10
+  },
+  {
+    "id": "cap-078",
+    "horizon": "Mid Term",
+    "name": "Martinez Intercity Rail Turn Around Facility Project",
+    "description": "Construction of turn tracks at the existing Martinez station to allow SJJPA trains to turn back at Martinez and for passengers to efficiently transfer between SJJPA and CCJPA trains. This would open slots on the UPRR Martinez Subdivision between Martinez and Oakland for 5 additional CCJPA round trips (total of 20).",
+    "agency": "Multiple Agencies",
+    "cost": 62500000,
+    "category": "Capital",
+    "pdfPage": 10
+  },
+  {
+    "id": "cap-079",
+    "horizon": "Mid Term",
+    "name": "South Bay Connect Travel Time Savings",
+    "description": "Construction of infrastructure improvements on Coast Subdivision for improved travel times between San Jose and Oakland. This project includes track and right-of- way improvements and the introduction of optimized rail schedules that better use capacity available under existing and enhanced railroad agreements across all intercity and regional rail service providers.",
+    "agency": "CCJPA",
+    "cost": 198463000,
+    "category": "Capital",
+    "pdfPage": 10
+  },
+  {
+    "id": "cap-080",
+    "horizon": "Mid Term",
+    "name": "The Portal (formerly the DTX San Francisco Downtown Extension)",
+    "description": "Extension of existing Caltrain and future HSR track from the existing 4th and King Caltrain terminal to the existing vaults below the Salesforce Transit Center.",
+    "agency": "TJPA",
+    "cost": 8200000000,
+    "category": "Capital",
+    "pdfPage": 10
+  },
+  {
+    "id": "cap-081",
+    "horizon": "Mid Term",
+    "name": "Valley Link Dublin/Pleasanton to Mountain House",
+    "description": "Infrastructure upgrades to enable the Initial Valley Link Service from Dublin/Pleasanton in Alameda County to Mountain House Community in San Joaquin County.",
+    "agency": "Valley Link",
+    "cost": 1868911000,
+    "category": "Capital",
+    "pdfPage": 10
+  },
+  {
+    "id": "cap-082",
+    "horizon": "Mid Term",
+    "name": "Valley Rail Service Northern Expansion",
+    "description": "Station and track improvements between Natomas and Stockton",
+    "agency": "SJRRC",
+    "cost": 380000000,
+    "category": "Capital",
+    "pdfPage": 10
+  },
+  {
+    "id": "cap-083",
+    "horizon": "Mid Term",
+    "name": "Valley Rail Service Southern Expansion",
+    "description": "Construction of track improvements that would enable extension of Altmont Corridor Express (ACE) service to Merced.",
+    "agency": "SJRRC",
+    "cost": 600000000,
+    "category": "Capital",
+    "pdfPage": 10
+  },
+  {
+    "id": "cap-084",
+    "horizon": "Mid Term",
+    "name": "Merced Intermodal Track Connection (MITC)",
+    "description": "Construction of an intermodal track connection in Merced. This project provides capacity for eleven additional daily roundtrips on the existing passenger rail corridor, and one new or improved station, as well as allows reliable connections between ACE/San Joaquins and California High Speed Rail.",
+    "agency": "SJJPA",
+    "cost": 320000000,
+    "category": "Capital",
+    "pdfPage": 10
+  },
+  {
+    "id": "cap-085",
+    "horizon": "Mid Term",
+    "name": "California High Speed Rail Initial Operating Segment",
+    "description": "Construction and implementation of the Initial Operating Segment of high speed rail (Phase 1). This project will also develop interim connection (prior to implementation of high speed rail Phase 2) between existing service and high speed rail Phase 1.",
+    "agency": "CHSRA",
+    "cost": 33800000000,
+    "category": "Capital",
+    "pdfPage": 10
+  },
+  {
+    "id": "cap-086",
+    "horizon": "Mid Term",
+    "name": "Madera HSR Station",
+    "description": "Construction of a new high-speed rail station at Madera Avenue 12 as part of the Merced to Bakersfield segment. This project will involve relocating the existing Madera Amtrak station and implementing significant upgrades, including new platforms, tracks, a bus depot, and other essential facilities.",
+    "agency": "Caltrans",
+    "cost": 134000000,
+    "category": "Capital",
+    "pdfPage": 10
+  },
+  {
+    "id": "cap-087",
+    "horizon": "Mid Term",
+    "name": "Signal Respacing: Lancaster to McGinley",
+    "description": "Signal respacing project to add intermediate signal pairs between the City of Lancaster and CP McGinley (MP 15.6). This project will enable greater capacity on the line.",
+    "agency": "SCRRA",
+    "cost": 14835000,
+    "category": "Capital",
+    "pdfPage": 10
+  },
+  {
+    "id": "cap-088",
+    "horizon": "Mid Term",
+    "name": "Carpinteria Station Double Track and Second Platform",
+    "description": "Construction of a second ADA compliant platform and shelter, as well as refurbishment of the existing platform and shelter. The project also includes the addition of a pedestrian underpass that will allow passengers to access the new platform safely. Also included will be the construction of a second set of tracks and two power switches to allow train operation on both platforms.",
+    "agency": "LOSSAN",
+    "cost": 32000000,
+    "category": "Capital",
+    "pdfPage": 11
+  },
+  {
+    "id": "cap-089",
+    "horizon": "Mid Term",
+    "name": "Link US Phase A",
+    "description": "Construction of run-through tracks at Los Angeles Union Station, converting it from a stub-end terminal station. This will vastly improve the throughput capacity of the station.",
+    "agency": "LA Metro",
+    "cost": 1600000000,
+    "category": "Capital",
+    "pdfPage": 11
+  },
+  {
+    "id": "cap-090",
+    "horizon": "Mid Term",
+    "name": "Rialto Station to CP Rancho Double Track",
+    "description": "Construction of a second track from Rialto station to CP Rancho. (reliability improvement)",
+    "agency": "SCRRA",
+    "cost": 76705000,
+    "category": "Capital",
+    "pdfPage": 11
+  },
+  {
+    "id": "cap-091",
+    "horizon": "Mid Term",
+    "name": "CP Lilac to Rialto Station Double Track",
+    "description": "Construction of a double track from CP Lilac to Rialto station and a 2nd platform at Rialto. This project supports 30-minute service on the San Bernardino Line.",
+    "agency": "SCRRA",
+    "cost": 24831000,
+    "category": "Capital",
+    "pdfPage": 11
+  },
+  {
+    "id": "cap-092",
+    "horizon": "Mid Term",
+    "name": "Riverside Downtown Track & Platform Improvements",
+    "description": "Construction of a center platform, additional tracks, pedestrian bridge and parking on south side of the Riverside-Downtown Station to improve capacity for increased frequencies.",
+    "agency": "RCTC",
+    "cost": 25000000,
+    "category": "Capital",
+    "pdfPage": 11
+  },
+  {
+    "id": "cap-093",
+    "horizon": "Mid Term",
+    "name": "Perris Valley Line Second Main Track from New CP to CP Nuevo",
+    "description": "Installation of a new control point (CP) in conjunction with the Moreno Valley/March Field Station project and upgrade of second track to support passenger service between CP Eastridge and CP Nuevo.",
+    "agency": "RCTC",
+    "cost": 40000000,
+    "category": "Capital",
+    "pdfPage": 11
+  },
+  {
+    "id": "cap-094",
+    "horizon": "Mid Term",
+    "name": "South Perris Layover Facility Buildout",
+    "description": "Construction to expand capacity at South Perris Layover Facility to accommodate 12 consists; 10 daily consists, plus up to 2 spares. Project will add full daily servicing capabilities.",
+    "agency": "RCTC",
+    "cost": 25000000,
+    "category": "Capital",
+    "pdfPage": 11
+  },
+  {
+    "id": "cap-095",
+    "horizon": "Mid Term",
+    "name": "Orange County Maintenance Facility - Full Buildout",
+    "description": "Construction of a new maintenance facility in Irvine.",
+    "agency": "OCTA",
+    "cost": 153200000,
+    "category": "Capital",
+    "pdfPage": 11
+  },
+  {
+    "id": "cap-096",
+    "horizon": "Mid Term",
+    "name": "Orange - Olive Junction Improvements and Wye",
+    "description": "The existing Orange-Olive wye consists of a single, uncontrolled track and will require modifications to provide PTC-ready track and signal systems. A new crossover will need to be constructed west of the existing wye. Existing ties will be replaced with concrete ties. New control points will be installed. Grade crossings will need to be upgraded to meet quiet zone requirements. A drainage system that includes grading and new catch basins may be necessary pending further preliminary investigation.",
+    "agency": "Multiple Agencies",
+    "cost": 32635000,
+    "category": "Capital",
+    "pdfPage": 11
+  },
+  {
+    "id": "cap-097",
+    "horizon": "Mid Term",
+    "name": "Songs Siding Extension",
+    "description": "Construction of a 1.55-mile extension to the Songs Siding including two new bridges.",
+    "agency": "SANDAG",
+    "cost": 53322000,
+    "category": "Capital",
+    "pdfPage": 11
+  },
+  {
+    "id": "cap-098",
+    "horizon": "Mid Term",
+    "name": "Sorrento Valley Crossover",
+    "description": "Construction of a universal crossover near Sorrento Valley Station.",
+    "agency": "SANDAG",
+    "cost": 5240000,
+    "category": "Capital",
+    "pdfPage": 11
+  },
+  {
+    "id": "cap-099",
+    "horizon": "Mid Term",
+    "name": "Eastbrook to Shell Double Track (San Luis Rey River Bridge)",
+    "description": "Construction of a second main track between CP Eastbrook (MP 225.3) and CP Shell (MP 225.9) and replacement of San Luis Rey River Bridge (MP 225.4).",
+    "agency": "SANDAG",
+    "cost": 84693701,
+    "category": "Capital",
+    "pdfPage": 11
+  },
+  {
+    "id": "cap-100",
+    "horizon": "Mid Term",
+    "name": "San Diego Convention Center Station",
+    "description": "Construction of a new station at San Diego Convention Center. TBD regular revenue service or special event only.",
+    "agency": "NCTD",
+    "cost": 52920000,
+    "category": "Capital",
+    "pdfPage": 11
+  },
+  {
+    "id": "cap-101",
+    "horizon": "Mid Term",
+    "name": "San Diego County Layover and Maintenance Facility (Phase I)",
+    "description": "Project will design and construct a new and larger layover and maintenance facility for the Pacific Surfliner in San Diego County. Full build-out will support up to three additional trains for service on existing passenger rail corridor and construct two additional stations on existing route. Phase I will provide for a more secure and safe location to maintain the fleet, which is currently maintained each night at the San Diego station, which is open to the public. Proposed location for facility is along right- of-way owned by BNSF and improvements will be required to the existing track infrastructure allowing for faster and more frequent service on the line, which serves the Port of San Diego. Phase I includes land acquisition, construction of track connections, facilities to service one train at a time, and design for the full build-out.",
+    "agency": "LOSSAN",
+    "cost": 30000000,
+    "category": "Capital",
+    "pdfPage": 11
+  },
+  {
+    "id": "cap-102",
+    "horizon": "Long Term",
+    "name": "Seasonal Reno Service",
+    "description": "The Seasonal Reno Service project focuses on enhancing the existing train service between the San Francisco Bay Area and Reno. Planned improvements may include upgrades to tracks and stations to better accommodate both passenger and freight operations, with detailed announcements expected in the later phase.",
+    "agency": "Multiple Agencies",
+    "cost": 100000000,
+    "category": "Capital",
+    "pdfPage": 12
+  },
+  {
+    "id": "cap-103",
+    "horizon": "Long Term",
+    "name": "HSR Sacramento",
+    "description": "Blended HSR service from Merced to Sacramento, including electrification",
+    "agency": "Multiple Agencies",
+    "cost": 10000000000,
+    "category": "Capital",
+    "pdfPage": 12
+  },
+  {
+    "id": "cap-104",
+    "horizon": "Long Term",
+    "name": "Sonoma / Marin - Napa / Solano County Connection",
+    "description": "Capital improvements to enable the expansion of service east-west from Novato to Suisun, connecting service to the California intercity passenger rail network allows run-through trains at Solano Hub, serving Novato, Sacramento, and Vallejo with Intercity/regional equipment.",
+    "agency": "Multiple Agencies",
+    "cost": 1500000000,
+    "category": "Capital",
+    "pdfPage": 12
+  },
+  {
+    "id": "cap-105",
+    "horizon": "Long Term",
+    "name": "Sac-OAK-SF-SJ Mega Corridor",
+    "description": "Mega corridor modernization, sea leavel rise mitigation, and expansion to create a direct, standard gauge, electrified rail corridor connecting Roseville - Sacramento - Richmond - Oakland - San Francisco - San Jose. Inclusive of: - Phase II Roseville Ext - East Bay Grade Separation (Jack London) - 30 minute Roseville service - Carquinez Crossing - Sac to Richmond upgrades and electrification - Main line transbay crossing - Western SF service extension - New West Oakland BART / Main Line rail hub - Coliseum - Electrification",
+    "agency": "Multiple Agencies",
+    "cost": 57000000000,
+    "category": "Capital",
+    "pdfPage": 12
+  },
+  {
+    "id": "cap-106",
+    "horizon": "Long Term",
+    "name": "Union City Hub",
+    "description": "Infrastructure improvements to enable Valley Rail/ACE connecting service to Union City/BART, including track improvements, layover track, and station expansion at Union City/BART, which will create the Tri-City Mid Term Hub Station.",
+    "agency": "SJRRC",
+    "cost": 200000000,
+    "category": "Capital",
+    "pdfPage": 12
+  },
+  {
+    "id": "cap-107",
+    "horizon": "Long Term",
+    "name": "CA HSR Full Phase 1",
+    "description": "Construction of the 520-mile high-speed rail line to connect San Francisco to Los Angeles and Anaheim via the Central Valley.",
+    "agency": "CHSRA",
+    "cost": 100000000000,
+    "category": "Capital",
+    "pdfPage": 12
+  },
+  {
+    "id": "cap-108",
+    "horizon": "Long Term",
+    "name": "Valley Rail North: Butte County",
+    "description": "The Valley Rail project focuses on enhancing passenger rail service between the San Joaquin Valley, Sacramento, and the Bay Area. Key elements include: - North Valley Rail Expansion - Chico: The element involves the construction of a layover facility in Chico to support North Valley Rail Service. Four new stations will be constructed along the route connecting Chico and Sacramento: Plumas Lake, Marysville/Yuba City, Gridley, and Chico. The Natomas Station will also be converted from a Valley Rail terminus station to a North Valley Rail through-service station. Trackwork at the five stations are also included. - Valley Rail North - Pleasant Grove Siding Extension: Siding extension north of the Valley Rail project bounds to allow up to four (4) daily regional rail trips between Natomas and Stockton. The improvements include extending the siding tracks for 1.7 miles, constructing 3 new bridges, and upgrading track turnouts.",
+    "agency": "Multiple Agencies",
+    "cost": 300000000,
+    "category": "Capital",
+    "pdfPage": 12
+  },
+  {
+    "id": "cap-109",
+    "horizon": "Long Term",
+    "name": "Valley Link Mountain House to North Lathrop",
+    "description": "Incremental cost for Valley Link project to provide service from Mountain House Community to North Lathrop transfer station.",
+    "agency": "Valley Link",
+    "cost": 742400000,
+    "category": "Capital",
+    "pdfPage": 12
+  },
+  {
+    "id": "cap-110",
+    "horizon": "Long Term",
+    "name": "Santa Cruz County Branch Rail Line",
+    "description": "Implementation of zero emission passenger rail on the Santa Cruz Branch Line from Santa Cruz to Pajaro (excludes PA/ED).",
+    "agency": "SCCRTC",
+    "cost": 458000000,
+    "category": "Capital",
+    "pdfPage": 12
+  },
+  {
+    "id": "cap-111",
+    "horizon": "Long Term",
+    "name": "Watsonville/Pajaro Station",
+    "description": "Construction of a new rail platform at Wastonville/Pajaro Station, as well as automobile and bike parking.",
+    "agency": "TAMC",
+    "cost": 80000000,
+    "category": "Capital",
+    "pdfPage": 12
+  },
+  {
+    "id": "cap-112",
+    "horizon": "Long Term",
+    "name": "Castroville - Monterey Infrastructure Improvements",
+    "description": "Construction of track, signal, and structure upgrades as a part of the larger Monterey Regional service.",
+    "agency": "TAMC",
+    "cost": 222700000,
+    "category": "Capital",
+    "pdfPage": 12
+  },
+  {
+    "id": "cap-113",
+    "horizon": "Long Term",
+    "name": "Castroville Station",
+    "description": "Construction of a new Castroville Station to serve as a connection point for passengers coming from the Monterey Peninsula to board new passenger rail service on the Coast mainline tracks between Salinas and the San Francisco Bay Area.",
+    "agency": "TAMC",
+    "cost": 27200000,
+    "category": "Capital",
+    "pdfPage": 12
+  },
+  {
+    "id": "cap-114",
+    "horizon": "Long Term",
+    "name": "Monterey County Sidings (Salinas - SLO)",
+    "description": "Construction of 3 sidings between Salinas and SLO to accommodate growth on the Central Coast.",
+    "agency": "Caltrans",
+    "cost": 50000000,
+    "category": "Capital",
+    "pdfPage": 12
+  },
+  {
+    "id": "cap-115",
+    "horizon": "Long Term",
+    "name": "Salinas Service Enhancement (Phase 2)",
+    "description": "Construction of infrastructure improvements to enable hourly intercity service Gilroy to Salinas which include the conversion to double track for siding (4 miles total).",
+    "agency": "Caltrans",
+    "cost": 58000000,
+    "category": "Capital",
+    "pdfPage": 12
+  },
+  {
+    "id": "cap-116",
+    "horizon": "Long Term",
+    "name": "Northern Central Coast Maintenance Facility",
+    "description": "Construction of a Northern Central Coast facility for the Santa Cruz, Monterey Regional and Intercity trains terminating/serving Salinas.",
+    "agency": "TAMC",
+    "cost": 43300000,
+    "category": "Capital",
+    "pdfPage": 12
+  },
+  {
+    "id": "cap-117",
+    "horizon": "Long Term",
+    "name": "Soledad Station",
+    "description": "Construction of a new Soledad Station to provide an additional local stop on the Coast subdivision for immediate use by the Coast Starlight and longer-term use by intercity trains along the coast.",
+    "agency": "TAMC",
+    "cost": 27200000,
+    "category": "Capital",
+    "pdfPage": 12
+  },
+  {
+    "id": "cap-118",
+    "horizon": "Long Term",
+    "name": "King City Station - Phase 2",
+    "description": "Full build out of the Multimodal Transportation Center at the King City Station which, in addition to the phase 1 improvements, will include an enhanced station, parking, and bus stop reconfiguration to allow for seamless integration between services.",
+    "agency": "King City",
+    "cost": 18000000,
+    "category": "Capital",
+    "pdfPage": 12
+  },
+  {
+    "id": "cap-119",
+    "horizon": "Long Term",
+    "name": "Lemoore-Porterville Regional Rail",
+    "description": "Construction of corridor improvements including four new stations, a maintenance facility, signal upgrades, and a connection to HSR to enable Lemoore to Porterville LCL service.",
+    "agency": "Multiple Agencies",
+    "cost": 1258000000,
+    "category": "Capital",
+    "pdfPage": 12
+  },
+  {
+    "id": "cap-120",
+    "horizon": "Long Term",
+    "name": "Central Coast Layover Facility Phase II",
+    "description": "Construction of a new and expanded layover facility in San Luis Obispo to allow overnight storage and servicing of Pacific Surfliner equipment. Main infrastructure components also include new storage and serving tracks as well as operations and maintenance buildings. The facility will support 3 additional trains on the existing passenger rail corridor.",
+    "agency": "LOSSAN",
+    "cost": 50000000,
+    "category": "Capital",
+    "pdfPage": 12
+  },
+  {
+    "id": "cap-121",
+    "horizon": "Long Term",
+    "name": "High Desert Corridor High-Speed Rail Project",
+    "description": "Construction of a 54-mile high-speed rail segment in the High Desert to connect the planned CHSRA high-speed rail station in Palmdale with the Brightline high-speed rail station in Apple Valley/Victor Valley (High Desert Hub). Once Brightline, CHSRA phase one, and High Desert Corridor (HDC) are complete, passenger rail customers will be able to travel across the high-desert, to and from the greater Los Angeles Area, and to Las Vegas and Northern California in a coordinated system.",
+    "agency": "Multiple Agencies",
+    "cost": 4300000000,
+    "category": "Capital",
+    "pdfPage": 13
+  },
+  {
+    "id": "cap-122",
+    "horizon": "Long Term",
+    "name": "Palmdale to Lancaster Double Track and Station Reconfiguration",
+    "description": "Construction of a second track between Palmdale and Lancaster stations. This project includes one crossover between stations. Project to be designed and delivered in coordination with California High Speed Rail Full Phase One.",
+    "agency": "SCRRA",
+    "cost": 128167000,
+    "category": "Capital",
+    "pdfPage": 13
+  },
+  {
+    "id": "cap-123",
+    "horizon": "Long Term",
+    "name": "Double Track between CP Saugus and CP Hood",
+    "description": "Construction of a double track between CP Canyon (Newhall siding) and CP Hood (Canyon) to allow 15-minute service between LA and Santa Clarita.",
+    "agency": "SCRRA",
+    "cost": 43898000,
+    "category": "Capital",
+    "pdfPage": 13
+  },
+  {
+    "id": "cap-124",
+    "horizon": "Long Term",
+    "name": "Goleta to East Ventura Double Track",
+    "description": "Construction of a double track between Goleta and East Ventura.",
+    "agency": "LOSSAN",
+    "cost": 112000000,
+    "category": "Capital",
+    "pdfPage": 13
+  },
+  {
+    "id": "cap-125",
+    "horizon": "Long Term",
+    "name": "New Siding Between Tunnels 27 and 28. (MP 443.8-443.24)",
+    "description": "Construction of a new siding between Tunnels 27 and 28 as part of the rail infrastructure improvement program from Metrolink. This siding will enhance operational efficiency and serve as a critical connection point for travelers on the Ventura County Line.",
+    "agency": "SCRRA",
+    "cost": 39332000,
+    "category": "Capital",
+    "pdfPage": 13
+  },
+  {
+    "id": "cap-126",
+    "horizon": "Long Term",
+    "name": "Link US Phase B",
+    "description": "Phase B of Link US includes a new and expanded passageway with enhanced transit and retail amenities including new outdoor plazas, a new lead track in the throat area north of LAUS, and a total of up to four run-through tracks.",
+    "agency": "LA Metro",
+    "cost": 2597000000,
+    "category": "Capital",
+    "pdfPage": 13
+  },
+  {
+    "id": "cap-127",
+    "horizon": "Long Term",
+    "name": "HSR Inland Empire",
+    "description": "Phased improvements and electrification from San Bernardino to Los Angeles to enable blended regional and high speed services between LAUS and San Bernardino.",
+    "agency": "Multiple Agencies",
+    "cost": 7682000000,
+    "category": "Capital",
+    "pdfPage": 13
+  },
+  {
+    "id": "cap-128",
+    "horizon": "Long Term",
+    "name": "Coachella Valley Rail",
+    "description": "Construction of a third main track for 77.5 miles from Colton to Coachella with additional passing sidings, five new stations, improvements to the existing Palm Springs station, and a new light maintenance facility.",
+    "agency": "Multiple Agencies",
+    "cost": 1572435000,
+    "category": "Capital",
+    "pdfPage": 13
+  },
+  {
+    "id": "cap-129",
+    "horizon": "Long Term",
+    "name": "AZ Service Extension",
+    "description": "Arizona high speed rail extension from Coachella to Phoenix. The project also includes the construction of a new third rail track designed to enhance both freight and passenger rail services in the region.",
+    "agency": "Multiple Agencies",
+    "cost": 15334278000,
+    "category": "Capital",
+    "pdfPage": 13
+  },
+  {
+    "id": "cap-130",
+    "horizon": "Long Term",
+    "name": "New Commerce Intermodal Facility",
+    "description": "Project is a component of the Improvements between LA and Fullerton that will expand the BNSF Commerce IMF, including purchase of additional right of way and utility relocation needed to provide space for the I-710 to I-5 Rail Flyover Project as part of BNSF investment plans for the facility.",
+    "agency": "Multiple Agencies",
+    "cost": 184250000,
+    "category": "Capital",
+    "pdfPage": 13
+  },
+  {
+    "id": "cap-131",
+    "horizon": "Long Term",
+    "name": "Hobart-Commerce Intermodal Facility (IMF) Leads",
+    "description": "Construction of extended lead tracks at the Intermodal Facility in the Los Angeles area between Commerce and Hobart at the BNSF rail yard.",
+    "agency": "Multiple Agencies",
+    "cost": 1163000000,
+    "category": "Capital",
+    "pdfPage": 13
+  },
+  {
+    "id": "cap-132",
+    "horizon": "Long Term",
+    "name": "Moreno Valley/March Field Station & Track Upgrades",
+    "description": "Construction of a new platform and pedestrian overpass at Moreno Valley/March Field Station. This project would rehab 2nd track from CP Eastridge to new CP at MP 10.4, and add new signal system, including the Moreno Valley siding, to enable hourly service on the Metrolink 91 line.",
+    "agency": "SCRRA",
+    "cost": 32000000,
+    "category": "Capital",
+    "pdfPage": 13
+  },
+  {
+    "id": "cap-133",
+    "horizon": "Long Term",
+    "name": "HSR improvements from LA to Anaheim",
+    "description": "Construction of 2 HSR tracks from LA to Fullerton to Anaheim plus additional improvements (3 tracks) for Metrolink and Freight along blended/electrified double track, and additional platforms at ARTIC.",
+    "agency": "CHSRA",
+    "cost": 2918000000,
+    "category": "Capital",
+    "pdfPage": 13
+  },
+  {
+    "id": "cap-134",
+    "horizon": "Long Term",
+    "name": "Perris to Hemet/ San Jacinto Rail Extension",
+    "description": "Upgrade 17 miles of track to passenger standards including construction of sidings, signals, PTC and up to 6 new stations.",
+    "agency": "RCTC",
+    "cost": 550000000,
+    "category": "Capital",
+    "pdfPage": 13
+  },
+  {
+    "id": "cap-135",
+    "horizon": "Long Term",
+    "name": "South Perris Light Maintenance Facility (Environmental, Design, Property)",
+    "description": "Increase capacity at South Perris maintenance facility to accommodate 12 consists; 10 daily consists, plus up to 2 spares. Adds full daily servicing capabilities.",
+    "agency": "RCTC",
+    "cost": 83700000,
+    "category": "Capital",
+    "pdfPage": 13
+  },
+  {
+    "id": "cap-136",
+    "horizon": "Long Term",
+    "name": "Del Mar Tunnel - 3 FD/CON",
+    "description": "This project aims to relocate 1.7 miles of train tracks from the eroding Del Mar bluffs into an underground tunnel as part of the LOSSAN Rail Realignment initiative. Three alternatives are being considered, with the favored option starting at a north portal near the Solana Beach Fairgrounds, passing under the San Dieguito Lagoon, and ending at a south portal near Interstate 5.",
+    "agency": "SANDAG",
+    "cost": 3500000000,
+    "category": "Capital",
+    "pdfPage": 13
+  },
+  {
+    "id": "cap-137",
+    "horizon": "Long Term",
+    "name": "Stuart Mesa Maintenance Facility Capacity Enhancement",
+    "description": "Increase capacity of Stuart Mesa Maintenance Facility located on Camp Pendleton Marine Corp Base.",
+    "agency": "NCTD",
+    "cost": 47000000,
+    "category": "Capital",
+    "pdfPage": 13
+  },
+  {
+    "id": "cap-138",
+    "horizon": "Long Term",
+    "name": "Camp Pendleton Station",
+    "description": "Construction of new station/platform on Camp Pendleton adjacent to the Stuart Mesa Maintenance Facility.",
+    "agency": "NCTD",
+    "cost": 46400000,
+    "category": "Capital",
+    "pdfPage": 13
+  },
+  {
+    "id": "cap-139",
+    "horizon": "Long Term",
+    "name": "Carlsbad Village Double Track",
+    "description": "Construction of 1.0 mile of second main track from CP Longboard (MP 228.4) to CP Carl (MP 229.5) in Carlsbad. Includes new bridge over Buena Vista Lagoon.",
+    "agency": "LOSSAN",
+    "cost": 62200000,
+    "category": "Capital",
+    "pdfPage": 13
+  },
+  {
+    "id": "cap-140",
+    "horizon": "Long Term",
+    "name": "La Costa to Swami Double Track",
+    "description": "Construction of 2.9 miles of double track in the City of Encinitas from CP La Costa (MP 235.1) to CP Swami (MP 238.0). (Note that this project may be split at CP Moonlight located north of Encinitas Blvd).",
+    "agency": "SANDAG",
+    "cost": 87000000,
+    "category": "Capital",
+    "pdfPage": 13
+  },
+  {
+    "id": "cap-141",
+    "horizon": "Long Term",
+    "name": "Moonlight-Swami Double Track (Lead A)",
+    "description": "Construction of a 0.8-mile-long segment of second main track from CP Moonlight (MP 237.2) to CP Swami (MP 238.0). This project includes construction of a single-track bridge across Encinitas Boulevard, crossing improvements at D and E streets, station and parking area modifications at Encinitas Station (to accommodate the new second track), modifications to the existing bus terminal facility, grade separated pedestrian crossing with inter-track fencing, and construction of associated site improvements.",
+    "agency": "SANDAG",
+    "cost": 50930000,
+    "category": "Capital",
+    "pdfPage": 13
+  },
+  {
+    "id": "cap-142",
+    "horizon": "Long Term",
+    "name": "La Costa to Moonlight Double Track",
+    "description": "Construction of 2.1 miles of double track in the City of Encinitas from CP La Costa (MP 235.1) to CP Moonlight (237.2).",
+    "agency": "SANDAG",
+    "cost": 40240000,
+    "category": "Capital",
+    "pdfPage": 13
+  },
+  {
+    "id": "cap-143",
+    "horizon": "Long Term",
+    "name": "Miramar Tunnel",
+    "description": "Construction of the Miramar Tunnel approximately 4.8 miles long, featuring a 2.5-mile underground section, as part of the LOSSAN Corridor improvements. The tunnel will help address topographical challenges, allowing for increased speeds and safety for both freight and passenger service.",
+    "agency": "SANDAG",
+    "cost": 2600000000,
+    "category": "Capital",
+    "pdfPage": 13
+  },
+  {
+    "id": "cap-144",
+    "horizon": "Long Term",
+    "name": "HSR San Diego",
+    "description": "Construction of High Speed Rail corridor between Rancho Cucomonga and San Diego in the I-15 Corridor.",
+    "agency": "Multiple Agencies",
+    "cost": 20500000000,
+    "category": "Capital",
+    "pdfPage": 13
+  },
+  {
+    "id": "cap-145",
+    "horizon": "Long Term",
+    "name": "San Diego County Layover and Maintenance Facility (Full Build Out)",
+    "description": "Building on the Phase I relocation of the maintenance facility, the full build out will support up to three additional trains for service on existing passenger rail corridor. Two additional stations served on existing route. Proposed location for facility is along right-of-way owned by BNSF and improvements will be required to the existing track infrastructure to allow faster and more frequent service on the line, which serves the Port of San Diego.",
+    "agency": "LOSSAN",
+    "cost": 113420000,
+    "category": "Capital",
+    "pdfPage": 14
+  },
+  {
+    "id": "cap-146",
+    "horizon": "Mid Term",
+    "name": "County Road 32A Crossing Relocation Project",
+    "description": "Construction of a grade separation to improve the safety of the existing grade crossing of Country Road 32A and the UPRR Martinez Subdivision east of Davis. The current rail line carries 19 freight and 20 passenger trains daily, and the existing crossing\u2019s geometry creates safety and operational challenges.",
+    "agency": "County of Yolo",
+    "cost": 45500000,
+    "category": "Grade separation",
+    "pdfPage": 15
+  },
+  {
+    "id": "cap-147",
+    "horizon": "Mid Term",
+    "name": "7th Street Grade Separation Project",
+    "description": "Construction of a grade separation at 7th Street in Alameda County to eliminate interactions between trains and roadway users, improve goods movement reliability, ease traffic congestion, and reduce environmental impacts.",
+    "agency": "ACTC",
+    "cost": 378000000,
+    "category": "Grade separation",
+    "pdfPage": 15
+  },
+  {
+    "id": "cap-148",
+    "horizon": "Mid Term",
+    "name": "Alameda Countywide Rail Safety Enhancement Program - Phase A",
+    "description": "Grade crossing improvement program that prioritizes 56 targeted areas of the total 133 grade crossing locations in Alameda County. Phase A locations are short-term investments in pedestrian safety enhancements at 28 grade crossing locations and two frequent trespassing sites in Alameda County prioritized by rail volumes, daily automobile traffic, equity impact, and proximity to schools. 26 of the Phase A locations are located on the Martinez, Niles, and Oakland subdivisions on the Richmond to San Jose (via East Bay) sub-corridor. Two of the projects are in Livermore on the Oakland Subdivision served by ACE trains on the Altamont Corridor.",
+    "agency": "ACTC",
+    "cost": 75201000,
+    "category": "Grade separation",
+    "pdfPage": 15
+  },
+  {
+    "id": "cap-149",
+    "horizon": "Near Term",
+    "name": "Burlingame Broadway Grade Separation Project",
+    "description": "Construction of a grade separation of Broadway in Burlingame to reduce local traffic congestion and train horn noise, and eliminate the current hold-out rule in which only one train is allowed at the station at a time. This project also includes a new Broadway Station with updated amenities to better serve the community.",
+    "agency": "PCJPB",
+    "cost": 316400000,
+    "category": "Grade separation",
+    "pdfPage": 15
+  },
+  {
+    "id": "cap-150",
+    "horizon": "Near Term",
+    "name": "Churchill Grade Separation",
+    "description": "Construction of a grade separation at Churchill Avenue in Palo Alto. This will improve safety and reliability for the Caltrain corridor.",
+    "agency": "City of Palo Alto",
+    "cost": 54300000,
+    "category": "Grade separation",
+    "pdfPage": 15
+  },
+  {
+    "id": "cap-151",
+    "horizon": "Mid Term",
+    "name": "Charleston and Meadow Grade Separations",
+    "description": "Construction of a grade separations along the Caltrain corridor in the City of Palo Alto at W Charleston Rd. and W Meadow Dr.",
+    "agency": "City of Palo Alto",
+    "cost": 310000000,
+    "category": "Grade separation",
+    "pdfPage": 15
+  },
+  {
+    "id": "cap-152",
+    "horizon": "Near Term",
+    "name": "Castro St / Rengstorff Ave Grade Separations Project",
+    "description": "Construction of two grade separations at Castro Street in Downtown Mountain View and at Rengstorff Avenue. This project will improve safety for pedestrian and bicycle crossings and provide a better connection to Central \u2010 Expressway. This project also addresses the expected growth from expanded Caltrain and light rail service, and the eventual development of the California HighSpeed Rail.",
+    "agency": "City of Mountain View",
+    "cost": 397715000,
+    "category": "Grade separation",
+    "pdfPage": 15
+  },
+  {
+    "id": "cap-153",
+    "horizon": "Near Term",
+    "name": "Roadway Grade Separations: McKinley Ave and Blackstone Ave",
+    "description": "Construction of grade separations at the diagonal railroad crossing at the corner of McKinley Avenue and Blackstone Avenue in Fresno. This project is located on the San Joaquins corridor (BNSF).",
+    "agency": "City of Fresno",
+    "cost": 151900000,
+    "category": "Grade separation",
+    "pdfPage": 15
+  },
+  {
+    "id": "cap-154",
+    "horizon": "Near Term",
+    "name": "Rice Avenue Grade Separation",
+    "description": "Construction of a grade separation on Rice Avenue to improve safety.",
+    "agency": "City of Oxnard",
+    "cost": 132500000,
+    "category": "Grade separation",
+    "pdfPage": 15
+  },
+  {
+    "id": "cap-155",
+    "horizon": "Near Term",
+    "name": "Etiwanda Avenue Grade Separation",
+    "description": "Construction of a grade separation at Etiwanda Ave, in the City of Rancho Cucamonga to improve safety and operational reliability.",
+    "agency": "City of Rancho Cucomonga",
+    "cost": 130150000,
+    "category": "Grade separation",
+    "pdfPage": 15
+  },
+  {
+    "id": "cap-156",
+    "horizon": "Near Term",
+    "name": "Montebello Boulevard Grade Separation",
+    "description": "Construction of a grade separation at Montebello Boulevard, which includes a roadway overpass to carry Olympic Boulevard over Montebello Boulevard.",
+    "agency": "LA Metro",
+    "cost": 220000000,
+    "category": "Grade separation",
+    "pdfPage": 15
+  },
+  {
+    "id": "cap-157",
+    "horizon": "Near Term",
+    "name": "Fullerton Road Grade Separation",
+    "description": "Construction of a grade separation in City of Industry at Fullerton Road.",
+    "agency": "City of Industry",
+    "cost": 152400000,
+    "category": "Grade separation",
+    "pdfPage": 15
+  },
+  {
+    "id": "cap-158",
+    "horizon": "Near Term",
+    "name": "Turnbull Canyon Road Grade Separation Project",
+    "description": "Construction of a grade separation at Turnbull Canyon Road on the Alameda Corridor-East. This separation will include a two-lane roadway overpass to carry vehicles over the railroad tracks and a separate pedestrian bridge for bicyclists and pedestrians.",
+    "agency": "SGVCoG",
+    "cost": 98000000,
+    "category": "Grade separation",
+    "pdfPage": 15
+  },
+  {
+    "id": "cap-159",
+    "horizon": "Near Term",
+    "name": "Third Street Grade Separation Project",
+    "description": "Construction of a new four-lane underpass to replace the existing at-grade crossing along the BNSF San Bernardino Subdivision near the Third Street intersection with Commerce Street in Riverside. Commerce St will also be realigned.",
+    "agency": "City of Riverside",
+    "cost": 74000000,
+    "category": "Grade separation",
+    "pdfPage": 15
+  },
+  {
+    "id": "cap-160",
+    "horizon": "Near Term",
+    "name": "Jackson Street Grade Separation",
+    "description": "Construction of a grade separation in the City of Riverside at Jackson Street.",
+    "agency": "City of Riverside",
+    "cost": 15000000,
+    "category": "Grade separation",
+    "pdfPage": 15
+  },
+  {
+    "id": "cap-161",
+    "horizon": "Near Term",
+    "name": "Mary Street Grade Separation",
+    "description": "Construction of a grade separation in Riverside County at Mary Street.",
+    "agency": "Riverside County",
+    "cost": 38000000,
+    "category": "Grade separation",
+    "pdfPage": 15
+  },
+  {
+    "id": "cap-162",
+    "horizon": "Near Term",
+    "name": "Madison Street Grade Separation",
+    "description": "Construction of a grade separation in the City of Riverside at Madison Street.",
+    "agency": "City of Riverside",
+    "cost": 38000000,
+    "category": "Grade separation",
+    "pdfPage": 15
+  },
+  {
+    "id": "cap-163",
+    "horizon": "Near Term",
+    "name": "Rosecrans Marquardt Grade Separations",
+    "description": "Construction of the Rosecrans Marquardt Grade Separation",
+    "agency": "LA Metro",
+    "cost": 15046000,
+    "category": "Grade separation",
+    "pdfPage": 15
+  },
+  {
+    "id": "cap-164",
+    "horizon": "Long Term",
+    "name": "Norwalk Blvd/Los Nietos Road Grade Separations",
+    "description": "Construction of grade separations at Norwalk Blvd and Los Nietos Road in the City of Santa Fe Springs to improve safety and operational reliability for passenger, freight, and HSR trains.",
+    "agency": "LA Metro",
+    "cost": 129140000,
+    "category": "Grade separation",
+    "pdfPage": 15
+  },
+  {
+    "id": "cap-165",
+    "horizon": "Near Term",
+    "name": "Doran Street Grade Separation",
+    "description": "Construction of a grade separation at Doran Street to eliminate the at grade rail crossing of the highly trafficked passenger and freight rail corridor between Los Angeles Union Station and the City of Burbank.",
+    "agency": "LA Metro",
+    "cost": 58300000,
+    "category": "Grade separation",
+    "pdfPage": 15
+  },
+  {
+    "id": "cap-166",
+    "horizon": "Mid Term",
+    "name": "Hargrave Street Grade Separation Project",
+    "description": "Construction of a grade separation at Hargrave Street through construction of a rail bridge and road undercrossing that will separate rail and street traffic. This project also includes the widening of Hargrave Street from Plaza Street to the I-10 underpass, including the installation of pedestrian sidewalks and bicycle lanes, as well as modifications to the entrance and exit ramps along I-10 to meet new street elevations of Hargrave Street.",
+    "agency": "City of Banning",
+    "cost": 75000000,
+    "category": "Grade separation",
+    "pdfPage": 15
+  },
+  {
+    "id": "cap-167",
+    "horizon": "Near Term",
+    "name": "Port of Los Angeles Rail Mainline/Wilmington Community & Waterfront Pedestrian Grade Separation Bridge",
+    "description": "Construction of a pedestrian bridge to connect the Wilmington community to POLA's Wilmington Waterfront area and Banning's Landing Community Center. Currently, two freight mainline tracks in the POLA bifurcate the Wilmington Waterfront with the Wilmington community itself. This project will provide a dedicated pedestrian/cycling bridge over these freight rail tracks and connect to the State designated California Coast Trail.",
+    "agency": "Port of Los Angeles",
+    "cost": 57910000,
+    "category": "Grade separation",
+    "pdfPage": 16
+  },
+  {
+    "id": "cap-168",
+    "horizon": "Near Term",
+    "name": "California Avenue/UP and Pennsylvania Avenue",
+    "description": "Construction of a grade separation in City of Beaumont at California Avenue and Pennsylvania Avenue.",
+    "agency": "City of Beaumont",
+    "cost": 38200000,
+    "category": "Grade separation",
+    "pdfPage": 16
+  },
+  {
+    "id": "cap-169",
+    "horizon": "Mid Term",
+    "name": "Santa Ana Blvd. Grade Separation Project",
+    "description": "Construction of a grade separation at Santa Ana Boulevard under the Metrolink Orange Subdivision, which is used by BNSF Railway in addition to Metrolink and Amtrak services. This project will also include bikeway and pedestrian improvements in the project area.",
+    "agency": "City of Santa Ana",
+    "cost": 81020000,
+    "category": "Grade separation",
+    "pdfPage": 16
+  },
+  {
+    "id": "cap-170",
+    "horizon": "Long Term",
+    "name": "Leucadia Blvd Grade Separation",
+    "description": "Construction of a grade separation at Leucadia Blvd.",
+    "agency": "NCTD",
+    "cost": 119250000,
+    "category": "Grade separation",
+    "pdfPage": 16
+  },
+  {
+    "id": "cap-171",
+    "horizon": "Near Term",
+    "name": "Caltrain BEMU Demonstration",
+    "description": "",
+    "agency": "Caltrain",
+    "cost": 80000000,
+    "category": "Fleet",
+    "pdfPage": 17
+  },
+  {
+    "id": "cap-172",
+    "horizon": "Near Term",
+    "name": "Caltrain EMUs",
+    "description": "",
+    "agency": "Caltrain",
+    "cost": 423538000,
+    "category": "Fleet",
+    "pdfPage": 17
+  },
+  {
+    "id": "cap-173",
+    "horizon": "Near Term",
+    "name": "Redlands ZEMU",
+    "description": "",
+    "agency": "SBCTA",
+    "cost": 53214000,
+    "category": "Fleet",
+    "pdfPage": 17
+  },
+  {
+    "id": "cap-174",
+    "horizon": "Near Term",
+    "name": "Caltrans Bi-Level Equipment Refurbishment",
+    "description": "",
+    "agency": "Caltrans",
+    "cost": 235000000,
+    "category": "Fleet",
+    "pdfPage": 17
+  },
+  {
+    "id": "cap-175",
+    "horizon": "Near Term",
+    "name": "Port of Long Beach ZE Locomotives",
+    "description": "",
+    "agency": "Port of Long Beach",
+    "cost": 60000000,
+    "category": "Fleet",
+    "pdfPage": 17
+  },
+  {
+    "id": "cap-176",
+    "horizon": "Near Term",
+    "name": "ZEMU Procurement",
+    "description": "",
+    "agency": "Caltrans",
+    "cost": 207000000,
+    "category": "Fleet",
+    "pdfPage": 17
+  },
+  {
+    "id": "cap-177",
+    "horizon": "Near Term",
+    "name": "Intercity Rail and Bus R&D",
+    "description": "",
+    "agency": "CalSTA",
+    "cost": 20000000,
+    "category": "Fleet",
+    "pdfPage": 17
+  },
+  {
+    "id": "cap-178",
+    "horizon": "Near Term",
+    "name": "Intercity Rail and Bus Vehicle Procurement",
+    "description": "",
+    "agency": "CalSTA",
+    "cost": 70000000,
+    "category": "Fleet",
+    "pdfPage": 17
+  },
+  {
+    "id": "cap-179",
+    "horizon": "Near Term",
+    "name": "SNR Hydrogen Conversion",
+    "description": "",
+    "agency": "SNR",
+    "cost": 19561000,
+    "category": "Fleet",
+    "pdfPage": 17
+  },
+  {
+    "id": "cap-180",
+    "horizon": "Near Term",
+    "name": "LA Metro ZEMU Pilot",
+    "description": "",
+    "agency": "LA Metro",
+    "cost": 10000000,
+    "category": "Fleet",
+    "pdfPage": 17
+  }
+]
