@@ -1,0 +1,57 @@
+name: Validate and deploy Pages
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  test-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: npm ci
+      - run: pip install -r requirements.txt
+      - run: npx playwright install --with-deps chromium
+      - run: npm run build
+      - run: python scripts/validate_data.py
+      - name: Serve built published artifact
+        run: python server.py > /tmp/atlas-server.log 2>&1 &
+      - name: Wait for artifact server
+        run: npx wait-on http://127.0.0.1:3000/
+      - run: npm run test:browser
+      - name: Assemble minimal public site
+        run: |
+          mkdir -p _site/data _site/licenses
+          cp index.html California-Rail-Electeds-Briefing.pdf California-Rail-Atlas-Package.zip README.md ATTRIBUTION.md _site/
+          cp data/service-goals.csv data/long-distance-baseline.csv data/capital-projects.csv data/vision-corridors.geojson _site/data/
+          cp licenses/*.txt _site/licenses/
+          touch _site/.nojekyll
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+          include-hidden-files: true
+  deploy:
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    needs: test-build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

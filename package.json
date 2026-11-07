@@ -1,14 +1,14 @@
 {
-  "name": "rail-atlas",
+  "name": "california-rail-atlas",
   "version": "1.0.0",
-  "main": "index.js",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npm run validate:data && npm run test:browser",
+    "validate:data": "python scripts/validate_data.py",
+    "test:browser": "node scripts/qa.cjs && node scripts/qa-ux.cjs",
+    "preview": "python server.py",
+    "build": "python scripts/editorial.py && python scripts/make_briefing.py && python scripts/assemble.py && cp California-Rail-Atlas.html index.html"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
   "devDependencies": {
     "playwright": "^1.64.0"
   }
