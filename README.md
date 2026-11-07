@@ -1,19 +1,21 @@
 # California, Connected
 ## A geographic, frequency-first atlas of the 2024 California State Rail Plan
 
-**Start here:** Open `California-Rail-Atlas.html` in a modern browser. No installation, API key, internet connection or web server is required for the atlas itself. The source-document links need internet access.
+**Start here:** Open `California-Rail-Atlas.html` in a modern browser, or visit the GitHub Pages site. No API key, internet connection or web server is required for the atlas itself. The source-document links need internet access.
 
 This independent visualization is designed for elected officials and staff: understand the statewide service vision, inspect a corridor, and connect its service goals to the decisions and investments needed to implement it.
 
 ## Deliverables
 
-- **`California-Rail-Atlas.html`** — the complete, self-contained interactive atlas, including the embedded briefing PDF and downloadable datasets.
+- **`California-Rail-Atlas.html`** — the complete, self-contained interactive atlas, including the embedded briefing PDF and downloadable datasets. The Pages build publishes the same file as `index.html`.
 - **`California-Rail-Electeds-Briefing.pdf`** — a four-page, US Letter briefing: geographic vision, frequency comparison, high-leverage dependencies and an elected-official agenda.
 - **`data/service-goals.csv`** — 210 service-goal records: 70 corridor/service layers × three planning horizons.
 - **`data/long-distance-baseline.csv`** — four existing Amtrak routes and inventory frequencies from Appendix 3.1, explicitly separate from future service goals.
 - **`data/capital-projects.csv`** — 180 capital, grade-separation and fleet entries transcribed from Appendix 2.1–2.3, with source-page links.
 - **`data/vision-corridors.geojson`** — generalized geographic corridor lines with source, goal/baseline classification, service-goal and existing-inventory metadata. Not engineering or navigation data. Alternate horizon-specific bus extents are held in the atlas's underlying network data.
-- **`California-Rail-Atlas-Package.zip`** — a portable bundle of the atlas, briefing, shareable data, this guide and attribution/license notices.
+- **[`California-Rail-Atlas-Package.zip`](California-Rail-Atlas-Package.zip)** — a portable bundle of the atlas, briefing, shareable data, this guide and attribution/license notices.
+
+Downloads: [briefing PDF](California-Rail-Electeds-Briefing.pdf) · [service goals CSV](data/service-goals.csv) · [existing Amtrak baseline CSV](data/long-distance-baseline.csv) · [capital register CSV](data/capital-projects.csv) · [corridor GeoJSON](data/vision-corridors.geojson).
 
 If your in-app file preview restricts downloads, use the separately supplied PDF/CSV files, or download the HTML and open it in a browser.
 
@@ -80,14 +82,20 @@ Fonts: DM Sans and Instrument Serif, distributed under the SIL Open Font License
 
 The workspace also contains modular source files (`app.html`, `style.css`, `app.js`), Python data/cartography/briefing scripts, and the intermediate audit datasets. These are not required to view or share the finished HTML. Explanatory project and selected-corridor copy is maintained separately in `content/editorial.json`; `scripts/editorial.py` restricts edits to independent narrative fields. The original appendix register is not copy-edited.
 
-To rebuild the HTML and PDF from the already processed data:
+### Portable development and release
+
+Requirements: Python 3.10+ and Node.js 20+ (CI uses Node 22 / Python 3.12). From the repository root:
 
 ```sh
 python -m pip install -r requirements.txt
-python scripts/editorial.py
-python scripts/make_briefing.py
-python scripts/assemble.py
+npm ci
+npx playwright install chromium
+npm run build          # briefing + self-contained atlas + Pages index.html
+npm test               # data validation and desktop/mobile browser journeys
+npm run preview        # http://localhost:3000 (serves index.html when built)
 ```
+
+The Pages workflow builds and tests `index.html` as served from the site root before publishing the artifact. The atlas embeds its data, fonts, and briefing, and uses no root-relative application assets, so it works at the repository project-site path as well as offline. GitHub Pages must be configured to deploy with **GitHub Actions** (Settings → Pages → Build and deployment → Source).
 
 To re-create the network geometry from the local reference inputs, run `scripts/build_network.py`, `scripts/build_geography.py`, and `scripts/build_projects.py` first. The local Natural Earth input files are clipped to the study region to avoid shipping global data. `scripts/build_relief.py` downloads elevation tiles and fonts if needed.
 
