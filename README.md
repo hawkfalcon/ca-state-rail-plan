@@ -1,114 +1,80 @@
 # California, Connected
-## A geographic, frequency-first atlas of the 2024 California State Rail Plan
+## A geographic atlas of the 2024 California State Rail Plan
 
-**Start here:** Open `California-Rail-Atlas.html` in a modern browser, or visit the GitHub Pages site. No API key, internet connection or web server is required for the atlas itself. The source-document links need internet access.
+The 2024 plan describes a statewide rail network in three planning horizons. This atlas puts those service goals on a map and lets readers follow a corridor from its proposed frequency to the projects and operating decisions it may require. It is an independent reading of the plan, not a Caltrans publication or a record of current service.
 
-This independent visualization is designed for elected officials and staff: understand the statewide service vision, inspect a corridor, and connect its service goals to the decisions and investments needed to implement it.
+Open `California-Rail-Atlas.html` in a modern browser to use the atlas offline. The GitHub Pages build serves the same self-contained file as `index.html`. The atlas embeds its fonts, data and briefing; links to the source documents require an internet connection.
 
-## Deliverables
+## Files and downloads
 
-- **`California-Rail-Atlas.html`** — the complete, self-contained interactive atlas, including the embedded briefing PDF and downloadable datasets. The Pages build publishes the same file as `index.html`.
-- **`California-Rail-Electeds-Briefing.pdf`** — a four-page, US Letter briefing: geographic vision, frequency comparison, high-leverage dependencies and an elected-official agenda.
-- **`data/service-goals.csv`** — 210 service-goal records: 70 corridor/service layers × three planning horizons.
-- **`data/long-distance-baseline.csv`** — four existing Amtrak routes and inventory frequencies from Appendix 3.1, explicitly separate from future service goals.
-- **`data/capital-projects.csv`** — 180 capital, grade-separation and fleet entries transcribed from Appendix 2.1–2.3, with source-page links.
-- **`data/vision-corridors.geojson`** — generalized geographic corridor lines with source, goal/baseline classification, service-goal and existing-inventory metadata. Not engineering or navigation data. Alternate horizon-specific bus extents are held in the atlas's underlying network data.
-- **[`California-Rail-Atlas-Package.zip`](California-Rail-Atlas-Package.zip)** — a portable bundle of the atlas, briefing, shareable data, this guide and attribution/license notices.
+The main deliverable is the interactive atlas. The companion files are available here and in the download package:
 
-Downloads: [briefing PDF](California-Rail-Electeds-Briefing.pdf) · [service goals CSV](data/service-goals.csv) · [existing Amtrak baseline CSV](data/long-distance-baseline.csv) · [capital register CSV](data/capital-projects.csv) · [corridor GeoJSON](data/vision-corridors.geojson).
+- [Four-page elected-official briefing (PDF)](California-Rail-Electeds-Briefing.pdf)
+- [Service goals (CSV)](data/service-goals.csv) — 210 records: 70 corridor/service layers across the 2028, 2034 and 2050 horizons.
+- [Existing long-distance Amtrak service (CSV)](data/long-distance-baseline.csv) — the four routes listed in Appendix 3.1. This inventory is separate from the proposed service goals.
+- [Capital register (CSV)](data/capital-projects.csv) — 180 entries transcribed from Appendices 2.1–2.3, with source-page links.
+- [Generalized corridor lines (GeoJSON)](data/vision-corridors.geojson) — includes source references and distinguishes planning goals from existing-service inventory. It is not engineering or navigation data; horizon-specific bus extents are in the atlas data.
+- [`California-Rail-Atlas-Package.zip`](California-Rail-Atlas-Package.zip) — atlas, briefing, data, this guide and attribution/license notices.
 
-If your in-app file preview restricts downloads, use the separately supplied PDF/CSV files, or download the HTML and open it in a browser.
+The atlas can also download its current map as SVG and export service, inventory and capital-register data. If a file preview blocks downloads, save the HTML file and open it in a browser.
 
-## Suggested first five minutes
+## Getting around
 
-1. Choose **“A six-part guide to the plan.”** The tour explains the network and finishes in Implementation.
-2. Toggle **2028 / 2034 / 2050** to see how service goals change.
-3. Keep **Frequency** selected to see how often the service is envisioned; switch to **Rail family** to distinguish high-speed/blended, intercity and regional roles.
-4. Choose a regional view, search for a city, or click a corridor. Each corridor has a frequency, source, qualifications, implementation notes and related projects.
-5. Visit **Implementation** for the phased program, role-specific actions and searchable capital register.
+Start with **A six-part guide to the plan** if you want an introduction. Otherwise, choose a horizon, search for a place or corridor, or use the regional buttons to move around the map. Select a line to see its frequency, source, qualifications and implementation notes. The **Implementation** view brings together the plan’s phased program, role-specific questions and searchable capital register. **Sources** collects the source material and cartographic notes.
 
-### Map controls
+A few useful controls:
 
-- Drag to pan; scroll to zoom. `+` and `−` zoom; the home button returns to the statewide view.
-- The layers button controls service families, integrated buses, the gray **Amtrak long-distance** baseline (on by default), 25 delivery-priority markers, physical rail/freight context, counties, terrain and frequency labels.
-- The map download button exports the current view as SVG.
-- `/` opens search. Common abbreviations such as SLO, LA and SF are supported, and search includes all 180 capital entries as well as mapped places, routes and selected projects.
-- `Esc` closes the active search or layer menu first, then the mobile detail sheet; it does not clear the selected route while closing a menu. With no overlay open, it clears a selection. With the map focused, arrow keys pan and `Home` resets.
-- On phones, **Show map** closes the detail sheet without losing the selection. The Sources section remains available in the navigation.
-- Role buttons in Implementation show only the relevant questions. Shared URLs restore the chosen page, horizon, and supported map region/color or capital entry.
-- The **Corridor index** provides a keyboard-readable text alternative to selecting map lines.
+- Drag to pan; scroll, `+` and `−` to zoom; use the home button to return statewide.
+- The layers menu includes service families, integrated buses, the gray Amtrak long-distance inventory (on by default), delivery-priority markers, physical rail context, counties, terrain and frequency labels.
+- Press `/` to search. Search recognizes common abbreviations, including SLO, LA and SF, and covers mapped places, routes, projects and all 180 capital entries. Use the arrow keys and Enter to select a result.
+- Press `Esc` to close the active menu or search. With no overlay open, it clears the selection. With the map focused, the arrow keys pan and `Home` resets the view.
+- On a phone, **Show map** closes the details sheet without clearing the selected corridor. Sources stays available in the navigation.
+- The **Corridor index** is a text alternative to selecting lines on the map. Shared links restore supported views, horizons, colors and capital-register entries.
 
-## Read it correctly
+## How to read the map
 
-**This is a 2024-plan interpretation, not a live 2026 status tracker.** The underlying plan is dated December 2024 and was released January 7, 2025. Later annual reports and project announcements are not mixed into its service vision. Prepared October 2026.
+This is an interpretation of the **2024 California State Rail Plan**, dated December 2024 and released January 7, 2025. It is not a live service or funding tracker. Later reports and project announcements have not been folded into the plan’s service vision. Prepared October 2026.
 
-- **Horizon ≠ promised opening date.** 2028, 2034 and 2050 are the main plan's planning horizons.
-- **Line ≠ funding commitment.** Existing rail geography does not prove the future service, capacity or funding is secured.
-- **Dashed ≠ simply “unbuilt.”** Dashed lines denote conceptual/generalized geometry. Solid lines follow generalized physical rail corridors, including corridors proposed to carry new service.
-- **Frequency ≠ timetable.** Targets are strategic service goals, usually per direction, not a promise at every station or between every pair of cities. Daily, limited, seasonal and qualitative goals are not converted into invented headways.
-- **Visual hierarchy separates targets from context.** Limited/other and existing long-distance rail use fine strokes, below the 240-minute band’s weight—not an invented numeric frequency. Buses are gray and dotted in both color modes.
-- **Overlapping layers are not automatically additive.** A regional and intercity layer may not be evenly spaced or stop at the same places. Explicit combined corridor goals are identified in the inspector.
-- **Scope is selective and strategic.** There are 70 strategic goal layers, four existing Amtrak routes and 97 city/hub anchors, not every station or local bus. Urban transit is summarized through hub connections. Gray routes retain the 2024 Appendix 3.1 inventory: Coast Starlight, California Zephyr and Southwest Chief daily round trips; Sunset Limited three days per week. This baseline remains visible with every horizon, but is not a future-service pledge or a live timetable. Daily trains are not converted to regular headways. Physical rail context is not a freight-volume or active-passenger-service map.
-- **Costs are planning figures.** Appendix costs are not current estimates, appropriations or remaining funding gaps. Package/component costs may overlap. The separate Section 130 inventory in Appendix 2.4 is not part of the 180-row register.
-- **Actions are a synthesis.** Elected-official asks and project dependency interpretations are grounded in the plan, but are not verbatim agency directives or an official Caltrans endorsement.
+The three map horizons—2028, 2034 and 2050—are planning horizons, not promised opening dates. A line on the map does not establish that a service is funded, or that the necessary capacity is in place. Solid lines follow generalized physical rail corridors; dashed lines indicate conceptual or generalized geometry. Neither style is a construction-status key.
 
-### A visible source discrepancy
+Frequencies are strategic goals, usually expressed per direction. They do not promise a train at every station or a particular timetable. Daily, seasonal, limited and qualitative services are left in those terms rather than converted to invented headways. Where regional and intercity layers overlap, their frequencies should not be added unless the plan gives a combined corridor goal: stops and departure times may differ.
 
-For **Santa Barbara–Los Angeles in 2050**, Table 1 (p. 38) describes coordinated hourly regional/intercity service. The narrative (p. 34) describes combined half-hourly service. The atlas uses **60 minutes from the table**, flags it with an asterisk, and preserves the discrepancy. Implementation planning should resolve it.
+The map includes 70 strategic goal layers, four Amtrak routes from the existing-service inventory, and 97 city and hub anchors. It is not a complete station list or a local-bus map. Urban transit appears through hub connections. Physical rail context is not a map of freight volume or active passenger service. Closely parallel services may be offset slightly to remain visible.
 
-The plan's capital-program headline is **$307B**. The rounded appendix summary categories total about **$307.7B**. Neither figure is presented as money already secured.
+The gray Amtrak routes show the inventory in Appendix 3.1: daily round trips for the Coast Starlight, California Zephyr and Southwest Chief, and three days per week for the Sunset Limited. They remain visible across horizons for context; they are neither future service promises nor live timetable information. Daily trains are not translated into regular headways. Their fine gray strokes distinguish this inventory from the proposed frequency bands. Buses are gray and dotted in both color modes; limited and other services use fine strokes rather than an invented frequency.
 
-## Sources and cartography
+Costs are planning figures, not current estimates, appropriations or remaining funding gaps; package and component costs may overlap. The plan gives a $307 billion capital-program headline, while its rounded appendix categories add to about $307.7 billion. Neither figure is money already secured. The 180-entry register does not include the separate Section 130 inventory in Appendix 2.4. The elected-official questions and project dependencies are an interpretation of the plan, not verbatim agency directives or a Caltrans endorsement.
 
-Primary sources:
+### One discrepancy the map does not resolve
 
-1. [2024 California State Rail Plan](https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf): service tables pp. 37–38; service maps pp. 30–36; network principles pp. 15–20; implementation pp. 50–59.
-2. [2024 appendices](https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/20241203-appendices-a11y.pdf): Appendix 2.1–2.3 for the digitized capital register; Appendix 3.1 (PDF pp. 23–24) for the four existing long-distance Amtrak services.
-3. [Official plan and annual-report page](https://dot.ca.gov/programs/rail/california-state-rail-plan): publication context and the place to check later progress.
+For Santa Barbara–Los Angeles in 2050, Table 1 (p. 38) describes coordinated hourly regional and intercity service; the narrative (p. 34) describes combined half-hourly service. The atlas follows the table’s 60-minute figure, marks it with an asterisk and notes the conflict. Service planning will need to resolve it.
 
-Geography:
 
-- California Albers, **EPSG:3310**. Geographic coordinates are reprojected for a statewide map; cities, coastlines and reference rail corridors are not rearranged into a schematic.
-- [Caltrans California Rail Network GIS](https://caltrans-gis.dot.ca.gov/arcgis/rest/services/CHrailroad/California_Rail_Network/FeatureServer/0): existing physical corridor reference. Its historic service attributes are used to identify alignments, not as a live timetable.
-- [Caltrans California Rail Stations GIS](https://caltrans-gis.dot.ca.gov/arcgis/rest/services/CHrailroad/California_Rail_Stations/FeatureServer/0): geographic reference for selected existing anchors. Proposed city/hub anchors remain approximate.
-- Natural Earth: state/shoreline and lake geography (public domain).
-- US Atlas: Census-derived cartographic county boundaries.
-- Mapzen / Tilezen Terrain Tiles, AWS Open Data: terrain relief, reprojected and embedded for offline use. Relief is contextual and not an engineering elevation model.
-- New corridors, tunnels, future alternatives and generalized interstate/bus links are explicitly distinguished from reference rail geometry. Close parallel services may be cartographically offset for legibility.
+## Sources and mapmaking
 
-Fonts: DM Sans and Instrument Serif, distributed under the SIL Open Font License. Full notices are in `licenses/` and embedded as a comment in the standalone HTML.
+The main references are the [2024 California State Rail Plan](https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/2024-ca-state-rail-plan-a11y.pdf) (service tables pp. 37–38; maps pp. 30–36; network principles pp. 15–20; implementation pp. 50–59) and its [appendices](https://dot.ca.gov/-/media/dot-media/programs/rail-mass-transportation/documents/california-state-rail-plan/20241203-appendices-a11y.pdf) (capital register, Appendices 2.1–2.3; existing-service inventory, Appendix 3.1, PDF pp. 23–24). See the [official plan and annual-report page](https://dot.ca.gov/programs/rail/california-state-rail-plan) for publication context and later progress reports.
 
-## Source files and rebuilding
+The map uses California Albers (EPSG:3310). The Caltrans [rail network GIS](https://caltrans-gis.dot.ca.gov/arcgis/rest/services/CHrailroad/California_Rail_Network/FeatureServer/0) and [station GIS](https://caltrans-gis.dot.ca.gov/arcgis/rest/services/CHrailroad/California_Rail_Stations/FeatureServer/0) supply references for physical corridors and selected existing anchors; historic service attributes are not treated as a current timetable. Natural Earth supplies state, shoreline and lake geography; US Atlas supplies Census-derived county boundaries. Terrain relief comes from Mapzen/Tilezen Terrain Tiles hosted by AWS Open Data. It is contextual, not an engineering elevation model. Proposed corridors, tunnels, alternatives and bus links are distinguished from reference rail geography; proposed city and hub locations are approximate.
 
-The workspace also contains modular source files (`app.html`, `style.css`, `app.js`), Python data/cartography/briefing scripts, and the intermediate audit datasets. These are not required to view or share the finished HTML. Explanatory project and selected-corridor copy is maintained separately in `content/editorial.json`; `scripts/editorial.py` restricts edits to independent narrative fields. The original appendix register is not copy-edited.
+DM Sans and Instrument Serif are distributed under the SIL Open Font License. The notices are in `licenses/` and embedded in the standalone HTML. See [`ATTRIBUTION.md`](ATTRIBUTION.md) for the full attribution record.
 
-### Portable development and release
+## Build and test
 
-Requirements: Python 3.10+ and Node.js 20+ (CI uses Node 22 / Python 3.12). From the repository root:
+The modular source is in `app.html`, `style.css` and `app.js`; explanatory project and corridor copy is in `content/editorial.json`. The capital-register wording is transcribed from the appendices and is not copy-edited. Python scripts prepare data and the briefing, then assemble the self-contained atlas.
+
+Requirements: Python 3.10+ and Node.js 20+ (the workflow uses Python 3.12 and Node 22). From the repository root:
 
 ```sh
 python -m pip install -r requirements.txt
 npm ci
 npx playwright install chromium
-npm run build          # briefing + self-contained atlas + Pages index.html
-npm test               # data validation and desktop/mobile browser journeys
-npm run preview        # http://localhost:3000 (serves index.html when built)
+npm run build
+npm test
+npm run preview
 ```
 
-The Pages workflow builds and tests `index.html` as served from the site root before publishing the artifact. The atlas embeds its data, fonts, and briefing, and uses no root-relative application assets, so it works at the repository project-site path as well as offline. A repository administrator must first enable GitHub Pages in **Settings → Pages** and set **Build and deployment → Source** to **GitHub Actions**. The workflow cannot enable Pages itself with its restricted `GITHUB_TOKEN`; once enabled, merge to `main` or run the workflow manually to publish.
+`npm run build` regenerates the briefing and atlas, then writes `index.html` for Pages. `npm test` runs data validation and the desktop/mobile browser checks. `npm run preview` serves the built atlas at `http://localhost:3000`.
 
-To re-create the network geometry from the local reference inputs, run `scripts/build_network.py`, `scripts/build_geography.py`, and `scripts/build_projects.py` first. The local Natural Earth input files are clipped to the study region to avoid shipping global data. `scripts/build_relief.py` downloads elevation tiles and fonts if needed.
+To regenerate network geometry from the local reference inputs, run `scripts/build_network.py`, `scripts/build_geography.py` and `scripts/build_projects.py` first. `scripts/build_relief.py` downloads elevation tiles and fonts when needed. The local Natural Earth inputs are clipped to the study region.
 
-Optional local preview:
-
-```sh
-python server.py
-```
-
-The server binds to `0.0.0.0:3000`. The HTML remains fully self-contained and does not use the server for any API calls.
-
-## Quality checks
-
-Automated browser checks cover the three horizons, regional views, rail-family colors, service/layer filters, search, the source-discrepancy card, the corridor index, the complete six-step tour, capital register search/filter/sort/expansion, role lenses, CSV/PDF/SVG downloads, map expansion, mobile layout and offline rendering. Data checks cover unique identifiers, source links, complete horizon records and finite geometries. These checks do not substitute for agency review of future operating or engineering plans.
-
-The atlas explains the proposed service and the decisions needed to provide it. Its estimates, horizons and generalized geography should be checked against project-level studies before being used for delivery decisions.
+A repository administrator must enable Pages in **Settings → Pages** and choose **GitHub Actions** as the source. The workflow cannot create the Pages site with its restricted `GITHUB_TOKEN`. Once Pages is enabled, a push to `main` builds, tests and deploys the site. The atlas should still be checked against project-level studies before being used for operating, engineering or delivery decisions.
