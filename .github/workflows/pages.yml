@@ -40,11 +40,9 @@ jobs:
           cp index.html California-Rail-Electeds-Briefing.pdf California-Rail-Atlas-Package.zip README.md ATTRIBUTION.md _site/
           cp data/service-goals.csv data/long-distance-baseline.csv data/capital-projects.csv data/vision-corridors.geojson _site/data/
           cp licenses/*.txt _site/licenses/
-          touch _site/.nojekyll
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
-          include-hidden-files: true
   deploy:
     if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
     needs: test-build
@@ -55,7 +53,5 @@ jobs:
     steps:
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
-        with:
-          enablement: true
       - id: deployment
         uses: actions/deploy-pages@v4
