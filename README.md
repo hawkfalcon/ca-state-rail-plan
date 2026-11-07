@@ -95,7 +95,7 @@ npm test               # data validation and desktop/mobile browser journeys
 npm run preview        # http://localhost:3000 (serves index.html when built)
 ```
 
-The Pages workflow builds and tests `index.html` as served from the site root before publishing the artifact. The atlas embeds its data, fonts, and briefing, and uses no root-relative application assets, so it works at the repository project-site path as well as offline. GitHub Pages must be configured to deploy with **GitHub Actions** (Settings → Pages → Build and deployment → Source).
+The Pages workflow builds and tests `index.html` as served from the site root before publishing the artifact. The atlas embeds its data, fonts, and briefing, and uses no root-relative application assets, so it works at the repository project-site path as well as offline. A repository administrator must first enable GitHub Pages in **Settings → Pages** and set **Build and deployment → Source** to **GitHub Actions**. The workflow cannot enable Pages itself with its restricted `GITHUB_TOKEN`; once enabled, merge to `main` or run the workflow manually to publish.
 
 To re-create the network geometry from the local reference inputs, run `scripts/build_network.py`, `scripts/build_geography.py`, and `scripts/build_projects.py` first. The local Natural Earth input files are clipped to the study region to avoid shipping global data. `scripts/build_relief.py` downloads elevation tiles and fonts if needed.
 
