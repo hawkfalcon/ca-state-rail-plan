@@ -3,7 +3,7 @@
 
 The 2024 plan describes a statewide rail network in three planning horizons. This atlas puts those service goals on a map and lets readers follow a corridor from its proposed frequency to the projects and operating decisions it may require. It is an independent reading of the plan, not a Caltrans publication or a record of current service.
 
-Open `California-Rail-Atlas.html` in a modern browser to use the atlas offline. The GitHub Pages build serves the same self-contained file as `index.html`. The atlas embeds its fonts, data and briefing; links to the source documents require an internet connection.
+Open `California-Rail-Atlas.html` or `index.html` in a modern browser to use the atlas offline. They are the same self-contained file; `index.html` is the entry point served by GitHub Pages from the root of `main`. The atlas embeds its fonts, data and briefing; links to source documents require an internet connection.
 
 ## Files and downloads
 
@@ -73,8 +73,8 @@ npm test
 npm run preview
 ```
 
-`npm run build` regenerates the briefing and atlas, then writes `index.html` for Pages. `npm test` runs data validation and the desktop/mobile browser checks. `npm run preview` serves the built atlas at `http://localhost:3000`.
+`npm run build` regenerates the briefing and atlas, then refreshes `index.html`. Commit both HTML files when publishing a change; GitHub Pages serves the committed `index.html` from the root of `main`. `npm test` runs data validation and the desktop/mobile browser checks. `npm run preview` serves the built atlas at `http://localhost:3000`.
 
 To regenerate network geometry from the local reference inputs, run `scripts/build_network.py`, `scripts/build_geography.py` and `scripts/build_projects.py` first. `scripts/build_relief.py` downloads elevation tiles and fonts when needed. The local Natural Earth inputs are clipped to the study region.
 
-A repository administrator must enable Pages in **Settings → Pages** and choose **GitHub Actions** as the source. The workflow cannot create the Pages site with its restricted `GITHUB_TOKEN`. Once Pages is enabled, a push to `main` builds, tests and deploys the site. The atlas should still be checked against project-level studies before being used for operating, engineering or delivery decisions.
+Pages is configured to publish from the root of `main` (**Settings → Pages → Deploy from a branch**). GitHub publishes the committed `index.html`; the Actions workflow separately rebuilds the atlas and runs data and browser checks on pushes and pull requests. The atlas should still be checked against project-level studies before being used for operating, engineering or delivery decisions.

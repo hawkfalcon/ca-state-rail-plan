@@ -1,4 +1,4 @@
-name: Validate and deploy Pages
+name: Validate Atlas
 on:
   push:
     branches: [main]
@@ -6,10 +6,8 @@ on:
   workflow_dispatch:
 permissions:
   contents: read
-  pages: write
-  id-token: write
 concurrency:
-  group: pages-${{ github.ref }}
+  group: validate-${{ github.ref }}
   cancel-in-progress: true
 jobs:
   test-build:
@@ -29,29 +27,8 @@ jobs:
       - run: npx playwright install --with-deps chromium
       - run: npm run build
       - run: python scripts/validate_data.py
-      - name: Serve built published artifact
+      - name: Serve the built Pages entry point
         run: python server.py > /tmp/atlas-server.log 2>&1 &
-      - name: Wait for artifact server
+      - name: Wait for local preview
         run: npx wait-on http://127.0.0.1:3000/
       - run: npm run test:browser
-      - name: Assemble minimal public site
-        run: |
-          mkdir -p _site/data _site/licenses
-          cp index.html California-Rail-Electeds-Briefing.pdf California-Rail-Atlas-Package.zip README.md ATTRIBUTION.md _site/
-          cp data/service-goals.csv data/long-distance-baseline.csv data/capital-projects.csv data/vision-corridors.geojson _site/data/
-          cp licenses/*.txt _site/licenses/
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: _site
-  deploy:
-    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
-    needs: test-build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Configure GitHub Pages
-        uses: actions/configure-pages@v5
-      - id: deployment
-        uses: actions/deploy-pages@v4
